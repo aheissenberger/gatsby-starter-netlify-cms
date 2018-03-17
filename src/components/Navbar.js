@@ -7,7 +7,7 @@ import logo from "../img/logo.png";
 const Navbar = () => (
   <header className="header">
     <div className="container">
-      <nav className="navbar navbar-toggleable-md">
+      <nav className="navbar navbar-expand-lg">
         <Link className="navbar-brand" to="/">
           <img src={logo} alt="Logo" />
         </Link>
