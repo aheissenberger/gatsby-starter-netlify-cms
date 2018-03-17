@@ -18,7 +18,7 @@ facts:
       to the next level by utilizing the most efficient technology, supported by
       our experienced team and partners.
     heading: Experiance 2
-    image: /img/chart.png
+    image: /img/invest.png
     subheading: A team of high-class investors and advisors.
 ---
 
