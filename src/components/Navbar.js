@@ -1,41 +1,90 @@
-import React from 'react'
-import Link from 'gatsby-link'
+import React from "react";
+import Link from "gatsby-link";
 
-import github from '../img/github-icon.svg'
-import logo from '../img/logo.svg'
+
+import logo from "../img/logo.png";
 
 const Navbar = () => (
-  <nav className="navbar is-transparent">
+  <header className="header">
     <div className="container">
-      <div className="navbar-brand">
-        <Link to="/" className="navbar-item">
-          <figure className="image">
-            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
-          </figure>
+      <nav className="navbar navbar-toggleable-md">
+        <Link className="navbar-brand" to="#">
+          <img src={logo} alt="Logo" />
         </Link>
-      </div>
-      <div className="navbar-start">
-        <Link className="navbar-item" to="/about">
-          About
-        </Link>
-        <Link className="navbar-item" to="/products">
-          Products
-        </Link>
-      </div>
-      <div className="navbar-end">
         <a
-          className="navbar-item"
-          href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <span className="icon">
-            <img src={github} alt="Github" />
-          </span>
-        </a>
-      </div>
+          className="navbar-toggler"
+          data-toggle="collapse"
+          data-target="#navbarsExampleContainer"
+          aria-controls="navbarsExampleContainer"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        />
+        <div className="collapse navbar-collapse" id="navbarsExampleContainer">
+          <ul className="navbar-nav">
+            <li className="nav-item active">
+              <Link
+                className="nav-link"
+                to="#about"
+                data-id="about"
+              >
+                About Us
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link
+                className="nav-link"
+                href="#solution"
+                data-id="solution"
+              >
+                Solution
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link
+                className="nav-link"
+                to="#token-wrap"
+                data-id="token-wrap"
+              >
+                Token
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link
+                className="nav-link"
+                to="#ico-team"
+                data-id="ico-team"
+              >
+                ICO Team
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link className="nav-link" to="#">
+                Contact
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link className="nav-link" to="/blog">
+                Blog
+              </Link>
+            </li>
+          </ul>
+          <div className="textwidget custom-html-widget">
+            <div className="header-btn">
+              <button className="btn btn-default">White Paper</button>
+              <button className="btn btn-primary">
+                Apply for Private Sale
+              </button>
+            </div>
+            <div className="papper-plain">
+              <Link>
+                <i className="fa fa-paper-plane" aria-hidden="true" />
+              </Link>
+            </div>
+          </div>
+        </div>
+      </nav>
     </div>
-  </nav>
-)
+  </header>
+);
 
-export default Navbar
+export default Navbar;
