@@ -10,7 +10,7 @@ const Hero = ({  }) => (
         <p>Professionalizing the alternative financing market by enabling a secure infrastructure for company investments
           on the blockchain.</p>
         <div className="progress-block">
-          <img src="./wp site_files/progress.png" alt="progress" />
+          <img src={progressImage} alt="progress" />
         </div>
         {/* <p>endin</p> */}
         <div className="time-block"><div className="days"><span>27</span><span>Days</span></div><div className="hours"><span>7</span><span>hours</span></div><div className="minutes"><span>55</span><span>minutes</span></div><div className="seconds"><span>10</span><span>seconds</span></div></div>
