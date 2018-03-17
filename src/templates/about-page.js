@@ -1,10 +1,8 @@
-import React from 'react'
-import Content, { HTMLContent } from '../components/Content'
+import React from "react";
+import Content, { HTMLContent } from "../components/Content";
+import AboutExperianceContent from "../components/AboutExperianceContent";
 
-
-export const AboutPageTemplate = ({ title, title1, title2, content, contentComponent }) => {
-  const PageContent = contentComponent || Content
-
+export const AboutPageTemplate = ({ title, title1, title2, facts }) => {
   return (
     <section id="about" className="about">
       <div className="crowdfinancing">
@@ -14,108 +12,16 @@ export const AboutPageTemplate = ({ title, title1, title2, content, contentCompo
               <h2>{title1}</h2>
               <h1>{title2}</h1>
             </div>
-            <div className="row">
-              <div className="col-sm-12 col-md-6 col-lg-6">
-                <div className="chart-img text-center">
-                  <img src="../img/chart.png" alt="chart" />
-                </div>
-              </div>
-              <div className="col-sm-12 col-md-6 col-lg-6">
-                <div className="about-content">
-                  <h2>Experience</h2>
-                  <p className="light">
-                    A team of high-class investors and advisors.
-                  </p>
-                  <p>
-                    CONDA launched its crowdinvesting platform in 2013. The
-                    blockchain infrastructure presented is the logical step for
-                    bringing crowdfinancing to the next level by utilizing the
-                    most efficient technology, supported by our experienced team
-                    and partners.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-sm-12 col-md-6 col-lg-6">
-                <div className="about-content">
-                  <h2>Experience</h2>
-                  <p className="light">
-                    A team of high-class investors and advisors.
-                  </p>
-                  <p>
-                    CONDA launched its crowdinvesting platform in 2013. The
-                    blockchain infrastructure presented is the logical step for
-                    bringing crowdfinancing to the next level by utilizing the
-                    most efficient technology, supported by our experienced team
-                    and partners.
-                  </p>
-                </div>
-              </div>
-              <div className="col-sm-12 col-md-6 col-lg-6 text-center">
-                <img src="../img/invest.png" alt="chart" />
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-sm-12 col-md-6 col-lg-6 text-center">
-                <img src="../img/brain.png" alt="chart" />
-              </div>
-              <div className="col-sm-12 col-md-6 col-lg-6">
-                <div className="about-content">
-                  <h2>Experience</h2>
-                  <p className="light">
-                    A team of high-class investors and advisors.
-                  </p>
-                  <p>
-                    CONDA launched its crowdinvesting platform in 2013. The
-                    blockchain infrastructure presented is the logical step for
-                    bringing crowdfinancing to the next level by utilizing the
-                    most efficient technology, supported by our experienced team
-                    and partners.
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-sm-12 col-md-6 col-lg-6">
-                <div className="about-content">
-                  <h2>Experience</h2>
-                  <p className="light">
-                    A team of high-class investors and advisors.
-                  </p>
-                  <p>
-                    CONDA launched its crowdinvesting platform in 2013. The
-                    blockchain infrastructure presented is the logical step for
-                    bringing crowdfinancing to the next level by utilizing the
-                    most efficient technology, supported by our experienced team
-                    and partners.
-                  </p>
-                </div>
-              </div>
-              <div className="col-sm-12 col-md-6 col-lg-6 text-center">
-                <img src="../img/list.jpg" alt="chart" />
-              </div>
-            </div>
-            <div className="row no-border">
-              <div className="col-sm-12 col-md-6 col-lg-6 text-center">
-                <img src="../img/glob.jpg" alt="chart" />
-              </div>
-              <div className="col-sm-12 col-md-6 col-lg-6">
-                <div className="about-content">
-                  <h2>Experience</h2>
-                  <p className="light">
-                    A team of high-class investors and advisors.
-                  </p>
-                  <p>
-                    CONDA launched its crowdinvesting platform in 2013. The
-                    blockchain infrastructure presented is the logical step for
-                    bringing crowdfinancing to the next level by utilizing the
-                    most efficient technology, supported by our experienced team
-                    and partners.
-                  </p>
-                </div>
-              </div>
-            </div>
+
+            {facts.map(({ heading, subheading, description, image }) => (
+              <AboutExperianceContent
+                heading={heading}
+                subheading={subheading}
+                description={description}
+                image={image}
+              />
+            ))}
+
             <div className="button-pane">
               <div className="btn-inner">
                 <button className="btn btn-primary">
@@ -204,32 +110,41 @@ export const AboutPageTemplate = ({ title, title1, title2, content, contentCompo
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
 export default ({ data }) => {
-  const { markdownRemark: post } = data
-
+  const { markdownRemark: post } = data;
   return (
     <AboutPageTemplate
-      contentComponent={HTMLContent}
       title={post.frontmatter.title}
       title1={post.frontmatter.title1}
       title2={post.frontmatter.title2}
-      content={post.html}
+      facts={post.frontmatter.facts}
     />
-  )
-}
+  );
+};
+
+export const aboutPageFragment = graphql`
+  fragment AboutDetails on MarkdownRemark {
+    frontmatter {
+      title
+      title1
+      title2
+      facts {
+        heading
+        subheading
+        description
+        image
+      }
+    }
+  }
+`;
 
 export const aboutPageQuery = graphql`
   query AboutPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
-      html
-      frontmatter {
-        title
-        title1
-        title2
-      }
+      ...AboutDetails
     }
   }
-`
+`;

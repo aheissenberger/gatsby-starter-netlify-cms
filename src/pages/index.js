@@ -1,18 +1,28 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Hero from '../components/Hero';
-import About from '../section/About';
+import { AboutPageTemplate } from '../templates/about-page'
+import { SolutionPageTemplate } from '../templates/solution-page';
 
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
-    const { edges: aboutData }  = data.allMarkdownRemark;
+    const { edges: aboutData }  = data.about;
+    const { edges: solutionData }  = data.solution;
     //const { edges: posts } = data.allMarkdownRemark
 
     return (
       <React.Fragment>
         <Hero />
-        <About data={aboutData[0].node} />
+        <AboutPageTemplate title={aboutData[0].node.frontmatter.title}
+      title1={aboutData[0].node.frontmatter.title1}
+      title2={aboutData[0].node.frontmatter.title2}
+      facts={aboutData[0].node.frontmatter.facts}  />
+      <SolutionPageTemplate 
+        title={solutionData[0].node.title}
+        title1={solutionData[0].node.title1}
+        title2={solutionData[0].node.title2}
+      />
       </React.Fragment>
       // <section className="section">
       //   <div className="container">
@@ -53,18 +63,15 @@ export default class IndexPage extends React.Component {
 export const pageQuery = graphql`
   query IndexQuery {
     
-    allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(\/pages\/about)/.*\\.md$/"}}) {
+    about:allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(\/pages\/about)/.*\\.md$/"}}) {
 
       edges {
         node {
-          frontmatter {
-            title
-            title1
-            title2
-          }
+          ...AboutDetails
         }
       }
     }
+
     
   }
 `

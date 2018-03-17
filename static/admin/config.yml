@@ -27,7 +27,19 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Title Part 1", name: "title1", widget: "string"}
+          - {label: "Title Part 2", name: "title2", widget: "string"}
+          - {label: Facts, name: facts, widget: list, fields: [{label: Heading, name: heading, widget: string},{label: Subeading, name: subheading, widget: string}, {label: Description, name: description, widget: text}, {label: Image, name: image, widget: image}]}
+      - file: "src/pages/solution/index.md"
+        label: "Solution"
+        name: "solution"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Title Part 1", name: "title1", widget: "string"}
+          - {label: "Title Part 2", name: "title2", widget: "string"}
+          - {label: Quote, name: quote, widget: text}
+          - {label: Description, name: description, widget: text}
       - file: "src/pages/products/index.md"
         label: "Products Page"
         name: "products"
