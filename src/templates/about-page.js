@@ -1,6 +1,9 @@
 import React from "react";
 import Content, { HTMLContent } from "../components/Content";
 import AboutExperianceContent from "../components/AboutExperianceContent";
+import quoteImage from '../img/white-quote.png';
+import secgrap1Image from '../img/sec-grap1.png';
+import secgrap2Image from '../img/sec-grap2.png';
 
 export const AboutPageTemplate = ({ title, title1, title2, facts }) => {
   return (
@@ -55,7 +58,7 @@ export const AboutPageTemplate = ({ title, title1, title2, facts }) => {
             </h1>
             <div className="quot-text">
               <span className="quote-icon">
-                <img src="../img/white-quote.png" alt="quote" />
+                <img src={quoteImage} alt="quote" />
               </span>
               <p>
                 "Alternative business funding increased considerably, with
@@ -84,12 +87,12 @@ export const AboutPageTemplate = ({ title, title1, title2, facts }) => {
             <p>* (Cambridge Centre for Alternative finance, 2016)</p>
           </div>
           <div className="first-section-img">
-            <img src="../img/sec-grap1.png" alt="img" />
+            <img src={secgrap1Image} alt="img" />
           </div>
         </div>
         <div className="second-section">
           <div className="section-image">
-            <img src="../img/sec-grap2.png" alt="img" />
+            <img src={secgrap2Image} alt="img" />
           </div>
           <div className="second-section__text">
             <h2>Power of the Crowd:</h2>

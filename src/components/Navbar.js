@@ -8,7 +8,7 @@ const Navbar = () => (
   <header className="header">
     <div className="container">
       <nav className="navbar navbar-toggleable-md">
-        <Link className="navbar-brand" to="#">
+        <Link className="navbar-brand" to="/">
           <img src={logo} alt="Logo" />
         </Link>
         <a
@@ -24,7 +24,7 @@ const Navbar = () => (
             <li className="nav-item active">
               <Link
                 className="nav-link"
-                to="#about"
+                to="/#about"
                 data-id="about"
               >
                 About Us
@@ -42,7 +42,7 @@ const Navbar = () => (
             <li className="nav-item">
               <Link
                 className="nav-link"
-                to="#token-wrap"
+                to="/#token-wrap"
                 data-id="token-wrap"
               >
                 Token
@@ -51,14 +51,14 @@ const Navbar = () => (
             <li className="nav-item">
               <Link
                 className="nav-link"
-                to="#ico-team"
+                to="/#ico-team"
                 data-id="ico-team"
               >
                 ICO Team
               </Link>
             </li>
             <li className="nav-item">
-              <Link className="nav-link" to="#">
+              <Link className="nav-link" to="/#">
                 Contact
               </Link>
             </li>

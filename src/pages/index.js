@@ -19,9 +19,10 @@ export default class IndexPage extends React.Component {
       title2={aboutData[0].node.frontmatter.title2}
       facts={aboutData[0].node.frontmatter.facts}  />
       <SolutionPageTemplate 
-        title={solutionData[0].node.title}
-        title1={solutionData[0].node.title1}
-        title2={solutionData[0].node.title2}
+        title1={solutionData[0].node.frontmatter.title1}
+        title2={solutionData[0].node.frontmatter.title2}
+        quote={solutionData[0].node.frontmatter.quote}
+        description={solutionData[0].node.frontmatter.description}
       />
       </React.Fragment>
       // <section className="section">
@@ -68,6 +69,14 @@ export const pageQuery = graphql`
       edges {
         node {
           ...AboutDetails
+        }
+      }
+    }
+    solution:allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(\/pages\/solution)/.*\\.md$/"}}) {
+
+      edges {
+        node {
+          ...SolutionDetails
         }
       }
     }
