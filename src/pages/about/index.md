@@ -20,5 +20,13 @@ facts:
     heading: Experiance 2
     image: /img/invest.png
     subheading: A team of high-class investors and advisors.
+  - description: >-
+      Our mission is to create the financial market of the future. We are
+      building a community-based ecosystem for fast and secure crowdfinancing,
+      based on blockchain technology and combined with traditional forms of
+      financing.
+    heading: Blockchain Technology
+    image: /img/invest.png
+    subheading: 'CONDA ́s goal is to not just to be another crowdinvesting platform. '
 ---
 
