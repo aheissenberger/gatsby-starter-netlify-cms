@@ -10,7 +10,9 @@ import Footer from '../components/Footer';
 
 const TemplateWrapper = ({ children }) => (
   <div className="outer-wrapper">
-    <Helmet title="Home | Gatsby + Netlify CMS" />
+    <Helmet>
+      <title>CRD Toke | CODA ICO</title> 
+    </Helmet>
     <Navbar />
     {children()}  
     <Footer />
