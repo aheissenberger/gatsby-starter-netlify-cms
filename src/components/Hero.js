@@ -1,4 +1,5 @@
 import React from 'react'
+import progressImage from '../img/progress.png'
 
 const Hero = ({  }) => (
     <section className="banner">
