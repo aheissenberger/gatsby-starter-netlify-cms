@@ -35,10 +35,5 @@
   },
   "devDependencies": {
     "prettier": "^1.7.4"
-  },
-  "browserslist": [
-    "> 1%",
-    "IE >= 10",
-    "last 2 versions"
-  ]
+  }
 }
