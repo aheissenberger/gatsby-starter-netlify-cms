@@ -76,9 +76,9 @@ const Navbar = () => (
               </button>
             </div>
             <div className="papper-plain">
-              <Link>
+              <a>
                 <i className="fa fa-paper-plane" aria-hidden="true" />
-              </Link>
+              </a>
             </div>
           </div>
         </div>
