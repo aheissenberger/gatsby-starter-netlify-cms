@@ -15,7 +15,7 @@ jQuery(document).ready(function($) {
     $(document).on("scroll", onScroll);
 
     //smoothscroll
-    $('a[href^="#"]').on('click', function(e) {
+    $('a[href^="/#"]').on('click', function(e) {
         e.preventDefault();
         $(document).off("scroll");
 
@@ -50,7 +50,7 @@ function onScroll(event) {
     });
 }
 
-
+pre_sale_end="Apr 13, 2018 03:30:00";
 // Set the date we're counting down to
 var countDownDate = new Date(pre_sale_end).getTime();
 

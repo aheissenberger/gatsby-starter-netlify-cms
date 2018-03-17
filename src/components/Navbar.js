@@ -33,7 +33,7 @@ const Navbar = () => (
             <li className="nav-item">
               <Link
                 className="nav-link"
-                href="#solution"
+                to="#solution"
                 data-id="solution"
               >
                 Solution

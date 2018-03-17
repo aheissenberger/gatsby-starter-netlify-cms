@@ -18,6 +18,7 @@ export const AboutPageTemplate = ({ title, title1, title2, facts }) => {
 
             {facts.map(({ heading, subheading, description, image }) => (
               <AboutExperianceContent
+                key={heading}
                 heading={heading}
                 subheading={subheading}
                 description={description}
