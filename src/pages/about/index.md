@@ -10,6 +10,7 @@ facts:
       to the next level by utilizing the most efficient technology, supported by
       our experienced team and partners.
     heading: Experiance
+    image: /img/coffee-gear.png
     subheading: A team of high-class investors and advisors.
 ---
 
