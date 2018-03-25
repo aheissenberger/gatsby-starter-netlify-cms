@@ -15,6 +15,7 @@ const AboutSectionPreview = ({ entry, getAsset }) => {
       title1={entry.getIn(["data", "title1"])}
       title2={entry.getIn(["data", "title2"])}
       facts={facts}
+      crowdinvesting={crowdinvesting}
     />
 
     
