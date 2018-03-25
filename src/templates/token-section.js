@@ -130,12 +130,12 @@ export const TokenSectionTemplate = ({
           </div>
           <ReasonGrid reasons={reasonswhy.reasons} />
           <div className="purchase-btn">
-            <div className="btn-item">
+            {/* <div className="btn-item">
               <a href={reasonswhy.buttoncalltoaction.url} className="btn btn-primary">
               {reasonswhy.buttoncalltoaction.label}
               </a>
               <p>{reasonswhy.buttoncalltoaction.info}</p>
-            </div>
+            </div> */}
             <div className="community">
               <h3>Join Our ICO Community</h3>
               <div className="commu-icon">
@@ -243,6 +243,11 @@ export const tokenSectionFragment = graphql`
           icon
           title
           description
+        }
+        buttoncalltoaction {
+          label
+          url
+          info
         }
       }
     }
