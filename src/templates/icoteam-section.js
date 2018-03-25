@@ -3,10 +3,7 @@ import Content, { HTMLContent } from "../components/Content";
 import quoteImage from "../img/quote.png";
 
 export const ICOTeamSectionTemplate = ({
-  title1,
-  title2,
-  quote,
-  description
+
 }) => {
   return (
     <section
@@ -450,28 +447,24 @@ export default ({ data }) => {
   const { markdownRemark: post } = data;
   return (
     <ICOTeamSectionTemplate
-      title={post.frontmatter.title}
-      title1={post.frontmatter.title1}
-      title2={post.frontmatter.title2}
-      quote={post.frontmatter.quote}
-      description={post.frontmatter.description}
+
     />
   );
 };
 
-export const solutionSectionFragment = graphql`
+export const ICOTeamSectionFragment = graphql`
   fragment ICOTeamDetails on MarkdownRemark {
     frontmatter {
-      title
-      title1
-      title2
-      quote
-      description
+      team {
+          members {
+              name
+          }
+      }
     }
   }
 `;
 
-export const solutionSectionQuery = graphql`
+export const ICOTeamSectionQuery = graphql`
   query ICOTeamSection($id: String!) {
     markdownRemark(id: { eq: $id }) {
       ...ICOTeamDetails

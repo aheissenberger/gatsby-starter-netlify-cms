@@ -4,6 +4,7 @@ import Hero from '../components/Hero';
 import { AboutSectionTemplate } from '../templates/about-section'
 import { SolutionSectionTemplate } from '../templates/solution-section';
 import { TokenSectionTemplate } from '../templates/token-section';
+import { ICOTeamSectionTemplate } from '../templates/icoteam-section';
 
 export default class IndexPage extends React.Component {
   render() {
@@ -11,6 +12,7 @@ export default class IndexPage extends React.Component {
     const { edges: aboutData }  = data.about;
     const { edges: solutionData }  = data.solution;
     const { edges: tokenData }  = data.token;
+    const { edges: icoteamData }  = data.icoteam;
     //const { edges: posts } = data.allMarkdownRemark
 
     return (
@@ -35,6 +37,9 @@ export default class IndexPage extends React.Component {
         whitepaper={tokenData[0].node.frontmatter.whitepaper}
         icodetails={tokenData[0].node.frontmatter.icodetails}
         reasonswhy={tokenData[0].node.frontmatter.reasonswhy}
+      />
+      <ICOTeamSectionTemplate 
+
       />
       </React.Fragment>
       
@@ -103,7 +108,14 @@ export const pageQuery = graphql`
         }
       }
     }
+    icoteam:allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(\/sections\/iscoteam)/.*\\.md$/"}}) {
 
+      edges {
+        node {
+          ...ICOTeamDetails
+        }
+      }
+    }
     
   }
 `
