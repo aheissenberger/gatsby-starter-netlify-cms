@@ -29,6 +29,10 @@ icodetails:
     offering, which includes the tokens sold and bonus tokens distributed. After
     the crowdsale, unsold tokens will be burned.
 reasonswhy:
+  buttoncalltoaction:
+    info: '& grab 30% bonus!'
+    label: Apply for Private Sale
+    url: xx
   reasons:
     - icon: xx
       title: Limited Offer
