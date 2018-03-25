@@ -66,7 +66,7 @@ export const solutionSectionFragment = graphql`
   }
 `;
 
-export const aboutPageQuery = graphql`
+export const solutionSectionQuery = graphql`
   query SolutionSection($id: String!) {
     markdownRemark(id: { eq: $id }) {
       ...SolutionDetails

@@ -41,6 +41,19 @@ collections:
           - {label: "Title Part 2", name: "title2", widget: "string"}
           - {label: Quote, name: quote, widget: text}
           - {label: Description, name: description, widget: text}
+      - file: "src/content/sections/token/index.md"
+        label: "Token"
+        name: "token"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "token-section"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Title Part 1", name: "title1", widget: "string"}
+          - {label: "Title Part 2", name: "title2", widget: "string"}
+          - {label: Quote, name: quote, widget: text}
+          - {label: Description, name: description, widget: text}
+          - {label: "White Paper (PDF)", name: whitepaper, widget: file}
+          - {label: ICO Details, name: icodetails, widget: object, fields: [{label: Description, name: description, widget: text},{label: "Button Call to Action", name: buttoncalltoaction, widget: object, fields: [{label: Label, name: label, widget: string},{label: URL, name: url, widget: string},{label: Info, name: info, widget: string}]}]}
+          - {label: "Reasons why", name: reasonswhy, widget: object, fields: [{label: "Reasons", name: reasons, widget: list, fields: [{label: Icon, name: icon, widget: image},{label: Title, name: title, widget: string},{label: Description, name: description, widget: text}]}]}
   - name: "pages"
     label: "Pages"
     files:

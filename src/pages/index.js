@@ -3,12 +3,14 @@ import Link from 'gatsby-link'
 import Hero from '../components/Hero';
 import { AboutSectionTemplate } from '../templates/about-section'
 import { SolutionSectionTemplate } from '../templates/solution-section';
+import { TokenSectionTemplate } from '../templates/token-section';
 
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
     const { edges: aboutData }  = data.about;
     const { edges: solutionData }  = data.solution;
+    const { edges: tokenData }  = data.token;
     //const { edges: posts } = data.allMarkdownRemark
 
     return (
@@ -25,39 +27,17 @@ export default class IndexPage extends React.Component {
         quote={solutionData[0].node.frontmatter.quote}
         description={solutionData[0].node.frontmatter.description}
       />
+      <TokenSectionTemplate 
+        title1={tokenData[0].node.frontmatter.title1}
+        title2={tokenData[0].node.frontmatter.title2}
+        quote={tokenData[0].node.frontmatter.quote}
+        description={tokenData[0].node.frontmatter.description}
+        whitepaper={tokenData[0].node.frontmatter.whitepaper}
+        icodetails={tokenData[0].node.frontmatter.icodetails}
+        reasonswhy={tokenData[0].node.frontmatter.reasonswhy}
+      />
       </React.Fragment>
-      // <section className="section">
-      //   <div className="container">
-      //     <div className="content">
-      //       <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
-      //     </div>
-      //     {posts
-      //       .filter(post => post.node.frontmatter.templateKey === 'blog-post')
-      //       .map(({ node: post }) => (
-      //         <div
-      //           className="content"
-      //           style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
-      //           key={post.id}
-      //         >
-      //           <p>
-      //             <Link className="has-text-primary" to={post.fields.slug}>
-      //               {post.frontmatter.title}
-      //             </Link>
-      //             <span> &bull; </span>
-      //             <small>{post.frontmatter.date}</small>
-      //           </p>
-      //           <p>
-      //             {post.excerpt}
-      //             <br />
-      //             <br />
-      //             <Link className="button is-small" to={post.fields.slug}>
-      //               Keep Reading →
-      //             </Link>
-      //           </p>
-      //         </div>
-      //       ))}
-      //   </div>
-      // </section>
+      
     )
   }
 }
@@ -78,6 +58,14 @@ export const pageQuery = graphql`
       edges {
         node {
           ...SolutionDetails
+        }
+      }
+    }
+    token:allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(\/sections\/token)/.*\\.md$/"}}) {
+
+      edges {
+        node {
+          ...TokenDetails
         }
       }
     }
