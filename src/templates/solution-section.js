@@ -2,7 +2,7 @@ import React from "react";
 import Content, { HTMLContent } from "../components/Content";
 import quoteImage from '../img/quote.png';
 
-export const SolutionPageTemplate = ({ title1, title2, quote, description}) => {
+export const SolutionSectionTemplate = ({ title1, title2, quote, description}) => {
   return (
     <section id="solution" className="solution">
             <div className="container">
@@ -44,7 +44,7 @@ export const SolutionPageTemplate = ({ title1, title2, quote, description}) => {
 export default ({ data }) => {
   const { markdownRemark: post } = data;
   return (
-    <SolutionPageTemplate
+    <SolutionSectionTemplate
       title={post.frontmatter.title}
       title1={post.frontmatter.title1}
       title2={post.frontmatter.title2}
@@ -54,7 +54,7 @@ export default ({ data }) => {
   );
 };
 
-export const solutionPageFragment = graphql`
+export const solutionSectionFragment = graphql`
   fragment SolutionDetails on MarkdownRemark {
     frontmatter {
       title
@@ -67,7 +67,7 @@ export const solutionPageFragment = graphql`
 `;
 
 export const aboutPageQuery = graphql`
-  query SolutionPage($id: String!) {
+  query SolutionSection($id: String!) {
     markdownRemark(id: { eq: $id }) {
       ...SolutionDetails
     }

@@ -8,7 +8,7 @@ public_folder: /img
 collections:
   - name: "blog"
     label: "Blog"
-    folder: "src/pages/blog"
+    folder: "src/content/pages/blog"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
@@ -18,28 +18,31 @@ collections:
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: "pages"
-    label: "Pages"
+  - name: "sections"
+    label: "Sections"
     files:
-      - file: "src/pages/about/index.md"
+      - file: "src/content/sections/about/index.md"
         label: "About"
         name: "about"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-section"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Title Part 1", name: "title1", widget: "string"}
           - {label: "Title Part 2", name: "title2", widget: "string"}
           - {label: Facts, name: facts, widget: list, fields: [{label: Heading, name: heading, widget: string},{label: Subeading, name: subheading, widget: string}, {label: Description, name: description, widget: text}, {label: Image, name: image, widget: image}]}
-      - file: "src/pages/solution/index.md"
+      - file: "src/content/sections/solution/index.md"
         label: "Solution"
         name: "solution"
         fields:
-          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "solution-section"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Title Part 1", name: "title1", widget: "string"}
           - {label: "Title Part 2", name: "title2", widget: "string"}
           - {label: Quote, name: quote, widget: text}
           - {label: Description, name: description, widget: text}
+  - name: "pages"
+    label: "Pages"
+    files:
       - file: "src/pages/products/index.md"
         label: "Products Page"
         name: "products"

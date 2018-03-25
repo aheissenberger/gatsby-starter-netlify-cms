@@ -1,14 +1,14 @@
 import React from "react";
-import { SolutionPageTemplate } from "../../templates/solution-page";
+import { SolutionSectionTemplate } from "../../templates/solution-section";
 
 
 
-const SolutionPagePreview = ({ entry }) => {
+const SolutionSectionPreview = ({ entry }) => {
   
 
   return (
 
-  <SolutionPageTemplate
+  <SolutionSectionTemplate
       title={entry.getIn(["data", "title"])}
       title1={entry.getIn(["data", "title1"])}
       title2={entry.getIn(["data", "title2"])}
@@ -19,4 +19,4 @@ const SolutionPagePreview = ({ entry }) => {
     
 )};
 
-export default SolutionPagePreview;
+export default SolutionSectionPreview;

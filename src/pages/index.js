@@ -1,8 +1,8 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Hero from '../components/Hero';
-import { AboutPageTemplate } from '../templates/about-page'
-import { SolutionPageTemplate } from '../templates/solution-page';
+import { AboutSectionTemplate } from '../templates/about-section'
+import { SolutionSectionTemplate } from '../templates/solution-section';
 
 export default class IndexPage extends React.Component {
   render() {
@@ -14,11 +14,11 @@ export default class IndexPage extends React.Component {
     return (
       <React.Fragment>
         <Hero />
-        <AboutPageTemplate title={aboutData[0].node.frontmatter.title}
+        <AboutSectionTemplate title={aboutData[0].node.frontmatter.title}
       title1={aboutData[0].node.frontmatter.title1}
       title2={aboutData[0].node.frontmatter.title2}
       facts={aboutData[0].node.frontmatter.facts}  />
-      <SolutionPageTemplate 
+      <SolutionSectionTemplate 
         title1={solutionData[0].node.frontmatter.title1}
         title2={solutionData[0].node.frontmatter.title2}
         quote={solutionData[0].node.frontmatter.quote}
@@ -64,7 +64,7 @@ export default class IndexPage extends React.Component {
 export const pageQuery = graphql`
   query IndexQuery {
     
-    about:allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(\/pages\/about)/.*\\.md$/"}}) {
+    about:allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(\/sections\/about)/.*\\.md$/"}}) {
 
       edges {
         node {
@@ -72,7 +72,7 @@ export const pageQuery = graphql`
         }
       }
     }
-    solution:allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(\/pages\/solution)/.*\\.md$/"}}) {
+    solution:allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(\/sections\/solution)/.*\\.md$/"}}) {
 
       edges {
         node {

@@ -5,7 +5,7 @@ import quoteImage from '../img/white-quote.png';
 import secgrap1Image from '../img/sec-grap1.png';
 import secgrap2Image from '../img/sec-grap2.png';
 
-export const AboutPageTemplate = ({ title, title1, title2, facts }) => {
+export const AboutSectionTemplate = ({ title, title1, title2, facts }) => {
   return (
     <section id="about" className="about">
       <div className="crowdfinancing">
@@ -120,7 +120,7 @@ export const AboutPageTemplate = ({ title, title1, title2, facts }) => {
 export default ({ data }) => {
   const { markdownRemark: post } = data;
   return (
-    <AboutPageTemplate
+    <AboutSectionTemplate
       title={post.frontmatter.title}
       title1={post.frontmatter.title1}
       title2={post.frontmatter.title2}
@@ -129,7 +129,7 @@ export default ({ data }) => {
   );
 };
 
-export const aboutPageFragment = graphql`
+export const aboutSectionFragment = graphql`
   fragment AboutDetails on MarkdownRemark {
     frontmatter {
       title
@@ -145,8 +145,8 @@ export const aboutPageFragment = graphql`
   }
 `;
 
-export const aboutPageQuery = graphql`
-  query AboutPage($id: String!) {
+export const aboutSectionQuery = graphql`
+  query AboutSection($id: String!) {
     markdownRemark(id: { eq: $id }) {
       ...AboutDetails
     }

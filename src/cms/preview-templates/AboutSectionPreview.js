@@ -1,16 +1,16 @@
 import React from "react";
-import { AboutPageTemplate } from "../../templates/about-page";
+import { AboutSectionTemplate } from "../../templates/about-section";
 
 
 
-const AboutPagePreview = ({ entry, getAsset }) => {
+const AboutSectionPreview = ({ entry, getAsset }) => {
   
   const entryFacts = entry.getIn(['data', 'facts'])
   const facts = entryFacts ? entryFacts.toJS() : []
 
   return (
 
-  <AboutPageTemplate
+  <AboutSectionTemplate
       title={entry.getIn(["data", "title"])}
       title1={entry.getIn(["data", "title1"])}
       title2={entry.getIn(["data", "title2"])}
@@ -20,4 +20,4 @@ const AboutPagePreview = ({ entry, getAsset }) => {
     
 )};
 
-export default AboutPagePreview;
+export default AboutSectionPreview;
