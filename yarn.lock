@@ -3960,7 +3960,7 @@ gatsby-plugin-react-helmet@^2.0.8:
   dependencies:
     babel-runtime "^6.26.0"
 
-gatsby-plugin-sass@^1.0.23:
+gatsby-plugin-sass@^1.0.24:
   version "1.0.24"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-sass/-/gatsby-plugin-sass-1.0.24.tgz#9024e7e339b51a2a6b14dde977001ecc27c57676"
   dependencies:
@@ -3996,7 +3996,7 @@ gatsby-react-router-scroll@^1.0.14:
     scroll-behavior "^0.9.9"
     warning "^3.0.0"
 
-gatsby-remark-images@^1.5.56:
+gatsby-remark-images@^1.5.59:
   version "1.5.59"
   resolved "https://registry.yarnpkg.com/gatsby-remark-images/-/gatsby-remark-images-1.5.59.tgz#2701f4812698d492a3114b6014bb6c2e120837ff"
   dependencies:
@@ -4058,7 +4058,7 @@ gatsby-transformer-sharp@^1.6.22:
     fs-extra "^4.0.2"
     probe-image-size "^3.2.0"
 
-gatsby@^1.9.236:
+gatsby@^1.9.241:
   version "1.9.241"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.241.tgz#550f04177851c44be3bb235adf8461d5b1d89624"
   dependencies:
@@ -10921,7 +10921,7 @@ unzip-response@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/unzip-response/-/unzip-response-2.0.1.tgz#d2f0f737d16b0615e72a6935ed04214572d56f97"
 
-update-notifier@2.3.0, update-notifier@^2.3.0:
+update-notifier@2.3.0:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/update-notifier/-/update-notifier-2.3.0.tgz#4e8827a6bb915140ab093559d7014e3ebb837451"
   dependencies:
@@ -10929,6 +10929,21 @@ update-notifier@2.3.0, update-notifier@^2.3.0:
     chalk "^2.0.1"
     configstore "^3.0.0"
     import-lazy "^2.1.0"
+    is-installed-globally "^0.1.0"
+    is-npm "^1.0.0"
+    latest-version "^3.0.0"
+    semver-diff "^2.0.0"
+    xdg-basedir "^3.0.0"
+
+update-notifier@^2.3.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/update-notifier/-/update-notifier-2.4.0.tgz#f9b4c700fbfd4ec12c811587258777d563d8c866"
+  dependencies:
+    boxen "^1.2.1"
+    chalk "^2.0.1"
+    configstore "^3.0.0"
+    import-lazy "^2.1.0"
+    is-ci "^1.0.10"
     is-installed-globally "^0.1.0"
     is-npm "^1.0.0"
     latest-version "^3.0.0"
