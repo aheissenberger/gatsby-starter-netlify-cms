@@ -30,13 +30,41 @@ facts:
     subheading: 'CONDA ́s goal is to not just to be another crowdinvesting platform. '
 crowdinvesting:
   firstsection:
+    description: >-
+      In the last couple of years, due to having increasing numbers of
+      innovative and rapidly-growing SMEs, startups and real estate projects,
+      traditional forms of financing are unable to fit the needs of innovative
+      ventures. New and alternative forms of financing are the solution to
+      closing the financial gap, with the most important ones being crowdfunding
+      or crowdinvesting
+
+
+      Back in 2013, CONDA took the first step to closing this financial gap by
+      creating an innovative crowdinvesting platform that connects companies
+      with investors who would help their ideas evolve into profitable business
+      without intermediaries, and by participating in the success of these
+      businesses.
+
+
+      * (Cambridge Centre for Alternative finance, 2016)
+    quote: >-
+      "Alternative business funding increased considerably, with €5,431 million
+      raised for over 9,400 start-ups and SMEs across Europe in 2015 – and
+      research shows that it will grow even more, globally.*"
     title1: Alternative Finance &
     title2: the Future of Crowdinvesting
-    quote: sss
-    description:  dd
   secondsection:
-    title1: tt
-    title2: tt
-    description: xx
+    description: >-
+      The industry for alternative financing is growing rapidly and with it,
+      more different and non-standardized platforms for
+
+
+      ICOs and crowdfinancing are popping up. CONDA believes that the future of
+      financing lies in the power of the crowd. At the moment, the power of the
+      crowd is proving to be on a good path toward fulfilling the existing
+      financing gap, but it is also obvious that it has much more to overcome,
+      such as the lack of decentralization and full-transparency.
+    title1: 'Power of the Crowd:'
+    title2: The Future of Financing
 ---
 
