@@ -55,5 +55,10 @@ reasonswhy:
       description: >-
         All tokens will be issued only during the ICO. There will be no second
         crowdsale and unsold tokens allocated for the crowdsale will be burned.
+foursteps:
+  buttoncalltoaction:
+    info: '& grab 30% bonus!'
+    label: Apply for Private Sale
+    url: xx
 ---
 
