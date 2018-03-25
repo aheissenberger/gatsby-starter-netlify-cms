@@ -28,5 +28,15 @@ facts:
     heading: Blockchain Technology
     image: /img/invest.png
     subheading: 'CONDA ́s goal is to not just to be another crowdinvesting platform. '
+crowdinvesting:
+  firstsection:
+    title1: Alternative Finance &
+    title2: the Future of Crowdinvesting
+    quote: sss
+    description:  dd
+  secondsection:
+    title1: tt
+    title2: tt
+    description: xx
 ---
 

@@ -17,7 +17,8 @@ export default class IndexPage extends React.Component {
         <AboutSectionTemplate title={aboutData[0].node.frontmatter.title}
       title1={aboutData[0].node.frontmatter.title1}
       title2={aboutData[0].node.frontmatter.title2}
-      facts={aboutData[0].node.frontmatter.facts}  />
+      facts={aboutData[0].node.frontmatter.facts}
+      crowdinvesting= {aboutData[0].node.frontmatter.crowdinvesting}  />
       <SolutionSectionTemplate 
         title1={solutionData[0].node.frontmatter.title1}
         title2={solutionData[0].node.frontmatter.title2}

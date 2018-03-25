@@ -5,7 +5,7 @@ import quoteImage from '../img/white-quote.png';
 import secgrap1Image from '../img/sec-grap1.png';
 import secgrap2Image from '../img/sec-grap2.png';
 
-export const AboutSectionTemplate = ({ title, title1, title2, facts }) => {
+export const AboutSectionTemplate = ({ title, title1, title2, facts, crowdinvesting }) => {
   return (
     <section id="about" className="about">
       <div className="crowdfinancing">
@@ -50,42 +50,24 @@ export const AboutSectionTemplate = ({ title, title1, title2, facts }) => {
         <div className="first-section__text">
           <div className="text-block__left">
             <h2>
-              Alternative
-              <br />Finance &amp;
+              {crowdinvesting.firstsection.title1}
             </h2>
             <h1>
-              the Future of
-              <br />Crowdinvesting
+              {crowdinvesting.firstsection.title2}
             </h1>
             <div className="quot-text">
               <span className="quote-icon">
                 <img src={quoteImage} alt="quote" />
               </span>
               <p>
-                "Alternative business funding increased considerably, with
-                €5,431 million raised for over 9,400 start-ups and SMEs across
-                Europe in 2015 – and research shows that it will grow even more,
-                globally.*"
+              {crowdinvesting.firstsection.quote}
               </p>
             </div>
           </div>
           <div className="text-block__right">
             <p>
-              In the last couple of years, due to having increasing numbers of
-              innovative and rapidly-growing SMEs, startups and real estate
-              projects, traditional forms of financing are unable to fit the
-              needs of innovative ventures. New and alternative forms of
-              financing are the solution to closing the financial gap, with the
-              most important ones being crowdfunding or crowdinvesting
+              {crowdinvesting.firstsection.description}
             </p>
-            <p>
-              Back in 2013, CONDA took the first step to closing this financial
-              gap by creating an innovative crowdinvesting platform that
-              connects companies with investors who would help their ideas
-              evolve into profitable business without intermediaries, and by
-              participating in the success of these businesses.
-            </p>
-            <p>* (Cambridge Centre for Alternative finance, 2016)</p>
           </div>
           <div className="first-section-img">
             <img src={secgrap1Image} alt="img" />
@@ -96,19 +78,10 @@ export const AboutSectionTemplate = ({ title, title1, title2, facts }) => {
             <img src={secgrap2Image} alt="img" />
           </div>
           <div className="second-section__text">
-            <h2>Power of the Crowd:</h2>
-            <h1>The Future of Financing</h1>
+            <h2>{crowdinvesting.secondsection.title1}</h2>
+            <h1>{crowdinvesting.secondsection.title2}</h1>
             <p>
-              The industry for alternative financing is growing rapidly and with
-              it, more different and non-standardized platforms for
-            </p>
-            <p>
-              ICOs and crowdfinancing are popping up. CONDA believes that the
-              future of financing lies in the power of the crowd. At the moment,
-              the power of the crowd is proving to be on a good path toward
-              fulfilling the existing financing gap, but it is also obvious that
-              it has much more to overcome, such as the lack of decentralization
-              and full-transparency.
+              {crowdinvesting.secondsection.description}
             </p>
           </div>
         </div>
@@ -125,6 +98,7 @@ export default ({ data }) => {
       title1={post.frontmatter.title1}
       title2={post.frontmatter.title2}
       facts={post.frontmatter.facts}
+      crowdinvesting= {post.frontmatter.crowdinvesting}
     />
   );
 };
@@ -140,6 +114,19 @@ export const aboutSectionFragment = graphql`
         subheading
         description
         image
+      }
+      crowdinvesting {
+        firstsection {
+          title1
+          title2
+          quote
+          description
+        }
+        secondsection {
+          title1
+          title2
+          description
+        }
       }
     }
   }
