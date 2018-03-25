@@ -8,6 +8,9 @@ const AboutSectionPreview = ({ entry, getAsset }) => {
   const entryFacts = entry.getIn(['data', 'facts'])
   const facts = entryFacts ? entryFacts.toJS() : []
 
+  const entryCrowdinvesting = entry.getIn(['data', 'crowdinvesting'])
+  const crowdinvesting = entryCrowdinvesting ? entryCrowdinvesting.toJS() : []
+
   return (
 
   <AboutSectionTemplate
