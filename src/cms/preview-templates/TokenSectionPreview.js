@@ -4,8 +4,11 @@ const TokenSectionPreview = ({ entry }) => {
   const entryIcoDetails = entry.getIn(["data", "icodetails"]);
   const icodetails = entryIcoDetails ? entryIcoDetails.toJS() : [];
 
-  const entryreasonwhyDetails = entry.getIn(["data", "reasonswhy"]);
-  const reasonswhy = entryreasonwhyDetails ? entryreasonwhyDetails.toJS() : [];
+  const entryreasonswhyDetails = entry.getIn(["data", "reasonswhy"]);
+  const reasonswhy = entryreasonswhyDetails ? entryreasonswhyDetails.toJS() : [];
+
+  const entryfourstepsDetails = entry.getIn(["data", "foursteps"]);
+  const foursteps = entryfourstepsDetails ? entryfourstepsDetails.toJS() : [];
 
   return (
     <TokenSectionTemplate
@@ -17,6 +20,7 @@ const TokenSectionPreview = ({ entry }) => {
       whitepaper={entry.getIn(["data", "whitepaper"])}
       icodetails={icodetails}
       reasonswhy={reasonswhy}
+      foursteps={foursteps}
     />
   );
 };

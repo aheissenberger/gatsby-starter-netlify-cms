@@ -54,6 +54,15 @@ collections:
           - {label: "White Paper (PDF)", name: whitepaper, widget: file}
           - {label: ICO Details, name: icodetails, widget: object, fields: [{label: Description, name: description, widget: text},{label: "Button Call to Action", name: buttoncalltoaction, widget: object, fields: [{label: Label, name: label, widget: string},{label: URL, name: url, widget: string},{label: Info, name: info, widget: string}]}]}
           - {label: "Reasons why", name: reasonswhy, widget: object, fields: [{label: "Reasons", name: reasons, widget: list, fields: [{label: Icon, name: icon, widget: image},{label: Title, name: title, widget: string},{label: Description, name: description, widget: text}]},{label: "Button Call to Action", name: buttoncalltoaction, widget: object, fields: [{label: Label, name: label, widget: string},{label: URL, name: url, widget: string},{label: Info, name: info, widget: string}]}]}
+          - {label: "4 steps", name: foursteps, widget: object, fields: [{label: "Button Call to Action", name: buttoncalltoaction, widget: object, fields: [{label: Label, name: label, widget: string},{label: URL, name: url, widget: string},{label: Info, name: info, widget: string}]}]}
+      - file: "src/content/sections/icoteam/index.md"
+        label: "ICO Team"
+        name: "icoteam"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "icoteam-section"}
+          - {label: "Team", name: "team", widget: object, fields: [{label: "Members", name: "members", widget: list, fields: [{label: "Image", name: "image", widget: "image"},{label: "Name", name: "name", widget: "string"},{label: "Description", name: "description", widget: "text"}]]}
+          - {label: "Investors", name: "investors", widget: object, fields: [{label: "Members", name: "members", widget: list, fields: [{label: "Image", name: "image", widget: "image"},{label: "Name", name: "name", widget: "string"},{label: "Description", name: "description", widget: "text"}]]}
+          - {label: "Advisory Board", name: "advisoryboard", widget: object, fields: [{label: "Members", name: "members", widget: list, fields: [{label: "Image", name: "image", widget: "image"},{label: "Name", name: "name", widget: "string"},{label: "Description", name: "description", widget: "text"}]]}
   - name: "pages"
     label: "Pages"
     files:

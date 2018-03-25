@@ -65,7 +65,41 @@ export const pageQuery = graphql`
 
       edges {
         node {
-          ...TokenDetails
+          frontmatter {
+            title
+            title1
+            title2
+            quote
+            description
+            whitepaper
+            icodetails {
+              description
+              buttoncalltoaction {
+                label
+                url
+                info
+              }
+            }
+            reasonswhy {
+              buttoncalltoaction {
+                label
+                url
+                info
+              }
+              reasons {
+                icon
+                title
+                description
+              }
+            }
+            foursteps {
+              buttoncalltoaction {
+                label
+                url
+                info
+              }
+            }
+          }
         }
       }
     }

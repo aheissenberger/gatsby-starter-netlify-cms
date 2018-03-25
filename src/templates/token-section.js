@@ -14,7 +14,8 @@ export const TokenSectionTemplate = ({
   description,
   whitepaper,
   icodetails,
-  reasonswhy
+  reasonswhy,
+  foursteps
 }) => {
   return (
     <section
@@ -130,12 +131,12 @@ export const TokenSectionTemplate = ({
           </div>
           <ReasonGrid reasons={reasonswhy.reasons} />
           <div className="purchase-btn">
-            {/* <div className="btn-item">
+            <div className="btn-item">
               <a href={reasonswhy.buttoncalltoaction.url} className="btn btn-primary">
               {reasonswhy.buttoncalltoaction.label}
               </a>
               <p>{reasonswhy.buttoncalltoaction.info}</p>
-            </div> */}
+            </div>
             <div className="community">
               <h3>Join Our ICO Community</h3>
               <div className="commu-icon">
@@ -193,10 +194,10 @@ export const TokenSectionTemplate = ({
           </div>
           <div className="four-step-btn">
             <div className="btn-inner">
-              <button className="btn btn-primary">
-                Apply for Private Sale
-              </button>
-              <p>&amp; grab 30% bonus!</p>
+              <a href={foursteps.buttoncalltoaction.url} className="btn btn-primary">
+              {foursteps.buttoncalltoaction.label}
+              </a>
+              <p>{foursteps.buttoncalltoaction.info}</p>
             </div>
           </div>
         </div>
@@ -217,6 +218,7 @@ export default ({ data }) => {
       whitepaper={post.frontmatter.whitepaper}
       icodetails={post.frontmatter.icodetails}
       reasonswhy={post.frontmatter.reasonswhy}
+      foursteps={post.frontmatter.foursteps}
     />
   );
 };
@@ -239,15 +241,15 @@ export const tokenSectionFragment = graphql`
         }
       }
       reasonswhy {
-        reasons {
-          icon
-          title
-          description
-        }
         buttoncalltoaction {
           label
           url
           info
+        }
+        reasons {
+          icon
+          title
+          description
         }
       }
     }
