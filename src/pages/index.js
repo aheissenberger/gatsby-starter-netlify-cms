@@ -37,9 +37,12 @@ export default class IndexPage extends React.Component {
         whitepaper={tokenData[0].node.frontmatter.whitepaper}
         icodetails={tokenData[0].node.frontmatter.icodetails}
         reasonswhy={tokenData[0].node.frontmatter.reasonswhy}
+        foursteps={tokenData[0].node.frontmatter.foursteps}
       />
       <ICOTeamSectionTemplate 
-
+        team={icoteamData[0].node.frontmatter.team}
+        investors={icoteamData[0].node.frontmatter.investors}
+        advisoryboard={icoteamData[0].node.frontmatter.advisoryboard}
       />
       </React.Fragment>
       
@@ -48,74 +51,161 @@ export default class IndexPage extends React.Component {
 }
 
 export const pageQuery = graphql`
-  query IndexQuery {
-    
-    about:allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(\/sections\/about)/.*\\.md$/"}}) {
-
-      edges {
-        node {
-          ...AboutDetails
-        }
-      }
-    }
-    solution:allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(\/sections\/solution)/.*\\.md$/"}}) {
-
-      edges {
-        node {
-          ...SolutionDetails
-        }
-      }
-    }
-    token:allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(\/sections\/token)/.*\\.md$/"}}) {
-
-      edges {
-        node {
-          frontmatter {
-            title
-            title1
-            title2
-            quote
+query IndexQuery {
+  about: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(/sections/about)/.*\\.md$/"}}) {
+    edges {
+      node {
+        frontmatter {
+          title
+          title1
+          title2
+          facts {
+            heading
+            subheading
             description
-            whitepaper
-            icodetails {
+            image
+          }
+          crowdinvesting {
+            firstsection {
+              title1
+              title2
+              quote
               description
-              buttoncalltoaction {
-                label
-                url
-                info
-              }
             }
-            reasonswhy {
-              buttoncalltoaction {
-                label
-                url
-                info
-              }
-              reasons {
-                icon
-                title
-                description
-              }
-            }
-            foursteps {
-              buttoncalltoaction {
-                label
-                url
-                info
-              }
+            secondsection {
+              title1
+              title2
+              description
             }
           }
         }
       }
     }
-    icoteam:allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(\/sections\/iscoteam)/.*\\.md$/"}}) {
-
-      edges {
-        node {
-          ...ICOTeamDetails
+  }
+  solution: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(/sections/solution)/.*\\.md$/"}}) {
+    edges {
+      node {
+        frontmatter {
+          title
+          title1
+          title2
+          quote
+          description
         }
       }
     }
-    
   }
+  token: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(/sections/token)/.*\\.md$/"}}) {
+    edges {
+      node {
+        frontmatter {
+          title
+          title1
+          title2
+          quote
+          description
+          whitepaper
+          icodetails {
+            description
+            buttoncalltoaction {
+              label
+              url
+              info
+            }
+          }
+          reasonswhy {
+            buttoncalltoaction {
+              label
+              url
+              info
+            }
+            reasons {
+              icon
+              title
+              description
+            }
+          }
+          foursteps {
+            buttoncalltoaction {
+              label
+              url
+              info
+            }
+          }
+        }
+      }
+    }
+  }
+  token: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(/sections/token)/.*\\.md$/"}}) {
+    edges {
+      node {
+        frontmatter {
+          title
+          title1
+          title2
+          quote
+          description
+          whitepaper
+          icodetails {
+            description
+            buttoncalltoaction {
+              label
+              url
+              info
+            }
+          }
+          reasonswhy {
+            buttoncalltoaction {
+              label
+              url
+              info
+            }
+            reasons {
+              icon
+              title
+              description
+            }
+          }
+          foursteps {
+            buttoncalltoaction {
+              label
+              url
+              info
+            }
+          }
+        }
+      }
+    }
+  }
+  icoteam: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(/sections/icoteam)/.*\\.md$/"}}) {
+    edges {
+      node {
+        frontmatter {
+          team {
+            members {
+              image
+              name
+              description
+            }
+          }
+          investors {
+            members {
+              image
+              name
+              description
+            }
+          }
+          advisoryboard {
+            members {
+              image
+              name
+              description
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
 `

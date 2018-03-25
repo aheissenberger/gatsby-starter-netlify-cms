@@ -1,9 +1,12 @@
 import React from "react";
 import Content, { HTMLContent } from "../components/Content";
 import quoteImage from "../img/quote.png";
+import ProfileGrid from "../components/Profile";
 
 export const ICOTeamSectionTemplate = ({
-
+    team,
+    investors,
+    advisoryboard
 }) => {
   return (
     <section
@@ -21,6 +24,7 @@ export const ICOTeamSectionTemplate = ({
           <div className="team-inner">
             <h2>CONDA</h2>
             <h1>Team Members</h1>
+            <ProfileGrid members={team.members} />
             <div className="row">
               <div className="col-sm-12 col-md-6 col-lg-3">
                 <div className="member-card">
@@ -105,6 +109,7 @@ export const ICOTeamSectionTemplate = ({
         <div className="container">
           <h2>Our </h2>
           <h1>Private-Sale Investors</h1>
+          <ProfileGrid members={investors.members} />
           <div className="row">
             <div className="col-sm-12 col-md-6 col-lg-4">
               <div className="investors-card">
@@ -252,6 +257,7 @@ export const ICOTeamSectionTemplate = ({
           <div className="advisory-inner">
             <h2>Our</h2>
             <h1>Advisory Board</h1>
+            <ProfileGrid members={advisoryboard.members} />
             <div className="advisory-block">
               <div className="advisory-item">
                 <span className="advisor-image">
