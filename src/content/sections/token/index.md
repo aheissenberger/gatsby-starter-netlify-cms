@@ -1,36 +1,55 @@
 ---
 templateKey: solution-section
-title: The Solution For the Financial Market of the Future
-title1: The Solution For the
-title2: Financial Market of the Future
+title: What is CRWD Token?
+title1: What is
+title2: CRWD Token?
 quote: >-
-  CONDA is a decentralized and distributed clearing system for crowdfinancing
-  built on the blockchain, which will create the financial market of the future.
-
-
-  This technology allows anyone to securely and transparently invest in
-  companies all around the world, in accordance with regulatory requirements.
+  CRWD Token is the core of all transactions made within the CONDA decentralized
+  marketplace.
 description: >-
-  CONDA faces the problems by creating the missing decentralized infrastructure
-  built on the blockchain: for companies seeking funds, investors looking for
-  investment options and platform operators providing the appropriate tools.
+  Without the CRWD Token, no investments can be conducted. As it is, only CRWD
+  Token holders will be able to use the crowdfinancing platform. It is also
+  mandatory for a successfully buying and selling the investments as well as
+  maintaining the positive aspects of the blockchain: transparency, security and
+  decentralization.
 
 
-  With this new platform, the power of the crowd will reach its full potential
-  by being fully decentralized, community-driven, transparent, and without any
-  bo aries in the form of intermediaries between the participants in the
-  ecosystem.
+  The token is required for CONDA’s diverse business services as well as for
+  paying the fees thereby incurred. By contrast, investing in the projects
+  processed on CONDA is still made in the respective national currency, e.g. in
+  Euro.
 whitepaper: xx.pdf
 icodetails:
-  description: xx
   buttoncalltoaction:
-    label: xx
+    info: '& grab 30% bonus!'
+    label: Join CONDA ICO
     url: yy
-    info: xx
+  description: >-
+    In total, 50% of the tokens will be distributed in the initial coin
+    offering, which includes the tokens sold and bonus tokens distributed. After
+    the crowdsale, unsold tokens will be burned.
 reasonswhy:
   reasons:
     - icon: xx
-      title: xx
-      description: xx
+      title: Limited Offer
+      description: >-
+        All tokens will be issued only during the ICO. There will be no second
+        crowdsale and unsold tokens allocated for the crowdsale will be burned.
+    - title: Constant Demand
+      description: >-
+        All tokens will be issued only during the ICO. There will be no second
+        crowdsale and unsold tokens allocated for the crowdsale will be burned.
+    - title: Compliant with Regulations
+      description: >-
+        All tokens will be issued only during the ICO. There will be no second
+        crowdsale and unsold tokens allocated for the crowdsale will be burned.
+    - title: R&D-Program
+      description: >-
+        All tokens will be issued only during the ICO. There will be no second
+        crowdsale and unsold tokens allocated for the crowdsale will be burned.
+    - title: Loyalty Program
+      description: >-
+        All tokens will be issued only during the ICO. There will be no second
+        crowdsale and unsold tokens allocated for the crowdsale will be burned.
 ---
 
