@@ -3,11 +3,7 @@ import Content, { HTMLContent } from "../components/Content";
 import quoteImage from "../img/quote.png";
 import ProfileGrid from "../components/Profile";
 
-export const ICOTeamSectionTemplate = ({
-    team,
-    investors,
-    advisoryboard
-}) => {
+export const ICOTeamSectionTemplate = ({ team, investors, advisoryboard }) => {
   return (
     <section
       id="ico-team"
@@ -453,7 +449,9 @@ export default ({ data }) => {
   const { markdownRemark: post } = data;
   return (
     <ICOTeamSectionTemplate
-
+      team={post.frontmatter.team}
+      investors={post.frontmatter.investors}
+      advisoryboard={post.frontmatter.advisoryboard}
     />
   );
 };
@@ -462,9 +460,25 @@ export const ICOTeamSectionFragment = graphql`
   fragment ICOTeamDetails on MarkdownRemark {
     frontmatter {
       team {
-          members {
-              name
-          }
+        members {
+          image
+          name
+          description
+        }
+      }
+      investors {
+        members {
+          image
+          name
+          description
+        }
+      }
+      advisoryboard {
+        members {
+          image
+          name
+          description
+        }
       }
     }
   }
@@ -473,7 +487,29 @@ export const ICOTeamSectionFragment = graphql`
 export const ICOTeamSectionQuery = graphql`
   query ICOTeamSection($id: String!) {
     markdownRemark(id: { eq: $id }) {
-      ...ICOTeamDetails
+        frontmatter {
+            team {
+              members {
+                image
+                name
+                description
+              }
+            }
+            investors {
+              members {
+                image
+                name
+                description
+              }
+            }
+            advisoryboard {
+              members {
+                image
+                name
+                description
+              }
+            }
+        }
     }
   }
 `;

@@ -5,6 +5,8 @@ import PreviewLayout from './PreviewLayout'
 import AboutSectionPreview from './preview-templates/AboutSectionPreview'
 import SolutionSectionPreview from './preview-templates/SolutionSectionPreview'
 import TokenSectionPreview from './preview-templates/TokenSectionPreview'
+import ICOTeamSectionPreview from './preview-templates/ICOTeamSectionPreview'
+
 import BlogPostPreview from './preview-templates/BlogPostPreview'
 import ProductPagePreview from './preview-templates/ProductPagePreview'
 
@@ -19,6 +21,7 @@ function registerPreviewTemplate(name, template) {
 registerPreviewTemplate('about', AboutSectionPreview)
 registerPreviewTemplate('solution', SolutionSectionPreview)
 registerPreviewTemplate('token', TokenSectionPreview)
+registerPreviewTemplate('icoteam', ICOTeamSectionPreview)
 
 CMS.registerPreviewTemplate('products', ProductPagePreview)
 CMS.registerPreviewTemplate('blog', BlogPostPreview)
