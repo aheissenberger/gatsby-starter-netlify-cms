@@ -1,4 +1,6 @@
 import CMS from 'netlify-cms'
+import React from "react";
+import PreviewLayout from './PreviewLayout'
 
 import AboutSectionPreview from './preview-templates/AboutSectionPreview'
 import SolutionSectionPreview from './preview-templates/SolutionSectionPreview'
@@ -6,9 +8,17 @@ import TokenSectionPreview from './preview-templates/TokenSectionPreview'
 import BlogPostPreview from './preview-templates/BlogPostPreview'
 import ProductPagePreview from './preview-templates/ProductPagePreview'
 
-CMS.registerPreviewStyle('/stylesCMS.css')
-CMS.registerPreviewTemplate('about', AboutSectionPreview)
-CMS.registerPreviewTemplate('solution', SolutionSectionPreview)
-CMS.registerPreviewTemplate('token', TokenSectionPreview)
+function registerPreviewTemplate(name, template) {
+    CMS.registerPreviewTemplate(name, props => (
+        <PreviewLayout>
+            {React.createElement(template,props)}
+        </PreviewLayout>
+      ))
+}
+
+registerPreviewTemplate('about', AboutSectionPreview)
+registerPreviewTemplate('solution', SolutionSectionPreview)
+registerPreviewTemplate('token', TokenSectionPreview)
+
 CMS.registerPreviewTemplate('products', ProductPagePreview)
 CMS.registerPreviewTemplate('blog', BlogPostPreview)

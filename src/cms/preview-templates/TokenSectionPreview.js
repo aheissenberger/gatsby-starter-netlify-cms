@@ -1,12 +1,11 @@
 import React from "react";
 import { TokenSectionTemplate } from "../../templates/token-section";
-
 const TokenSectionPreview = ({ entry }) => {
-  const entryIconDetails = entry.getIn(["data", "icondetails"]);
-  const icondetails = entryIconDetails ? entryIconDetails.toJS() : [];
+  const entryIcoDetails = entry.getIn(["data", "icodetails"]);
+  const icodetails = entryIcoDetails ? entryIcoDetails.toJS() : [];
 
   const entryreasonwhyDetails = entry.getIn(["data", "reasonswhy"]);
-  const reasonswhy = entryreasonwhyDetails ? entryIconDetails.toJS() : [];
+  const reasonswhy = entryreasonwhyDetails ? entryreasonwhyDetails.toJS() : [];
 
   return (
     <TokenSectionTemplate
@@ -16,7 +15,7 @@ const TokenSectionPreview = ({ entry }) => {
       quote={entry.getIn(["data", "quote"])}
       description={entry.getIn(["data", "description"])}
       whitepaper={entry.getIn(["data", "whitepaper"])}
-      icondetails={icondetails}
+      icodetails={icodetails}
       reasonswhy={reasonswhy}
     />
   );

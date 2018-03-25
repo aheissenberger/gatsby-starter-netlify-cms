@@ -6,7 +6,7 @@ import Navbar from '../components/Navbar'
 import Footer from '../components/Footer';
 
 import './all.sass'
-import 'font-awesome/css/font-awesome.css'
+//import 'font-awesome/css/font-awesome.css'
 
 
 
