@@ -1,6 +1,6 @@
 ---
 templateKey: about-section
-title: The Best Choice
+title: The Best Choice for Crowdfinancing
 title1: The Best Choice
 title2: for Crowdfinancing
 facts:
