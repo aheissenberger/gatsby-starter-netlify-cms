@@ -5,6 +5,7 @@ import icoicon01Image from "../img/rocket.png";
 import icoicon02Image from "../img/flag.png";
 import icoicon03Image from "../img/bell.png";
 import icoicon04Image from "../img/token.png";
+import ReasonGrid from "../components/Reasons";
 
 export const TokenSectionTemplate = ({
   title1,
@@ -121,75 +122,19 @@ export const TokenSectionTemplate = ({
       <div className="purchase">
         <div className="container">
           <div className="purchase-head">
-            <div className="number">5</div>
+            <div className="number">{reasonswhy.reasons.length}</div>
             <div className="text">
               <h2>Reasons why to</h2>
               <h1>Purchase CRWD Tokens</h1>
             </div>
           </div>
-          <div className="purchase-card">
-            <div className="card-block">
-              <span>
-                <img src="./img/offer.png" alt="image" />
-              </span>
-              <h3>Limited Offer</h3>
-              <p>
-                All tokens will be issued only during the ICO. There will be no
-                second crowdsale and unsold tokens allocated for the crowdsale
-                will be burned.
-              </p>
-            </div>
-            <div className="card-block">
-              <span>
-                <img src="./img/demand.png" alt="image" />
-              </span>
-              <h3>Constant Demand</h3>
-              <p>
-                All tokens will be issued only during the ICO. There will be no
-                second crowdsale and unsold tokens allocated for the crowdsale
-                will be burned.
-              </p>
-            </div>
-            <div className="card-block">
-              <span>
-                <img src="./img/compaline.png" alt="image" />
-              </span>
-              <h3>Compliant with Regulations</h3>
-              <p>
-                All tokens will be issued only during the ICO. There will be no
-                second crowdsale and unsold tokens allocated for the crowdsale
-                will be burned.
-              </p>
-            </div>
-            <div className="card-block">
-              <span>
-                <img src="./img/program.png" alt="image" />
-              </span>
-              <h3>R&amp;D-Program</h3>
-              <p>
-                All tokens will be issued only during the ICO. There will be no
-                second crowdsale and unsold tokens allocated for the crowdsale
-                will be burned.
-              </p>
-            </div>
-            <div className="card-block">
-              <span>
-                <img src="./img/loyalty.png" alt="image" />
-              </span>
-              <h3>Loyalty Program</h3>
-              <p>
-                All tokens will be issued only during the ICO. There will be no
-                second crowdsale and unsold tokens allocated for the crowdsale
-                will be burned.
-              </p>
-            </div>
-          </div>
+          <ReasonGrid reasons={reasonswhy.reasons} />
           <div className="purchase-btn">
             <div className="btn-item">
-              <button className="btn btn-primary">
-                Apply for Private Sale
-              </button>
-              <p>&amp; grab 30% bonus!</p>
+              <a href={reasonswhy.buttoncalltoaction.url} className="btn btn-primary">
+              {reasonswhy.buttoncalltoaction.label}
+              </a>
+              <p>{reasonswhy.buttoncalltoaction.info}</p>
             </div>
             <div className="community">
               <h3>Join Our ICO Community</h3>
@@ -221,7 +166,7 @@ export const TokenSectionTemplate = ({
             <div className="step-block">
               <div className="step-inner">
                 <span className="step-number">2</span>
-                <p>Announcement</p>
+                <p>White paper</p>
                 <span className="step-label success">
                   <i className="fa fa-check" />
                 </span>
@@ -230,7 +175,7 @@ export const TokenSectionTemplate = ({
             <div className="step-block">
               <div className="step-inner">
                 <span className="step-number">3</span>
-                <p>Announcement</p>
+                <p>Private-Sale</p>
                 <span className="step-label success">
                   <i className="fa fa-check" />
                 </span>
@@ -239,9 +184,9 @@ export const TokenSectionTemplate = ({
             <div className="step-block">
               <div className="step-inner">
                 <span className="step-number">4</span>
-                <p>Announcement</p>
-                <span className="step-label success">
-                  <i className="fa fa-check" />
+                <p>Crowd-Sale</p>
+                <span className="step-label">
+                  {/* <i className="fa fa-check" /> */}
                 </span>
               </div>
             </div>
