@@ -12,10 +12,11 @@ export const FAQSectionTemplate = ({ title, faqs }) => {
               <div className="card">
                 <div className="card-header" role="tab" id={"heading" + index}>
                   <a
+                    className="collapse collapsed"
                     data-toggle="collapse"
                     data-parent="#accordion"
                     href={"#collapse" + index}
-                    aria-expanded="true"
+                    aria-expanded="false"
                     aria-controls={"collapse" + index}
                   >
                     {item.question}
@@ -23,7 +24,7 @@ export const FAQSectionTemplate = ({ title, faqs }) => {
                 </div>
                 <div
                   id={"collapse" + index}
-                  className="collapse show"
+                  className="collapse"
                   role="tabpanel"
                   aria-labelledby={"heading" + index}
                 >
