@@ -61,7 +61,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "icoteam-section"}
           - {label: "Team", name: "team", widget: object, fields: [{label: "Members", name: "members", widget: list, fields: [{label: "Image", name: "image", widget: "image"},{label: "Name", name: "name", widget: "string"},{label: "Description", name: "description", widget: "text"}]}]}
-          - {label: "Investors", name: "investors", widget: object, fields: [{label: "Members", name: "members", widget: list, fields: [{label: "Image", name: "image", widget: "image"},{label: "Name", name: "name", widget: "string"},{label: "Description", name: "description", widget: "text"}]}]}
+          - {label: "Investors", name: "investors", widget: object, fields: [{label: "Members", name: "members", widget: list, fields: [{label: "Image", name: "image", widget: "image"},{label: "Name", name: "name", widget: "string"},{label: "Description", name: "description", widget: "text"}]},{label: "Quotes", name: "quotes", widget: list, fields: [{label: "Name", name: "name", widget: "string"},{label: "Quote", name: "quote", widget: "text"},{label: "Image", name: "image", widget: "image"}]}]}
           - {label: "Advisory Board", name: "advisoryboard", widget: object, fields: [{label: "Members", name: "members", widget: list, fields: [{label: "Image", name: "image", widget: "image"},{label: "Name", name: "name", widget: "string"},{label: "Description", name: "description", widget: "text"}]}]}
   - name: "pages"
     label: "Pages"

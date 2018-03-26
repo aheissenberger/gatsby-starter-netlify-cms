@@ -2,6 +2,7 @@ import React from "react";
 import Content, { HTMLContent } from "../components/Content";
 import quoteImage from "../img/quote.png";
 import ProfileGrid from "../components/Profile";
+import Reviews from "../components/Reviews";
 
 export const ICOTeamSectionTemplate = ({ team, investors, advisoryboard }) => {
   return (
@@ -21,80 +22,7 @@ export const ICOTeamSectionTemplate = ({ team, investors, advisoryboard }) => {
             <h2>CONDA</h2>
             <h1>Team Members</h1>
             <ProfileGrid members={team.members} />
-            <div className="row">
-              <div className="col-sm-12 col-md-6 col-lg-3">
-                <div className="member-card">
-                  <span className="member-profile">
-                    <img src="./img/member.png" alt="image" />
-                  </span>
-                  <h3>Daniel Horak</h3>
-                  <p>Co-Founder and Managing Partner Sales &amp; Marketing</p>
-                </div>
-              </div>
-              <div className="col-sm-12 col-md-6 col-lg-3">
-                <div className="member-card">
-                  <span className="member-profile">
-                    <img src="./img/member.png" alt="image" />
-                  </span>
-                  <h3>Daniel Horak</h3>
-                  <p>Co-Founder and Managing Partner Sales &amp; Marketing</p>
-                </div>
-              </div>
-              <div className="col-sm-12 col-md-6 col-lg-3">
-                <div className="member-card">
-                  <span className="member-profile">
-                    <img src="./img/member.png" alt="image" />
-                  </span>
-                  <h3>Daniel Horak</h3>
-                  <p>Co-Founder and Managing Partner Sales &amp; Marketing</p>
-                </div>
-              </div>
-              <div className="col-sm-12 col-md-6 col-lg-3">
-                <div className="member-card">
-                  <span className="member-profile">
-                    <img src="./img/member.png" alt="image" />
-                  </span>
-                  <h3>Daniel Horak</h3>
-                  <p>Co-Founder and Managing Partner Sales &amp; Marketing</p>
-                </div>
-              </div>
-              <div className="col-sm-12 col-md-6 col-lg-3">
-                <div className="member-card">
-                  <span className="member-profile">
-                    <img src="./img/member.png" alt="image" />
-                  </span>
-                  <h3>Daniel Horak</h3>
-                  <p>Co-Founder and Managing Partner Sales &amp; Marketing</p>
-                </div>
-              </div>
-              <div className="col-sm-12 col-md-6 col-lg-3">
-                <div className="member-card">
-                  <span className="member-profile">
-                    <img src="./img/member.png" alt="image" />
-                  </span>
-                  <h3>Daniel Horak</h3>
-                  <p>Co-Founder and Managing Partner Sales &amp; Marketing</p>
-                </div>
-              </div>
-              <div className="col-sm-12 col-md-6 col-lg-3">
-                <div className="member-card">
-                  <span className="member-profile">
-                    <img src="./img/member.png" alt="image" />
-                  </span>
-                  <h3>Daniel Horak</h3>
-                  <p>Co-Founder and Managing Partner Sales &amp; Marketing</p>
-                </div>
-              </div>
-              <div className="col-sm-12 col-md-6 col-lg-3">
-                <div className="member-card">
-                  <span className="member-profile">
-                    <img src="./img/member.png" alt="image" />
-                  </span>
-                  <h3>Daniel Horak</h3>
-                  <p>Co-Founder and Managing Partner Sales &amp; Marketing</p>
-                </div>
-              </div>
-            </div>
+          
             <div className="member-view">
               <button className="btn btn-default">View All Members</button>
             </div>
@@ -105,87 +33,8 @@ export const ICOTeamSectionTemplate = ({ team, investors, advisoryboard }) => {
         <div className="container">
           <h2>Our </h2>
           <h1>Private-Sale Investors</h1>
-          <ProfileGrid members={investors.members} />
-          <div className="row">
-            <div className="col-sm-12 col-md-6 col-lg-4">
-              <div className="investors-card">
-                <span className="member-image">
-                  <img src="./img/member.png" alt="image" />
-                </span>
-                <h3>Hermann Hauser</h3>
-                <p>
-                  Serial entrepreneur, Co-Founder of Amadeus Capital &amp;
-                  active business angel
-                </p>
-                <span className="invest-prize">$</span>
-              </div>
-            </div>
-            <div className="col-sm-12 col-md-6 col-lg-4">
-              <div className="investors-card">
-                <span className="member-image">
-                  <img src="./img/member.png" alt="image" />
-                </span>
-                <h3>Hermann Hauser</h3>
-                <p>
-                  Serial entrepreneur, Co-Founder of Amadeus Capital &amp;
-                  active business angel
-                </p>
-                <span className="invest-prize">$</span>
-              </div>
-            </div>
-            <div className="col-sm-12 col-md-6 col-lg-4">
-              <div className="investors-card">
-                <span className="member-image">
-                  <img src="./img/member.png" alt="image" />
-                </span>
-                <h3>Hermann Hauser</h3>
-                <p>
-                  Serial entrepreneur, Co-Founder of Amadeus Capital &amp;
-                  active business angel
-                </p>
-                <span className="invest-prize">$</span>
-              </div>
-            </div>
-            <div className="col-sm-12 col-md-6 col-lg-4">
-              <div className="investors-card">
-                <span className="member-image">
-                  <img src="./img/member.png" alt="image" />
-                </span>
-                <h3>Hermann Hauser</h3>
-                <p>
-                  Serial entrepreneur, Co-Founder of Amadeus Capital &amp;
-                  active business angel
-                </p>
-                <span className="invest-prize">$</span>
-              </div>
-            </div>
-            <div className="col-sm-12 col-md-6 col-lg-4">
-              <div className="investors-card">
-                <span className="member-image">
-                  <img src="./img/member.png" alt="image" />
-                </span>
-                <h3>Hermann Hauser</h3>
-                <p>
-                  Serial entrepreneur, Co-Founder of Amadeus Capital &amp;
-                  active business angel
-                </p>
-                <span className="invest-prize">$</span>
-              </div>
-            </div>
-            <div className="col-sm-12 col-md-6 col-lg-4">
-              <div className="investors-card">
-                <span className="member-image">
-                  <img src="./img/member.png" alt="image" />
-                </span>
-                <h3>Hermann Hauser</h3>
-                <p>
-                  Serial entrepreneur, Co-Founder of Amadeus Capital &amp;
-                  active business angel
-                </p>
-                <span className="invest-prize">$</span>
-              </div>
-            </div>
-          </div>
+          <ProfileGrid members={investors.members} bigger prize />
+          <Reviews reviews={investors.quotes} />
           <div className="invesrer-review">
             <h3>See what our Investors saying</h3>
             <div className="review-slide">
@@ -254,38 +103,7 @@ export const ICOTeamSectionTemplate = ({ team, investors, advisoryboard }) => {
             <h2>Our</h2>
             <h1>Advisory Board</h1>
             <ProfileGrid members={advisoryboard.members} />
-            <div className="advisory-block">
-              <div className="advisory-item">
-                <span className="advisor-image">
-                  <img src="./img/member.png" alt="image" />
-                </span>
-                <p>Manager and owner of the advertising agency 3C-Design</p>
-              </div>
-              <div className="advisory-item">
-                <span className="advisor-image">
-                  <img src="./img/member.png" alt="image" />
-                </span>
-                <p>Manager and owner of the advertising agency 3C-Design</p>
-              </div>
-              <div className="advisory-item">
-                <span className="advisor-image">
-                  <img src="./img/member.png" alt="image" />
-                </span>
-                <p>Manager and owner of the advertising agency 3C-Design</p>
-              </div>
-              <div className="advisory-item">
-                <span className="advisor-image">
-                  <img src="./img/member.png" alt="image" />
-                </span>
-                <p>Manager and owner of the advertising agency 3C-Design</p>
-              </div>
-              <div className="advisory-item">
-                <span className="advisor-image">
-                  <img src="./img/member.png" alt="image" />
-                </span>
-                <p>Manager and owner of the advertising agency 3C-Design</p>
-              </div>
-            </div>
+      
           </div>
         </div>
       </div>
