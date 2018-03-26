@@ -3,8 +3,14 @@ templateKey: icoteam-section
 team:
   members:
     - description: Co-Founder and Managing Partner Sales & Marketing
-      image: /img/invest.png
+      image: /img/daniel_horak.png
       name: Daniel Horak
+    - description: Co-Founder and Managing Partner Finance & Business Development
+      image: /img/paul_pöltner2.png
+      name: Paul Pöltner
+    - description: Chief Marketing Officer
+      image: /img/karin_turki_80x80.png
+      name: Karin Turki
 investors:
   members:
     - description: >-
