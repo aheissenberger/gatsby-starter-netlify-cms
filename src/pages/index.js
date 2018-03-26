@@ -6,6 +6,7 @@ import { SolutionSectionTemplate } from '../templates/solution-section';
 import { TokenSectionTemplate } from '../templates/token-section';
 import { ICOTeamSectionTemplate } from '../templates/icoteam-section';
 import { NewsletterSectionTemplate } from '../templates/newsletter-section';
+import { FAQSectionTemplate } from '../templates/faq-section';
 
 export default class IndexPage extends React.Component {
   render() {
@@ -15,6 +16,7 @@ export default class IndexPage extends React.Component {
     const { edges: tokenData }  = data.token;
     const { edges: icoteamData }  = data.icoteam;
     const { edges: newsletterData }  = data.newsletter;
+    const { edges: faqData }  = data.faq;
     //const { edges: posts } = data.allMarkdownRemark
 
     return (
@@ -51,6 +53,10 @@ export default class IndexPage extends React.Component {
         title2={newsletterData[0].node.frontmatter.title2}
         placeholder={newsletterData[0].node.frontmatter.placeholder}
         label={newsletterData[0].node.frontmatter.label}
+      />
+      <FAQSectionTemplate
+        title={faqData[0].node.frontmatter.title}
+        faqs={faqData[0].node.frontmatter.faqs}
       />
       </React.Fragment>
       
@@ -227,6 +233,19 @@ query IndexQuery {
           title2
           placeholder
           label
+        }
+      }
+    }
+  }
+  faq: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(/sections/faq)/.*\\.md$/"}}) {
+    edges {
+      node {
+        frontmatter {
+          title
+          faqs {
+            question
+            answer
+          }
         }
       }
     }

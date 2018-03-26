@@ -63,6 +63,22 @@ collections:
           - {label: "Team", name: "team", widget: object, fields: [{label: "Members", name: "members", widget: list, fields: [{label: "Image", name: "image", widget: "image"},{label: "Name", name: "name", widget: "string"},{label: "Description", name: "description", widget: "text"}]}]}
           - {label: "Investors", name: "investors", widget: object, fields: [{label: "Members", name: "members", widget: list, fields: [{label: "Image", name: "image", widget: "image"},{label: "Name", name: "name", widget: "string"},{label: "Description", name: "description", widget: "text"}]},{label: "Quotes", name: "quotes", widget: list, fields: [{label: "Name", name: "name", widget: "string"},{label: "Quote", name: "quote", widget: "text"},{label: "Image", name: "image", widget: "image"}]}]}
           - {label: "Advisory Board", name: "advisoryboard", widget: object, fields: [{label: "Members", name: "members", widget: list, fields: [{label: "Image", name: "image", widget: "image"},{label: "Name", name: "name", widget: "string"},{label: "Description", name: "description", widget: "text"}]}]}
+      - file: "src/content/sections/newsletter/index.md"
+        label: "Newsletter"
+        name: "newsletter"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "newsletter-section"}
+          - {label: "Title Part 1", name: "title1", widget: "string"}
+          - {label: "Title Part 2", name: "title2", widget: "string"}
+          - {label: Placeholder, name: placeholder, widget: string}
+          - {label: Label, name: label, widget: string}
+      - file: "src/content/sections/faq/index.md"
+        label: "FAQ"
+        name: "faq"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "faq-section"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "FAQs", name: "faqs", widget: list, fields: [{label: "Question", name: "question", widget: text},{label: "Answer", name: "answer", widget: text}]}
   - name: "pages"
     label: "Pages"
     files:
