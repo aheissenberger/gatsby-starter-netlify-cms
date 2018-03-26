@@ -194,6 +194,11 @@ query IndexQuery {
               name
               description
             }
+            quotes {
+              name
+              quote
+              image
+            }
           }
           advisoryboard {
             members {
