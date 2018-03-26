@@ -1,11 +1,12 @@
 import React from "react";
+import investerquoteImage from '../img/invester-quote.png'
 
 const Reviews = ({ reviews }) => (
   <div className="invesrer-review">
     <h3>See what our Investors saying</h3>
     <div className="review-slide">
       <span className="review-quote">
-        <img src="./img/invester-quote.png" alt="image" />
+        <img src={investerquoteImage} alt="image" />
       </span>
       <div className="review-content">
         <div
@@ -14,18 +15,18 @@ const Reviews = ({ reviews }) => (
           data-ride="carousel"
         >
           <div className="carousel-inner" role="listbox">
-            {reviews.map(item => (
-              <div className="carousel-item">
+            {reviews.map( (item,index) => (
+              <div className={index===0?"carousel-item active":"carousel-item"} >
                 <p>{item.quote}</p>
               </div>
             ))}
           </div>
           <ol className="carousel-indicators">
-            {reviews.map(item => (
+            {reviews.map( (item,index) => (
               <li
                 data-target="#carouselExampleIndicators"
-                data-slide-to={0}
-                className
+                data-slide-to={index}
+                className={index===0?"active":null}
               >
                 <a>
                   <span>

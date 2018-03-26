@@ -6,6 +6,7 @@ import AboutSectionPreview from './preview-templates/AboutSectionPreview'
 import SolutionSectionPreview from './preview-templates/SolutionSectionPreview'
 import TokenSectionPreview from './preview-templates/TokenSectionPreview'
 import ICOTeamSectionPreview from './preview-templates/ICOTeamSectionPreview'
+import NewsletterSectionPreview from './preview-templates/NewsletterSectionPreview'
 
 import BlogPostPreview from './preview-templates/BlogPostPreview'
 import ProductPagePreview from './preview-templates/ProductPagePreview'
@@ -22,6 +23,7 @@ registerPreviewTemplate('about', AboutSectionPreview)
 registerPreviewTemplate('solution', SolutionSectionPreview)
 registerPreviewTemplate('token', TokenSectionPreview)
 registerPreviewTemplate('icoteam', ICOTeamSectionPreview)
+registerPreviewTemplate('newsletter', NewsletterSectionPreview)
 
 CMS.registerPreviewTemplate('products', ProductPagePreview)
 CMS.registerPreviewTemplate('blog', BlogPostPreview)

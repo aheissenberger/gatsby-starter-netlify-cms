@@ -5,6 +5,7 @@ import { AboutSectionTemplate } from '../templates/about-section'
 import { SolutionSectionTemplate } from '../templates/solution-section';
 import { TokenSectionTemplate } from '../templates/token-section';
 import { ICOTeamSectionTemplate } from '../templates/icoteam-section';
+import { NewsletterSectionTemplate } from '../templates/newsletter-section';
 
 export default class IndexPage extends React.Component {
   render() {
@@ -13,6 +14,7 @@ export default class IndexPage extends React.Component {
     const { edges: solutionData }  = data.solution;
     const { edges: tokenData }  = data.token;
     const { edges: icoteamData }  = data.icoteam;
+    const { edges: newsletterData }  = data.newsletter;
     //const { edges: posts } = data.allMarkdownRemark
 
     return (
@@ -43,6 +45,12 @@ export default class IndexPage extends React.Component {
         team={icoteamData[0].node.frontmatter.team}
         investors={icoteamData[0].node.frontmatter.investors}
         advisoryboard={icoteamData[0].node.frontmatter.advisoryboard}
+      />
+      <NewsletterSectionTemplate
+        title1={newsletterData[0].node.frontmatter.title1}
+        title2={newsletterData[0].node.frontmatter.title2}
+        placeholder={newsletterData[0].node.frontmatter.placeholder}
+        label={newsletterData[0].node.frontmatter.label}
       />
       </React.Fragment>
       
@@ -207,6 +215,18 @@ query IndexQuery {
               description
             }
           }
+        }
+      }
+    }
+  }
+  newsletter: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(/sections/newsletter)/.*\\.md$/"}}) {
+    edges {
+      node {
+        frontmatter {
+          title1
+          title2
+          placeholder
+          label
         }
       }
     }

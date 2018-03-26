@@ -35,7 +35,7 @@ export const ICOTeamSectionTemplate = ({ team, investors, advisoryboard }) => {
           <h1>Private-Sale Investors</h1>
           <ProfileGrid members={investors.members} bigger prize />
           <Reviews reviews={investors.quotes} />
-          <div className="invesrer-review">
+          {/* <div className="invesrer-review">
             <h3>See what our Investors saying</h3>
             <div className="review-slide">
               <span className="review-quote">
@@ -94,7 +94,7 @@ export const ICOTeamSectionTemplate = ({ team, investors, advisoryboard }) => {
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
       <div className="advisory-board">
@@ -107,7 +107,7 @@ export const ICOTeamSectionTemplate = ({ team, investors, advisoryboard }) => {
           </div>
         </div>
       </div>
-      <div className="news-letter">
+      {/* <div className="news-letter">
         <div className="container">
           <div className="news-letter__block">
             <div className="block-inner">
@@ -125,7 +125,7 @@ export const ICOTeamSectionTemplate = ({ team, investors, advisoryboard }) => {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
       <div className="our-partners">
         <div className="container">
           <h2>Our Partners</h2>
