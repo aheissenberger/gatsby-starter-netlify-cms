@@ -14,17 +14,20 @@ investors:
       name: Hermann Hauser
   quotes:
     - name: Udo Georges Oksakowski
+      image: /img/meeting-space.png
       quote: >-
         "As an entrepreneur, the sound finance of ventures to strengthen the
         Central European business location is an important concern to me and to
         support this mission basis of my participation in the CONDA ICO."
     - name: Niko Alm
+      image: /img/meeting-space.png
       quote: >-
         "Current corporate structures are too slow to reflect the demand for
         flexible investments. With an ICO, it's possible to achieve something
         that can be done in a GmbH and an AG only with great effort and
         expense."
     - name: Hans Zavesky
+      image: /img/meeting-space.png
       quote: >-
         "The ICO is a propriate vehicle for CONDA to be prepared for future
         developments in the area of blockchain technology on the one hand, and
