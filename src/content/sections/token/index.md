@@ -29,24 +29,28 @@ reasonswhy:
     label: Apply for Private Sale
     url: xx
   reasons:
-    - icon: xx
+    - icon: /img/offer.png
       title: Limited Offer
       description: >-
         All tokens will be issued only during the ICO. There will be no second
         crowdsale and unsold tokens allocated for the crowdsale will be burned.
-    - title: Constant Demand
+    - icon: /img/demand.png
+      title: Constant Demand
       description: >-
         All tokens will be issued only during the ICO. There will be no second
         crowdsale and unsold tokens allocated for the crowdsale will be burned.
-    - title: Compliant with Regulations
+    - icon: /img/compaline.png
+      title: Compliant with Regulations
       description: >-
         All tokens will be issued only during the ICO. There will be no second
         crowdsale and unsold tokens allocated for the crowdsale will be burned.
-    - title: R&D-Program
+    - icon: /img/program.png
+      title: R&D-Program
       description: >-
         All tokens will be issued only during the ICO. There will be no second
         crowdsale and unsold tokens allocated for the crowdsale will be burned.
-    - title: Loyalty Program
+    - icon: /img/loyalty.png
+      title: Loyalty Program
       description: >-
         All tokens will be issued only during the ICO. There will be no second
         crowdsale and unsold tokens allocated for the crowdsale will be burned.
