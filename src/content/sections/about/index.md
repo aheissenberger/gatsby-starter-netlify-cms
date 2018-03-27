@@ -9,25 +9,44 @@ facts:
       infrastructure presented is the logical step for bringing crowdfinancing
       to the next level by utilizing the most efficient technology, supported by
       our experienced team and partners.
-    heading: Experiance
+    heading: Experience
     image: /img/chart.png
-    subheading: A team of high-class investors and advisors.
+    subheading: Proven track record in project handling
   - description: >-
-      CONDA launched its crowdinvesting platform in 2013. The blockchain
-      infrastructure presented is the logical step for bringing crowdfinancing
-      to the next level by utilizing the most efficient technology, supported by
-      our experienced team and partners.
-    heading: Experiance 2
+      CONDA has already successfully financed more than 90 projects, with a
+      total invested capital of over €20 million. The team has the experience
+      and the knowledge to handle projects of every size all over Europe, from
+      €100,000 up to several million euros.
+    heading: Success
     image: /img/invest.png
-    subheading: A team of high-class investors and advisors.
-  - description: >-
-      Our mission is to create the financial market of the future. We are
-      building a community-based ecosystem for fast and secure crowdfinancing,
-      based on blockchain technology and combined with traditional forms of
-      financing.
+    subheading: ' '
+  - description: >
+      CONDA ́s goal is to not just to be another crowdinvesting platform. Our
+      mission is to create the financial market of the future. We are building a
+      community-based ecosystem for fast and secure crowdfinancing, based on
+      blockchain technology and combined with traditional forms of financing.
     heading: Blockchain Technology
-    image: /img/invest.png
-    subheading: 'CONDA ́s goal is to not just to be another crowdinvesting platform. '
+    image: /img/brain.png
+    subheading: ' '
+  - description: >-
+      CONDA presented its investment model to regulators in seven countries and
+      has received positive confirmations from Germany, Austria, Switzerland,
+      Liechtenstein, Poland, Slovakia and Slovenia. Additionally, the
+      regulations in the U.K. as well as in the Czech Republic have been checked
+      by lawyers for future collaboration.
+    heading: Approved
+    image: /img/list.jpg.png
+    subheading: ' '
+  - description: >
+      CONDA is working on erasing geographic and other existing boundaries
+      between different currencies and countries. This is possible by
+      establishing the lowest and fairest rates for investing across countries
+      and currencies. As the investment transactions are quick and easy, the
+      investment process should be the same regardless of a user’s currency or
+      country.
+    heading: Without Boundaries
+    image: /img/glob.jpg
+    subheading: ' '
 crowdinvesting:
   firstsection:
     description: >-
