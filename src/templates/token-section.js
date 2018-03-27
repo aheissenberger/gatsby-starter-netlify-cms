@@ -100,8 +100,8 @@ export const TokenSectionTemplate = ({
               <span className="icon-block">
                 <img src={icoicon02Image} alt="icon" />
               </span>
-              <h3>June 2018</h3>
-              <p>Start date</p>
+              <h3>June 4, 2018</h3>
+              <p>Pre-sale start date</p>
             </li>
             <li className="col-sm-12 col-md-6 col-lg-3">
               <span className="icon-block">
@@ -167,7 +167,7 @@ export const TokenSectionTemplate = ({
             <div className="step-block">
               <div className="step-inner">
                 <span className="step-number">2</span>
-                <p>White paper</p>
+                <p>Private-Sale</p>
                 <span className="step-label success">
                   <i className="fa fa-check" />
                 </span>
@@ -176,9 +176,9 @@ export const TokenSectionTemplate = ({
             <div className="step-block">
               <div className="step-inner">
                 <span className="step-number">3</span>
-                <p>Private-Sale</p>
+                <p>Pre-Sale</p>
                 <span className="step-label success">
-                  <i className="fa fa-check" />
+                  {/* <i className="fa fa-check" /> */}
                 </span>
               </div>
             </div>

@@ -2,7 +2,7 @@ import React from "react";
 import Link from "gatsby-link";
 
 
-import logo from "../img/logo.png";
+import logo from "../img/CRWD-Token-Logo.png";
 
 const Navbar = () => (
   <header className="header">
