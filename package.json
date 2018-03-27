@@ -20,7 +20,8 @@
     "gatsby-transformer-sharp": "^1.6.22",
     "prop-types": "^15.6.1",
     "react": "^16.2.0",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "s3-deploy": "^0.10.0"
   },
   "keywords": [
     "gatsby"
@@ -32,7 +33,7 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "serve": "gatsby serve",
-    "deploy": "gatsby build && netlify deploy",
+    "deploy": "gatsby build --prefix-paths && s3-deploy './public/**' --cwd './public/' --bucket ico.conda.online  --deleteRemoved --gzip && npm run clear",
     "start-chrome": "nohup /Applications/Google\\ Chrome.app/Contents/MacOS/Google\\ Chrome --remote-debugging-port=9222 &",
     "format": "prettier --trailing-comma es5 --no-semi --single-quote --write \"{gatsby-*.js,src/**/*.js}\"",
     "test": "echo \"Error: no test specified\" && exit 1",
