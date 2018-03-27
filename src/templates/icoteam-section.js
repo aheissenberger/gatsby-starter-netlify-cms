@@ -51,71 +51,71 @@ export const ICOTeamSectionTemplate = ({ team, investors, advisoryboard }) => {
   );
 };
 
-export default ({ data }) => {
-  const { markdownRemark: post } = data;
-  return (
-    <ICOTeamSectionTemplate
-      team={post.frontmatter.team}
-      investors={post.frontmatter.investors}
-      advisoryboard={post.frontmatter.advisoryboard}
-    />
-  );
-};
+// export default ({ data }) => {
+//   const { markdownRemark: post } = data;
+//   return (
+//     <ICOTeamSectionTemplate
+//       team={post.frontmatter.team}
+//       investors={post.frontmatter.investors}
+//       advisoryboard={post.frontmatter.advisoryboard}
+//     />
+//   );
+// };
 
-export const ICOTeamSectionFragment = graphql`
-  fragment ICOTeamDetails on MarkdownRemark {
-    frontmatter {
-      team {
-        members {
-          image
-          name
-          description
-        }
-      }
-      investors {
-        members {
-          image
-          name
-          description
-        }
-      }
-      advisoryboard {
-        members {
-          image
-          name
-          description
-        }
-      }
-    }
-  }
-`;
+// export const ICOTeamSectionFragment = graphql`
+//   fragment ICOTeamDetails on MarkdownRemark {
+//     frontmatter {
+//       team {
+//         members {
+//           image
+//           name
+//           description
+//         }
+//       }
+//       investors {
+//         members {
+//           image
+//           name
+//           description
+//         }
+//       }
+//       advisoryboard {
+//         members {
+//           image
+//           name
+//           description
+//         }
+//       }
+//     }
+//   }
+// `;
 
-export const ICOTeamSectionQuery = graphql`
-  query ICOTeamSection($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      frontmatter {
-        team {
-          members {
-            image
-            name
-            description
-          }
-        }
-        investors {
-          members {
-            image
-            name
-            description
-          }
-        }
-        advisoryboard {
-          members {
-            image
-            name
-            description
-          }
-        }
-      }
-    }
-  }
-`;
+// export const ICOTeamSectionQuery = graphql`
+//   query ICOTeamSection($id: String!) {
+//     markdownRemark(id: { eq: $id }) {
+//       frontmatter {
+//         team {
+//           members {
+//             image
+//             name
+//             description
+//           }
+//         }
+//         investors {
+//           members {
+//             image
+//             name
+//             description
+//           }
+//         }
+//         advisoryboard {
+//           members {
+//             image
+//             name
+//             description
+//           }
+//         }
+//       }
+//     }
+//   }
+// `;

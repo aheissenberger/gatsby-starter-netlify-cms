@@ -206,60 +206,60 @@ export const TokenSectionTemplate = ({
   );
 };
 
-export default ({ data }) => {
-  const { markdownRemark: post } = data;
-  return (
-    <TokenSectionTemplate
-      title={post.frontmatter.title}
-      title1={post.frontmatter.title1}
-      title2={post.frontmatter.title2}
-      quote={post.frontmatter.quote}
-      description={post.frontmatter.description}
-      whitepaper={post.frontmatter.whitepaper}
-      icodetails={post.frontmatter.icodetails}
-      reasonswhy={post.frontmatter.reasonswhy}
-      foursteps={post.frontmatter.foursteps}
-    />
-  );
-};
+// export default ({ data }) => {
+//   const { markdownRemark: post } = data;
+//   return (
+//     <TokenSectionTemplate
+//       title={post.frontmatter.title}
+//       title1={post.frontmatter.title1}
+//       title2={post.frontmatter.title2}
+//       quote={post.frontmatter.quote}
+//       description={post.frontmatter.description}
+//       whitepaper={post.frontmatter.whitepaper}
+//       icodetails={post.frontmatter.icodetails}
+//       reasonswhy={post.frontmatter.reasonswhy}
+//       foursteps={post.frontmatter.foursteps}
+//     />
+//   );
+// };
 
-export const tokenSectionFragment = graphql`
-  fragment TokenDetails on MarkdownRemark {
-    frontmatter {
-      title
-      title1
-      title2
-      quote
-      description
-      whitepaper
-      icodetails {
-        description
-        buttoncalltoaction {
-          label
-          url
-          info
-        }
-      }
-      reasonswhy {
-        buttoncalltoaction {
-          label
-          url
-          info
-        }
-        reasons {
-          icon
-          title
-          description
-        }
-      }
-    }
-  }
-`;
+// export const tokenSectionFragment = graphql`
+//   fragment TokenDetails on MarkdownRemark {
+//     frontmatter {
+//       title
+//       title1
+//       title2
+//       quote
+//       description
+//       whitepaper
+//       icodetails {
+//         description
+//         buttoncalltoaction {
+//           label
+//           url
+//           info
+//         }
+//       }
+//       reasonswhy {
+//         buttoncalltoaction {
+//           label
+//           url
+//           info
+//         }
+//         reasons {
+//           icon
+//           title
+//           description
+//         }
+//       }
+//     }
+//   }
+// `;
 
-export const tokenSectionQuery = graphql`
-  query TokenSection($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      ...TokenDetails
-    }
-  }
-`;
+// export const tokenSectionQuery = graphql`
+//   query TokenSection($id: String!) {
+//     markdownRemark(id: { eq: $id }) {
+//       ...TokenDetails
+//     }
+//   }
+// `;

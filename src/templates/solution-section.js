@@ -41,35 +41,35 @@ export const SolutionSectionTemplate = ({ title1, title2, quote, description}) =
   );
 };
 
-export default ({ data }) => {
-  const { markdownRemark: post } = data;
-  return (
-    <SolutionSectionTemplate
-      title={post.frontmatter.title}
-      title1={post.frontmatter.title1}
-      title2={post.frontmatter.title2}
-      quote={post.frontmatter.quote}
-      description={post.frontmatter.description}
-    />
-  );
-};
+// export default ({ data }) => {
+//   const { markdownRemark: post } = data;
+//   return (
+//     <SolutionSectionTemplate
+//       title={post.frontmatter.title}
+//       title1={post.frontmatter.title1}
+//       title2={post.frontmatter.title2}
+//       quote={post.frontmatter.quote}
+//       description={post.frontmatter.description}
+//     />
+//   );
+// };
 
-export const solutionSectionFragment = graphql`
-  fragment SolutionDetails on MarkdownRemark {
-    frontmatter {
-      title
-      title1
-      title2
-      quote
-      description
-    }
-  }
-`;
+// export const solutionSectionFragment = graphql`
+//   fragment SolutionDetails on MarkdownRemark {
+//     frontmatter {
+//       title
+//       title1
+//       title2
+//       quote
+//       description
+//     }
+//   }
+// `;
 
-export const solutionSectionQuery = graphql`
-  query SolutionSection($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      ...SolutionDetails
-    }
-  }
-`;
+// export const solutionSectionQuery = graphql`
+//   query SolutionSection($id: String!) {
+//     markdownRemark(id: { eq: $id }) {
+//       ...SolutionDetails
+//     }
+//   }
+// `;

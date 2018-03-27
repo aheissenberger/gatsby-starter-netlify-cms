@@ -90,52 +90,52 @@ export const AboutSectionTemplate = ({ title, title1, title2, facts, crowdinvest
   );
 };
 
-export default ({ data }) => {
-  const { markdownRemark: post } = data;
-  return (
-    <AboutSectionTemplate
-      title={post.frontmatter.title}
-      title1={post.frontmatter.title1}
-      title2={post.frontmatter.title2}
-      facts={post.frontmatter.facts}
-      crowdinvesting= {post.frontmatter.crowdinvesting}
-    />
-  );
-};
+// export default ({ data }) => {
+//   const { markdownRemark: post } = data;
+//   return (
+//     <AboutSectionTemplate
+//       title={post.frontmatter.title}
+//       title1={post.frontmatter.title1}
+//       title2={post.frontmatter.title2}
+//       facts={post.frontmatter.facts}
+//       crowdinvesting= {post.frontmatter.crowdinvesting}
+//     />
+//   );
+// };
 
-export const aboutSectionFragment = graphql`
-  fragment AboutDetails on MarkdownRemark {
-    frontmatter {
-      title
-      title1
-      title2
-      facts {
-        heading
-        subheading
-        description
-        image
-      }
-      crowdinvesting {
-        firstsection {
-          title1
-          title2
-          quote
-          description
-        }
-        secondsection {
-          title1
-          title2
-          description
-        }
-      }
-    }
-  }
-`;
+// export const aboutSectionFragment = graphql`
+//   fragment AboutDetails on MarkdownRemark {
+//     frontmatter {
+//       title
+//       title1
+//       title2
+//       facts {
+//         heading
+//         subheading
+//         description
+//         image
+//       }
+//       crowdinvesting {
+//         firstsection {
+//           title1
+//           title2
+//           quote
+//           description
+//         }
+//         secondsection {
+//           title1
+//           title2
+//           description
+//         }
+//       }
+//     }
+//   }
+// `;
 
-export const aboutSectionQuery = graphql`
-  query AboutSection($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      ...AboutDetails
-    }
-  }
-`;
+// export const aboutSectionQuery = graphql`
+//   query AboutSection($id: String!) {
+//     markdownRemark(id: { eq: $id }) {
+//       ...AboutDetails
+//     }
+//   }
+// `;

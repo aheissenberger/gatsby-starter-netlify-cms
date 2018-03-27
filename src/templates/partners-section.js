@@ -26,33 +26,33 @@ export const PartnersSectionTemplate = ({ title, partners }) => {
   );
 };
 
-export default ({ data }) => {
-  const { markdownRemark: post } = data;
-  return (
-    <PartnersSectionTemplate
-      title={post.frontmatter.title}
-      partners={post.frontmatter.partners}
-    />
-  );
-};
+// export default ({ data }) => {
+//   const { markdownRemark: post } = data;
+//   return (
+//     <PartnersSectionTemplate
+//       title={post.frontmatter.title}
+//       partners={post.frontmatter.partners}
+//     />
+//   );
+// };
 
-export const solutionSectionFragment = graphql`
-  fragment PartnersDetails on MarkdownRemark {
-    frontmatter {
-      title
-      partners {
-        name
-        url
-        image
-      }
-    }
-  }
-`;
+// export const solutionSectionFragment = graphql`
+//   fragment PartnersDetails on MarkdownRemark {
+//     frontmatter {
+//       title
+//       partners {
+//         name
+//         url
+//         image
+//       }
+//     }
+//   }
+// `;
 
-export const solutionSectionQuery = graphql`
-  query PartnersSection($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      ...PartnersDetails
-    }
-  }
-`;
+// export const solutionSectionQuery = graphql`
+//   query PartnersSection($id: String!) {
+//     markdownRemark(id: { eq: $id }) {
+//       ...PartnersDetails
+//     }
+//   }
+// `;
