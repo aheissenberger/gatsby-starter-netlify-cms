@@ -177,7 +177,7 @@ export const TokenSectionTemplate = ({
               <div className="step-inner">
                 <span className="step-number">3</span>
                 <p>Pre-Sale</p>
-                <span className="step-label success">
+                <span className="step-label">
                   {/* <i className="fa fa-check" /> */}
                 </span>
               </div>
