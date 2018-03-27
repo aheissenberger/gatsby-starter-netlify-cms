@@ -1,23 +1,18 @@
 ---
 templateKey: solution-section
-title: What is CRWD Token?
-title1: What is
-title2: CRWD Token?
-quote: >-
-  CRWD Token is the core of all transactions made within the CONDA decentralized
-  marketplace.
+title: The CRWD Token
+title1: ' '
+title2: The CRWD Token
+quote: The CRWD Token is the core of all transactions made within the CRWD network.
 description: >-
-  Without the CRWD Token, no investments can be conducted. As it is, only CRWD
-  Token holders will be able to use the crowdfinancing platform. It is also
-  mandatory for a successfully buying and selling the investments as well as
-  maintaining the positive aspects of the blockchain: transparency, security and
-  decentralization.
+  Without the CRWD Token, no investments can be made via the crowdfinancing
+  platform. 
 
 
-  The token is required for CONDA’s diverse business services as well as for
-  paying the fees thereby incurred. By contrast, investing in the projects
-  processed on CONDA is still made in the respective national currency, e.g. in
-  Euro.
+  Because the CRWD Token is needed to participate in the CONDA
+  blockchain-supported ecosystem, it is also mandatory for the successful buying
+  and selling of investments, and for maintaining all the positive aspects that
+  blockchain brings to the table: transparency, security, and decentralization. 
 whitepaper: xx.pdf
 icodetails:
   buttoncalltoaction:
