@@ -23,9 +23,9 @@ export const ICOTeamSectionTemplate = ({ team, investors, advisoryboard }) => {
             <h1>Team Members</h1>
             <ProfileGrid members={team.members} />
 
-            <div className="member-view">
+            {/* <div className="member-view">
               <button className="btn btn-default">View All Members</button>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
@@ -35,66 +35,7 @@ export const ICOTeamSectionTemplate = ({ team, investors, advisoryboard }) => {
           <h1>Private-Sale Investors</h1>
           <ProfileGrid members={investors.members} bigger prize />
           <Reviews reviews={investors.quotes} />
-          {/* <div className="invesrer-review">
-            <h3>See what our Investors saying</h3>
-            <div className="review-slide">
-              <span className="review-quote">
-                <img src="./img/invester-quote.png" alt="image" />
-              </span>
-              <div className="review-content">
-                <div
-                  id="carouselExampleIndicators"
-                  className="carousel slide"
-                  data-ride="carousel"
-                >
-                  <div className="carousel-inner" role="listbox">
-                    <div className="carousel-item">
-                      <p>
-                        Current corporate structures are too slow to reflect the
-                        demand for flexible investments. With an ICO, it's
-                        possible to achieve something that can be done in a GmbH
-                        and an AG only with great effort and expense."
-                      </p>
-                    </div>
-                    <div className="carousel-item active">
-                      <p>
-                        Current corporate structures are too slow to reflect the
-                        demand for flexible investments. With an ICO, it's
-                        possible to achieve something that can be done in a GmbH
-                        and an AG only with great effort and expense."
-                      </p>
-                    </div>
-                  </div>
-                  <ol className="carousel-indicators">
-                    <li
-                      data-target="#carouselExampleIndicators"
-                      data-slide-to={0}
-                      className
-                    >
-                      <a>
-                        <span>
-                          <img src="./img/member.png" alt="image" />
-                        </span>
-                        <span>Niko Alm</span>
-                      </a>
-                    </li>
-                    <li
-                      data-target="#carouselExampleIndicators"
-                      data-slide-to={1}
-                      className="active"
-                    >
-                      <a>
-                        <span>
-                          <img src="./img/member.png" alt="image" />
-                        </span>
-                        <span> Udo Georges</span>
-                      </a>
-                    </li>
-                  </ol>
-                </div>
-              </div>
-            </div>
-          </div> */}
+          
         </div>
       </div>
       <div className="advisory-board">

@@ -85,7 +85,7 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "partners-section"}
           - {label: "Title", name: "title", widget: "string"}
-          - {label: "Partners", name: "partners", widget: list, fields: [{label: "Name (ALT-Tag)", name: "name", widget: string},{label: "URL", name: "url", widget: string},,{label: "Image", name: "image", widget: image}]}
+          - {label: "Partners", name: "partners", widget: list, fields: [{label: "Name (ALT-Tag)", name: "name", widget: string},{label: "URL", name: "url", widget: string},{label: "Image", name: "image", widget: image}]}
   - name: "pages"
     label: "Pages"
     files:
