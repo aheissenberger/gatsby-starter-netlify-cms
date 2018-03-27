@@ -4,21 +4,45 @@ title: The Solution For the Financial Market of the Future
 title1: The Solution For the
 title2: Financial Market of the Future
 quote: >-
-  CONDA is a decentralized and distributed clearing system for crowdfinancing
-  built on the blockchain, which will create the financial market of the future.
-
-
-  This technology allows anyone to securely and transparently invest in
-  companies all around the world, in accordance with regulatory requirements.
+  Decentralized, Interconnected, Community-Driven, Transparent, No
+  Intermediaries Needed.
 description: >-
-  CONDA faces the problems by creating the missing decentralized infrastructure
-  built on the blockchain: for companies seeking funds, investors looking for
-  investment options and platform operators providing the appropriate tools.
+  Investors
+
+  Investors can transfer alternative investments and to buy add-ons on the
+  platform using CRWD Tokens.
+
+  Investors
+
+  Investors will receive CRWD Tokens as a reward for their activities on the
+  platform, such as giving expert feedback to the companies presenting their
+  campaigns.
 
 
-  With this new platform, the power of the crowd will reach its full potential
-  by being fully decentralized, community-driven, transparent, and without any
-  bo aries in the form of intermediaries between the participants in the
-  ecosystem.
+  Companies
+
+  Companies can pay for consulting during
+
+  the set-up and execution of the
+
+  crowdinvesting campaign with CRWD
+
+  Token.
+
+
+  Companies can purchase the maintenance
+
+  of their investment, including paying
+
+  interests, voting, or sending messages.
+
+
+  White-label partners
+
+  White-label partners can effortlessly present companies from other countries
+  on their platform using the infrastructure, without having to
+
+  handle different currencies or small transaction fees, and automatically get
+  their reward in CRWD Tokens.
 ---
 
