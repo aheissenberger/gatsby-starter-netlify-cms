@@ -350,6 +350,7 @@ h2 {
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
   border-radius: 100px;
+  padding: 8px 35px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
   -webkit-box-shadow: 0px 3px 1px rgba(121, 220, 186, 0.2);
@@ -361,7 +362,7 @@ h2 {
   background-color: #2ac490;
   border-color: #2ac490;
   border-width: 2px;
-  font-size: 13px; }
+  font-size: 18px; }
   .btn-primary:hover {
     background-color: #2ac490;
     border-color: #2ac490; }
@@ -369,7 +370,7 @@ h2 {
 .btn-default {
   border: #c7c8cd solid 2px;
   background-color: #fff;
-  font-size: 13px; }
+  font-size: 18px; }
 
 .outer-wrapper {
   max-width: 1500px;
@@ -2088,6 +2089,7 @@ h2 {
         flex-direction: row; } }
     .purchase .purchase-btn .btn-item {
       text-align: center;
+      padding-top: 18px;
       margin-right: 50px; }
       @media only screen and (max-width: 767px) {
         .purchase .purchase-btn .btn-item {
@@ -2096,19 +2098,19 @@ h2 {
       @media only screen and (min-width: 768px) and (max-width: 992px) {
         .purchase .purchase-btn .btn-item {
           margin-right: 30px; } }
-      .purchase .purchase-btn .btn-item .btn {
+      /* .purchase .purchase-btn .btn-item .btn {
         padding: 8px 30px;
         height: 53px;
         font-size: 18px;
         min-width: 241px;
         text-align: center;
-        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4); }
-      .purchase .purchase-btn .btn-item p {
+        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4); } */
+      /* .purchase .purchase-btn .btn-item p {
         margin: 0px;
         padding: 0px;
         font-size: 13px;
         color: #474b6d;
-        margin-top: 11px; }
+        margin-top: 11px; } */
     .purchase .purchase-btn .community {
       flex: 0 0 auto;
       padding-left: 25px;
@@ -2392,7 +2394,7 @@ h2 {
     .four-step-ico .four-step-btn .btn-inner {
       flex: 0 0 auto;
       text-align: center; }
-      .four-step-ico .four-step-btn .btn-inner .btn {
+      /* .four-step-ico .four-step-btn .btn-inner .btn {
         padding: 8px 30px;
         height: 53px;
         min-width: 241px;
@@ -2401,7 +2403,7 @@ h2 {
         -webkit-box-shadow: none !important;
         -moz-box-shadow: none !important;
         box-shadow: none !important;
-        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4); }
+        text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.4); } */
       .four-step-ico .four-step-btn .btn-inner p {
         padding: 0;
         margin: 13px 0 0 0;

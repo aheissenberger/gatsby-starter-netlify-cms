@@ -28,18 +28,17 @@ export const AboutSectionTemplate = ({ title, title1, title2, facts, crowdinvest
 
             <div className="button-pane">
               <div className="btn-inner">
-                <button className="btn btn-primary">
-                  Apply for Private Sale
-                </button>
+                <a href="/whitelist" className="btn btn-primary">
+                  Whitelist Wallet
+                </a>
                 <p>&amp; grab 30% bonus!</p>
               </div>
               <div className="btn-inner">
-                <button className="btn btn-default">
+                <a href="/img/conda-white-paper.pdf" className="btn btn-default">
                   Download our White paper
-                </button>
+                </a>
                 <p>
-                  or download the
-                  <a>light paper</a>
+                  or download the&nbsp;<a href="/img/CONDA-Light-paper.pdf">light paper</a>
                 </p>
               </div>
             </div>

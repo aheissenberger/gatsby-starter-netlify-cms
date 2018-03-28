@@ -140,12 +140,16 @@ export const TokenSectionTemplate = ({
             <div className="community">
               <h3>Join Our ICO Community</h3>
               <div className="commu-icon">
+                <a href="https://www.facebook.com/crwdtoken/"  title="facebook" style={{color:"#474b6d"}}>
                 <span className="facebook">
                   <i className="fa fa-facebook" aria-hidden="true" />
-                </span>
+                  </span>
+                </a>
+                <a href="https://t.me/conda_ico" title="Telegram" style={{color:"#474b6d"}}>
                 <span className="fly">
                   <i className="fa fa-paper-plane" aria-hidden="true" />
                 </span>
+                </a>
               </div>
             </div>
           </div>

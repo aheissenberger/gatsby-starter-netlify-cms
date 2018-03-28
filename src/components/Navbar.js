@@ -70,7 +70,7 @@ const Navbar = () => (
           </ul>
           <div className="textwidget custom-html-widget">
             <div className="header-btn">
-              <button className="btn btn-default">White Paper</button>
+              <a href="/img/conda-white-paper.pdf" className="btn btn-default">White Paper</a>
               <a href="/privatesale" className="btn btn-primary">
                 Apply for Private Sale
               </a>
