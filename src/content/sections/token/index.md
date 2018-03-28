@@ -17,8 +17,8 @@ whitepaper: /img/conda-white-paper.pdf
 icodetails:
   buttoncalltoaction:
     info: '& grab 30% bonus!'
-    label: Join CONDA ICO
-    url: yy
+    label: Whitelist Wallet
+    url: /whitelist
   description: >-
     In total, 50% of the tokens will be distributed in the initial coin
     offering, which includes the tokens sold and bonus tokens distributed. After
@@ -26,8 +26,8 @@ icodetails:
 reasonswhy:
   buttoncalltoaction:
     info: '& grab 30% bonus!'
-    label: Apply for Private Sale
-    url: xx
+    label: Whitelist Wallet
+    url: /whitelist
   reasons:
     - icon: /img/offer.png
       title: Limited Offer
@@ -57,7 +57,7 @@ reasonswhy:
 foursteps:
   buttoncalltoaction:
     info: '& grab 30% bonus!'
-    label: Apply for Private Sale
-    url: xx
+    label: Whitelist Wallet
+    url: /whitelist
 ---
 
