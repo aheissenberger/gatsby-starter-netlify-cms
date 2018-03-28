@@ -71,12 +71,12 @@ const Navbar = () => (
           <div className="textwidget custom-html-widget">
             <div className="header-btn">
               <button className="btn btn-default">White Paper</button>
-              <button className="btn btn-primary">
+              <a href="/privatesale" className="btn btn-primary">
                 Apply for Private Sale
-              </button>
+              </a>
             </div>
             <div className="papper-plain">
-              <a>
+              <a href="https://t.me/conda_ico" title="Telegram">
                 <i className="fa fa-paper-plane" aria-hidden="true" />
               </a>
             </div>
