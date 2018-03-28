@@ -13,7 +13,7 @@ description: >-
   blockchain-supported ecosystem, it is also mandatory for the successful buying
   and selling of investments, and for maintaining all the positive aspects that
   blockchain brings to the table: transparency, security, and decentralization. 
-whitepaper: xx.pdf
+whitepaper: /img/conda-white-paper.pdf
 icodetails:
   buttoncalltoaction:
     info: '& grab 30% bonus!'
