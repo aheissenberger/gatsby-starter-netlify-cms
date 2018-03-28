@@ -1,5 +1,6 @@
 ---
 templateKey: icoinfo-page
+path: /icoinfo
 title: How to participate in CONDA ICO
 description: >-
   Information about the CRWD Token Distribution and the steps to participate in
@@ -14,7 +15,7 @@ The CRWD Token Distribution will take place over 16 days, starting on June 4, 20
 | Pre Sale, starting on June 4, 2018, until June 6, 2018   | Min. 5 ETH*   |
 | Crowd Sale, starting on June 6, 2018 until June 20, 2018 | Min. 0.1 ETH* |
 
-\* (EUR accordingly to ETH price)
+<div style="text-align: right">* (EUR accordingly to ETH price)</div>
 
 
 
@@ -40,13 +41,15 @@ All you need to do is visit the CRWD Token Whitelisting page, choose your prefer
 
 We will review every submission manually and let you know, once you’re whitelisted. 
 
-**Pre-/Crowd-Sale**
+**Pre-/Crowd-Sale
+**
 
 In order to be in the pole position for our ICO and to have a higher chance to get CRWD Tokens during the Pre-/Crowd-Sale, we strongly recommend to whitelist yourself BEFORE the sale starts.
 
 Once the Pre-/Crowd-Sale has started, you have to transfer ETH to our wallet-address or EUR to our bank account. After we have received your payment, you’ll get your CRWD Tokens immediately transferred to your ERC-20 wallet address.
 
-**Important to know:**
+**Important to know:
+**
 
 * Always check if you are on the official CRWD Token Website https://ico.conda.online.
 * Transfer your ETH ONLY to following wallet address: 0x7ffE6A2919bcFf1e27B74d496a650920577841D1
