@@ -25,11 +25,12 @@ export default class BlogIndexPage extends React.Component {
           <div className="blog__element">
             <div className="row">
               {blogposts.map(item => {
+                const { fields: {slug} } = item.node;
                 const { frontmatter: post } = item.node;
                 return (
                   <div className="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                     <div className="blog__element--item">
-                      <a href={post.path}>
+                      <a href={slug}>
                         <div className="image">
                           <img src={post.image} alt="image" />
                         </div>
@@ -70,6 +71,9 @@ export const pageQuery = graphql`
       totalCount
       edges {
         node {
+          fields {
+            slug
+          }
           frontmatter {
             title
             author

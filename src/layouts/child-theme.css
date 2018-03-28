@@ -64,7 +64,8 @@ Animation
   padding: 65px 0 80px 0; }
 
 .blog {
-  display: block; }
+  display: block;
+padding-top: 50px; }
   .blog__header {
     padding: 51px 0 72px 0;
     text-align: center; }
