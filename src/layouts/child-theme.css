@@ -231,7 +231,8 @@ Animation
           .blog__details--header .header-link span:after {
             right: 18px; }
     .blog__details--content {
-      margin: 0; }
+
+      margin: 1rem 0 0 0; }
       .blog__details--content h2 {
         color: #44516d;
         font-size: 35px;
