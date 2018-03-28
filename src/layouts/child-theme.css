@@ -176,7 +176,8 @@ Animation
     margin: 0 auto; }
     .blog__details--header {
       text-align: center; }
-      .blog__details--header h2 {
+      .blog__details--header h1 {
+        padding-top: 50px;
         font-size: 40px;
         color: #394764;
         font-weight: 300;
@@ -239,7 +240,7 @@ Animation
         margin-top: 45px;
         margin-bottom: 8px; }
       .blog__details--content p {
-        margin-bottom: 45px;
+        margin-bottom: 1rem;
         font-size: 16px;
         color: #44516d;
         line-height: 28px; }

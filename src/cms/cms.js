@@ -26,6 +26,7 @@ registerPreviewTemplate('token', TokenSectionPreview)
 registerPreviewTemplate('icoteam', ICOTeamSectionPreview)
 registerPreviewTemplate('newsletter', NewsletterSectionPreview)
 registerPreviewTemplate('faq', FAQSectionPreview)
+registerPreviewTemplate('blog', BlogPostPreview)
 
 CMS.registerPreviewTemplate('products', ProductPagePreview)
-CMS.registerPreviewTemplate('blog', BlogPostPreview)
+//CMS.registerPreviewTemplate('blog', BlogPostPreview)

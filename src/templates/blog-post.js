@@ -1,6 +1,6 @@
-import React from 'react'
-import Helmet from 'react-helmet'
-import Content, { HTMLContent } from '../components/Content'
+import React from "react";
+import Helmet from "react-helmet";
+import Content, { HTMLContent } from "../components/Content";
 
 export const BlogPostTemplate = ({
   content,
@@ -8,29 +8,39 @@ export const BlogPostTemplate = ({
   description,
   title,
   helmet,
+  author,
+  date,
+  tags
 }) => {
-  const PostContent = contentComponent || Content
+  const PostContent = contentComponent || Content;
 
   return (
-    <section className="section">
-      {helmet || ''}
+    <section className="blog__details">
+      {helmet || ""}
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <p>{description}</p>
-            <PostContent content={content} />
+            <div className="blog__details--header">
+              <h1>{title}</h1>
+              <div className="header-link">
+                <a>By {author}</a>
+                <span>{date}</span>
+                <a>{tags}</a>
+              </div>
+            </div>
+
+            <div className="blog__details--content">
+              <PostContent content={content} />
+            </div>
           </div>
         </div>
       </div>
     </section>
-  )
-}
+  );
+};
 
 export default props => {
-  const { markdownRemark: post } = props.data
+  const { markdownRemark: post } = props.data;
 
   return (
     <BlogPostTemplate
@@ -39,9 +49,12 @@ export default props => {
       description={post.frontmatter.description}
       helmet={<Helmet title={`Blog | ${post.frontmatter.title}`} />}
       title={post.frontmatter.title}
+      date={post.frontmatter.date}
+      tags={post.frontmatter.tags}
+      author={post.frontmatter.author}
     />
-  )
-}
+  );
+};
 
 export const pageQuery = graphql`
   query BlogPostByID($id: String!) {
@@ -50,9 +63,11 @@ export const pageQuery = graphql`
       html
       frontmatter {
         date(formatString: "MMMM DD, YYYY")
+        author
         title
         description
+        tags
       }
     }
   }
-`
+`;
