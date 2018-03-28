@@ -1,28 +1,53 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+templateKey: blog-post
+title: CONDA CRWD Network Tour – Part 0.5
+date: '2017-01-19T16:04:10+01:00'
+author: Daniel Horak
+tags:
+  - ''
+description: Hälfte unserer Roadshow durch Asien für unseren anstehenden CONDA ICO
 ---
+Nun ist knapp die Hälfte unserer Roadshow durch Asien für unseren anstehenden CONDA ICO – CRWD Network um – daher wird es Zeit einen kurzen Zwischenbericht abzuliefern.
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+![](/img/image-uploaded-from-ios-300x225.jpg)
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+Am 12.3 ging die Reise Richtung Asien los – erster Stopp war Singapur um hier 2,5 Tage an der Konferenz Money 20/20 Asia teilzunehmen.
 
-## A little history
+Was gleich zu Beginn auffällt: das ist eine Konferenz von Weltformat, alleine schon die Event Location, das Marina Bay Sands Hotel, ist mehr als beeindruckend. Mehrere Tausend Teilnehmer finden sich hier zusammen um sich über die Zukunft der Finanzwelt auszutauschen. Es herrscht ein spannender Mix aus Startups, Großunternehmen, Banken und den „new kids on the block“, die Vertreter der Krypto-Szene. Die Themen sind weit gestreut – es geht um alles Mögliche – von Zahlungsverkehr über Fintech-Investments bis hin zu ICOs und Cryptocurrencies. Nach vielen Gesprächen bestätigt sich der Eindruck unserer ersten Asienreise umso mehr – der Asiatische Markt ist mehr als Interessant für CONDA und unser CRWD Network.
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+Donnerstag 15.3 Abends organisieren wir ein kleines get-together mit potentiellen Investoren, Partner und Freunden von CONDA – standesgemäß im Paulaner Brauhaus (wir konnten leider kein österreichisches Restaurant in Singapur finden). Was uns auch erfreulich auffällt ist das kleine aber feine Österreicher-Netzwerk in Singapur, welches stets zur Stelle war und hier jeder, jedem hilft. Besonders gehört hier Daniel Deeb Badr gedankt (er betreibt das Expat-Portal in Singapur) – der uns in jeder Art und Weise tatkräftig unterstützt hat.
 
-## What you need to know before trying
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+> Mit diesen ersten sehr Interessanten Einblicken geht es am 17.3 weiter nach Hongkong – hier wartet auf uns eine der weltbesten Krypto-Konferenzen: Token2049.
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+![](/img/whatsapp-image-2018-03-21-at-17.38.05-225x300.jpeg)
+
+CONDA ICO CRWD Network blockchainDie Konferenz beginnt am Vorabend mit einem exklusiven invite-only Abendessen, organisiert durch einen unserer Advisor Jürgen Hoebarth – er lebt seit Jahren in Hongkong und ist schon quasi ein urgestein der Krypto- und ICO-Szene. Auch bei diesem Abendessen wieder spannend: wir sind nicht die einzigen Össis – das Netzwerk funktioniert hier auch und man fühlt sich sehr schnell zuhause und willkommen.
+
+
+
+Am nächsten Tag geht es auch schon los mit zwei vollgepackten Tagen auf der Konferenz – viele spannende Vorträge meist unterbrochen durch duzende Gespräche und Termine stehen auf der Tagesordnung. Man merkt sofort, hier handelt es sich um eine eigene Szene, es herrscht Aufbruchsstimmung, Lust auf Veränderung und aktiver Mitgestaltung. Die Geschwindigkeit ist beeindruckend, hier wird nicht lange gefackelt und jeder ist hoch fokussiert.
+
+
+
+Nach einem weiteren Networking-Abend, steht am nächsten Tag Abends die „ICO after-hour“ (auch wieder von Jürgen organisiert – danke dafür!) an wo wir in 10 Minuten unseren ICO präsentieren und anschließend die Fragen von rund 100 Anwesenden beantworten. Anderer Ort, nächster Tag aber ähnliches Format: „EURO Blockshow“ – gemeinsam mit anderen europäischen ICOs stellen wir unser CRWD Network vor und sprechen mit einer Vielzahl an Investoren.
+
+
+
+**Teil 1 unserer Roadshow in Zahlen:**
+
+* Konferenzen besucht: 2
+* ICO Pitches teilgenommen: 2
+* Side-Events organisiert: 1
+* Visitkarten erhalten: 183
+* Visitkarten verteilt: 310 (Crypto-Szene hat keine Visitkarten mehr, läuft alles auf Telegram)
+* Gespräche mit Investoren geführt: 42
+* Whitepaper versendet: 132 mal
+* Sonstige Gespräche und Meetings: gefühlte Tausend
+* Nicht beantwortet Emails seit Start der Reise: 560
+* Dinge gegessen die nicht zu identifizieren waren: 6
+* Mit dem Taxi verfahren: 3 mal
+* Durchschnittliche Stunden an Schlaf: 5
