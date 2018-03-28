@@ -6,7 +6,7 @@ const Hero = ({  }) => (
     <section className="banner">
     <div className="hero-banner">
       <div className="hero-block">
-        <h2 style={{textTransform: "uppercase"}}>The <img src={logo} style={{width:"3.8ex", height:"auto"}} /> Network</h2>
+        <h2 style={{textTransform: "uppercase"}}>The <img src={logo} style={{width:"3.8ex", height:"auto"}} alt="CRWD" /> Network</h2>
         <h1>Tokenized Equity Offerings</h1>
         <p>A decentralized network protocol for issuing and managing tokenized equity offerings of SMEs, Start-ups and Real Estate Projects.</p>
         <div className="progress-block" style={{visibility:"hidden"}}>

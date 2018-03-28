@@ -63,7 +63,7 @@ export const TokenSectionTemplate = ({
             <h1>
               <span>ICO</span> DETAILS
             </h1>
-            <p>Initial coin offering for Ether/FIAT/Bitcoin.</p>
+            <p>Initial coin offering for Ether/FIAT.</p>
           </div>
           <div className="ico-top">
             <div className="ico-btn__pane">
@@ -140,12 +140,12 @@ export const TokenSectionTemplate = ({
             <div className="community">
               <h3>Join Our ICO Community</h3>
               <div className="commu-icon">
-                <a href="https://www.facebook.com/crwdtoken/"  title="facebook" style={{color:"#474b6d"}}>
+                <a href="https://www.facebook.com/crwdtoken/"  title="facebook" style={{color:"#474b6d", textDecoration:"none"}}>
                 <span className="facebook">
                   <i className="fa fa-facebook" aria-hidden="true" />
                   </span>
                 </a>
-                <a href="https://t.me/conda_ico" title="Telegram" style={{color:"#474b6d"}}>
+                <a href="https://t.me/conda_ico" title="Telegram" style={{color:"#474b6d", textDecoration:"none"}}>
                 <span className="fly">
                   <i className="fa fa-paper-plane" aria-hidden="true" />
                 </span>

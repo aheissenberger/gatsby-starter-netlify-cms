@@ -468,7 +468,7 @@ h2 {
       padding: 0;
       line-height: 0;
       border: 0px;
-      margin-top: 15px; }
+      margin-top: 0; }
     .header .navbar .navbar-collapse {
       -webkit-box-pack: start;
       -ms-flex-pack: start;
@@ -631,8 +631,8 @@ h2 {
                 .header .navbar .navbar-collapse .textwidget .header-btn .btn.btn-default {
                   margin: 0; } }
             .header .navbar .navbar-collapse .textwidget .header-btn .btn.btn-primary {
-              height: 34px;
-              line-height: 28px;
+              height: 38px;
+              line-height: 32px;
               background-color: #2ac490; }
               @media only screen and (max-width: 767px) {
                 .header .navbar .navbar-collapse .textwidget .header-btn .btn.btn-primary {

@@ -304,7 +304,7 @@ export const HomePageTemplate = ({  }) => {
             <div className="ico-header">
               <h1>
                 <span>ICO</span> DETAILS</h1>
-              <p>Initial coin offering for Ether/FIAT/Bitcoin.</p>
+              <p>Initial coin offering for Ether/FIAT.</p>
             </div>
             <div className="ico-top">
               <div className="ico-btn__pane">
