@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
 title: CONDA CRWD Network Tour – Part 0.5
+path: conda-crwd-network
 date: '2017-01-19T16:04:10+01:00'
 author: Daniel Horak
 tags:
