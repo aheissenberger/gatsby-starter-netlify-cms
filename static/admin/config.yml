@@ -40,7 +40,7 @@ collections:
           - {label: "Title Part 1", name: "title1", widget: "string"}
           - {label: "Title Part 2", name: "title2", widget: "string"}
           - {label: Quote, name: quote, widget: text}
-          - {label: Description, name: description, widget: text}
+          - {label: Description, name: description, widget: markdown}
       - file: "src/content/sections/token/index.md"
         label: "Token"
         name: "token"
@@ -89,6 +89,14 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
+      - file: "src/pages/icoinfo/index.md"
+        label: "ICO Process Info"
+        name: "icoinfo"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "icoinfo-page"}
+          - {label: Title, name: title, widget: string}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "src/pages/faqs/index.md"
         label: "Frequently Asked Questions"
         name: "faqs"
