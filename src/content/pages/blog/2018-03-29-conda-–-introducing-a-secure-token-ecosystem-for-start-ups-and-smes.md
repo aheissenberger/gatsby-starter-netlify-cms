@@ -1,6 +1,7 @@
 ---
 templateKey: blog-post
-title: CONDA – introducing a secure token ecosystem for start-ups and SMEs.
+title: ' secure token ecosystem for start-ups and SMEs.'
+path: introducing-a-secure-token
 date: '2018-03-21T00:35:58+01:00'
 author: Paul Pöltner
 tags:
@@ -9,6 +10,7 @@ description: >-
   Our white paper was the focus of many conversations last month, and we’d love
   for you to be in on the discussion! Here’s some more information about our
   latest developments.
+image: /img/Blaz-Jamsek-img-150x150.jpg
 ---
 **Our white paper was the focus of many conversations last month, and we’d love for you to be in on the discussion! Here’s some more information about our latest developments.**
 
