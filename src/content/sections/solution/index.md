@@ -1,8 +1,8 @@
 ---
 templateKey: solution-section
-title: The Solution For the Financial Market of the Future
-title1: The Solution For the
-title2: Financial Market of the Future
+title: The CRWD Network
+title1: 'The '
+title2: CRWD Network
 quote: >-
   Decentralized, Interconnected, Community-Driven, Transparent, No
   Intermediaries Needed.
