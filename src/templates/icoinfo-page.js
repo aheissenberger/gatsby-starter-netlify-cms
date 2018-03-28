@@ -12,7 +12,7 @@ export const IcoinfoTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
-    <section className="section">
+    <section id="icoinfo" className="icoinfo">
       {helmet || ''}
       <div className="container content">
         <div className="columns">
