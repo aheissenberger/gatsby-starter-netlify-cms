@@ -11,6 +11,8 @@ import FAQSectionPreview from './preview-templates/FAQSectionPreview'
 
 import BlogPostPreview from './preview-templates/BlogPostPreview'
 import IcoinfoPagePreview from './preview-templates/IcoinfoPagePreview'
+
+
 import ProductPagePreview from './preview-templates/ProductPagePreview'
 
 function registerPreviewTemplate(name, template) {

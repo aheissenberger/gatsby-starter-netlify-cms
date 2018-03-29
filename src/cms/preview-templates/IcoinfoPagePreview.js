@@ -1,12 +1,13 @@
 import React from 'react'
-import { IcoinfoPageTemplate } from '../../templates/icoinfo-page'
+import { IcoinfoTemplate } from '../../templates/icoinfo-page'
 
-const IcoinfoPagePreview = ({ entry, widgetFor }) => (
-  <IcoinfoPageTemplate
+const IcoinfoPagePreview = ({ entry, widgetFor }) => {
+    return (
+  <IcoinfoTemplate
     content={widgetFor('body')}
     description={entry.getIn(['data', 'description'])}
     title={entry.getIn(['data', 'title'])}
   />
-)
+)}
 
 export default IcoinfoPagePreview
