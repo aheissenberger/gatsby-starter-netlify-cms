@@ -49,10 +49,12 @@
     }
   }
   blockquote {
-    border-left: 3px solid #bcc5e7;
-    margin-left: 0;
-    margin-right: 0;
-    padding-left: 16px;
+    background-color: #e0eff6;
+    border-left: 30px solid #cbe3ef;
+    margin: 0 0 1rem 0;
+    padding: 1rem;
+    line-height: 1.1;
+    p {margin-bottom: 0.5rem}
   }
 }
 

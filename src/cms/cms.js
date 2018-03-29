@@ -10,6 +10,7 @@ import NewsletterSectionPreview from './preview-templates/NewsletterSectionPrevi
 import FAQSectionPreview from './preview-templates/FAQSectionPreview'
 
 import BlogPostPreview from './preview-templates/BlogPostPreview'
+import IcoinfoPagePreview from './preview-templates/IcoinfoPagePreview'
 import ProductPagePreview from './preview-templates/ProductPagePreview'
 
 function registerPreviewTemplate(name, template) {
@@ -27,6 +28,7 @@ registerPreviewTemplate('icoteam', ICOTeamSectionPreview)
 registerPreviewTemplate('newsletter', NewsletterSectionPreview)
 registerPreviewTemplate('faq', FAQSectionPreview)
 registerPreviewTemplate('blog', BlogPostPreview)
+registerPreviewTemplate('icoinfo', IcoinfoPagePreview)
 
 CMS.registerPreviewTemplate('products', ProductPagePreview)
 //CMS.registerPreviewTemplate('blog', BlogPostPreview)
