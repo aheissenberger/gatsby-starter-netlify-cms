@@ -9,7 +9,7 @@ export const FAQSectionTemplate = ({ title, faqs }) => {
           <h2>{title}</h2>
           <div id="accordion" role="tablist" aria-multiselectable="true">
             {faqs.map((item, index) => (
-              <div className="card">
+              <div className="card" key={index}>
                 <div className="card-header" role="tab" id={"heading" + index}>
                   <a
                     className="collapse collapsed"

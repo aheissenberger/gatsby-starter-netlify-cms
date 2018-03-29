@@ -17,39 +17,41 @@ export const NewsletterSectionTemplate = ({
               <h3>{title1}</h3>
               <div className="news-feild">
                 <form
-                  action="https://conda.us7.list-manage.com/subscribe/post?u=7756e216dd2606870dfb053c2&amp;id=7c86d50a4e"
+                  action="https://conda.us7.list-manage.com/subscribe/post?u=7756e216dd2606870dfb053c2&id=7c86d50a4e"
                   method="post"
                   id="mc-embedded-subscribe-form"
                   name="mc-embedded-subscribe-form"
                   className="c12 c6-lg mx-auto validate text-center"
                   target="_blank"
-                  novalidate=""
+                  noValidate
                 >
-                  <input
-                    type="email"
-                    value=""
-                    name="EMAIL"
-                    className="form-control"
-                    placeholder={placeholder}
-                    id="mce-EMAIL"
-                    required=""
-                  />
+                  <div>
+                    <input
+                      type="email"
+                      value=""
+                      name="EMAIL"
+                      className="form-control"
+                      placeholder={placeholder}
+                      id="mce-EMAIL"
+                      required=""
+                    />
 
-                  <input
-                    type="submit"
-                    value={label}
-                    name="subscribe"
-                    id="mc-embedded-subscribe"
-                    className="btn btn-success"
-                  />
+                    <input
+                      type="submit"
+                      value={label}
+                      name="subscribe"
+                      id="mc-embedded-subscribe"
+                      className="btn btn-success"
+                    />
+                  </div>
                   <div
-                    style={{position: "absolute", left: "-5000px"}}
+                    style={{ position: "absolute", left: "-5000px" }}
                     aria-hidden="true"
                   >
                     <input
                       type="text"
                       name="b_7756e216dd2606870dfb053c2_7c86d50a4e"
-                      tabindex="-1"
+                      tabIndex="-1"
                       value=""
                     />
                   </div>

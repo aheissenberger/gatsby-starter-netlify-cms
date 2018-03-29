@@ -9,7 +9,7 @@ export const PartnersSectionTemplate = ({ title, partners }) => {
           <h2>{title}</h2>
           <div className="client-block">
             {partners.map((item, index) => (
-              <div className="client-item">
+              <div className="client-item" key={index}>
                 {item.url !== "" ? (
                   <a href={item.url}>
                     <img src={item.image} alt={item.name} />

@@ -2,8 +2,8 @@ import React from "react";
 
 const ReasonGrid = ({ reasons }) => (
   <div className="purchase-card">
-    {reasons.map(item => (
-      <div className="card-block">
+    {reasons.map( (item,index) => (
+      <div className="card-block" key={index}>
         <span>
           <img src={item.icon} alt="image" />
         </span>

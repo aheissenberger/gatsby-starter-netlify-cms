@@ -16,7 +16,7 @@ const Reviews = ({ reviews }) => (
         >
           <div className="carousel-inner" role="listbox">
             {reviews.map( (item,index) => (
-              <div className={index===0?"carousel-item active":"carousel-item"} >
+              <div className={index===0?"carousel-item active":"carousel-item"} key={index}>
                 <p>{item.quote}</p>
               </div>
             ))}
@@ -27,6 +27,7 @@ const Reviews = ({ reviews }) => (
                 data-target="#carouselExampleIndicators"
                 data-slide-to={index}
                 className={index===0?"active":null}
+                key={index}
               >
                 <a>
                   <span>
