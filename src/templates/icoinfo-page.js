@@ -12,15 +12,18 @@ export const IcoinfoTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
-    <section id="icoinfo" className="icoinfo">
-      {helmet || ''}
+    <section id="icoinfo" className="blog__details">
+      {helmet || ""}
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <PostContent content={content} />
+            <div className="blog__details--header">
+              <h1>{title}</h1>
+            </div>
+
+            <div className="blog__details--content">
+              <PostContent content={content} />
+            </div>
           </div>
         </div>
       </div>

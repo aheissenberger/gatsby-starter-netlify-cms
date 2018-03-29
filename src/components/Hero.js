@@ -42,24 +42,27 @@ const Hero = ({}) => (
             <span>seconds</span>
           </div>
         </div>
-        <div class="button-pane">
-          <div class="btn-inner">
-            <a href="/whitelist" class="btn btn-primary">
-              Whitelist Wallet
-            </a>
-            <p>&amp; grab 30% bonus!</p>
-          </div>
-          <div class="btn-inner">
-            <a href="/icoinfo" class="btn btn-default">
-              How to Participate
-            </a>
-            <p>
-              or watch the&nbsp;<a href="https://www.youtube.com/channel/UCvnUfzByoiX-R26GqmD0y0A/feed" target="_blank">
-                video
-              </a>
-            </p>
-          </div>
+        <div className="button-pane">
+        <div className="btn-inner">
+          <a href="/whitelist" className="btn btn-primary">
+            Whitelist Wallet
+          </a>
+          <p>
+&amp; grab 30% bonus!
+</p>
         </div>
+        <div className="btn-inner">
+          <a href="/icoinfo" className="btn btn-default">
+            How to Participate
+          </a>
+          <p>
+            or watch the&nbsp;<a href="https://www.youtube.com/channel/UCvnUfzByoiX-R26GqmD0y0A/feed" target="_blank">
+              video
+            </a>
+          </p>
+        </div>
+      </div>
+
       </div>
     </div>
   </section>
