@@ -61,9 +61,7 @@ crowdinvesting:
       creating an innovative crowdinvesting platform that connects companies
       with investors who help the firms’ ideas evolve into profitable businesses
       without intermediaries who actively participate in the success of these
-      businesses. 
-
-       *(Cambridge Centre for Alternative finance, 2016)
+      businesses. *(Cambridge Centre for Alternative finance, 2016)
     quote: >-
       "Alternative business funding increased considerably, with €5,431 million
       raised for over 9,400 start-ups and SMEs across Europe in 2015 – and
