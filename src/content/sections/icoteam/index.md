@@ -11,16 +11,59 @@ team:
     - description: Chief Marketing Officer
       image: /img/karin_turki_80x80.png
       name: Karin Turki
-    - description: Online Marketing Manager
-      image: /img/sascha_manhart2.png
-      name: Sascha Manhart
     - description: Chief Information Officer
       image: /img/andreas-heissenberger.jpg
       name: Andreas Heissenberger
+    - description: Online Marketing Manager
+      image: /img/sascha_manhart2.png
+      name: Sascha Manhart
+    - description: Managing Director CONDA Development Services
+      image: /img/igor-velickovic.jpg
+      name: Igor Veličković
+    - description: |-
+        Blockchain Enabler & Technical Advisor
+        Capacity Blockchain Solutions GmbH
+      image: /img/andreas petersson.jpg
+      name: Andreas Petersson
+    - description: Legal Advisor
+      image: /img/Blaz-Jamsek-img-150x150.jpg
+      name: Blaž Jamšek
+    - description: Developer
+      image: /img/Radojica-Radivojevic-img-150x150.jpg
+      name: Radojica Radivojević
+    - description: Developer
+      image: /img/Nebojsa-Nikolic-img-150x150.jpg
+      name: Nebojsa Nikolic
     - description: Investor Relations Manager
       image: /img/maria_kopp.png
       name: Maria Kopp
-    - {}
+    - description: Content Writer
+      image: /img/Vladana-Donevski-img-150x150.jpg
+      name: Vladana Donevski
+    - description: Content Writer
+      image: /img/julie sufana.jpg
+      name: Julie Sufana
+    - description: Bounty & Affiliate Program Manager
+      image: /img/stojan.jpg
+      name: ' Stojan Ivanišević'
+    - description: White Label Partner Manager
+      image: /img/Erika-Boon-Neu-150x150.png
+      name: Erika Boon
+    - description: Head of Campaign Management
+      image: /img/hannah_sturm.png
+      name: Hannah Sturm
+    - description: Chief Executive Officer Austria
+      image: /img/katharina_ehrenfellner.png
+      name: Katharina Ehrenfellner
+    - description: Head of Investment Management
+      image: /img/michael_lipper2.png
+      name: Michael Lipper
+    - description: Marketing Assistant
+      image: /img/lara_scheibner.png
+      name: Lara Scheibner
+    - description: Business Analyst
+      image: /img/hannes.jpg
+      name: Hannes Reithuber
 investors:
   members:
     - description: >-
