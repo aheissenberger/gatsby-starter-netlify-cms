@@ -32,7 +32,7 @@ faqs:
       of operation.
 
     question: >-
-      CONDA has already successfully raised investments for over 80 projects.
+      CONDA has already successfully raised investments for over 90 projects.
       Why does it need an ICO? 
   - answer: >-
       Yes, there is a bonus system during the Private- and Pre-Sale.
