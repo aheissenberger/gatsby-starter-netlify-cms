@@ -8,6 +8,13 @@
   height: 40px;
 }
 .blog__details--content {
+  h1 {
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 36px;
+    margin-top: 45px;
+    margin-bottom: 8px;
+  }
   ul {
     margin-left: 1.5rem;
     list-style: disc;
