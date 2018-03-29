@@ -58,7 +58,7 @@ description: form to apply for private sale
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7756e216dd2606870dfb053c2_abf258d993" tabindex="-1" value=""></div>
-    <div class="clear" style="text-align: center;"><input type="submit" value="Apply for Private Sale" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary"></div>
+    <div class="clear" style="text-align: center;"><input type="submit" value="Apply for Private Sale" name="subscribe" id="mc-embedded-subscribe" class="button i-btn i-btn-lg btn btn-primary"></div>
     </div>
 <div></div></form>
 </div>
