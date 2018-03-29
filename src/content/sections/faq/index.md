@@ -34,7 +34,14 @@ faqs:
     question: >-
       CONDA has already successfully raised investments for over 80 projects.
       Why does it need an ICO? 
-  - question: Is there a bonus system during the Private- and Crowd-Sale?
+  - answer: >-
+      Yes, there is a bonus system during the Private- and Pre-Sale.
+      Private-Sale investors get 30% bonus token and Pre-Sale investors get 20%
+      (plus additional up to 10%, depending on amount invested).
+
+
+      Please find the detailed scheme in our white paper.
+    question: Is there a bonus system during the Private- and Crowd-Sale?
   - answer: >-
       First of all, because you believe in our vision to build the financial
       market of the future by creating a decentralized network of crowdinvesting
