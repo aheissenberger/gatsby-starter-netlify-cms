@@ -61,14 +61,24 @@
     margin: 0 0 1rem 0;
     padding: 1rem;
     line-height: 1.1;
-    p {margin-bottom: 0.5rem}
+    p {
+      margin-bottom: 0.5rem;
+    }
   }
 }
 
 .hero-banner {
-  .button-pane .btn-inner:not(:last-child) {
-    .btn {
-      margin-right: 1rem;
+  .button-pane {
+    @media only screen and (amx-width: 767px) {
+      flex-wrap: wrap;
+    }
+    .btn-inner {
+      margin-bottom: 1.5rem;
+      &:not(:last-child) {
+        .btn {
+          margin-right: 1rem;
+        }
+      }
     }
   }
 }
