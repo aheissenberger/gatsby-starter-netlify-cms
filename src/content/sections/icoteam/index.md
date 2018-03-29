@@ -107,6 +107,14 @@ investors:
         developments in the area of blockchain technology on the one hand, and
         to establish market development in new markets on the other hand while
         securing and expanding existing markets."
+    - image: /img/hermann_mini.jpg
+      name: Hermann Hauser
+      quote: >-
+        I do believe that new developments - such as blockchain technology - are
+        crucial for the future of the financial industry. CONDA is not only
+        pioneering the crowd investing landscape in several European countries,
+        but also aiming to elevate current investment services to the next level
+        by creating a decentralized network protocol.
 advisoryboard:
   members:
     - description: Tokenization Expert & Advisor
