@@ -11,20 +11,19 @@ facts:
       our experienced team and partners.
     heading: Experience
     image: /img/chart.png
-    subheading: Proven track record in project handling
+    subheading: ''
   - description: >-
       CONDA has already successfully financed more than 90 projects, with a
       total invested capital of over €20 million. The team has the experience
-      and the knowledge to handle projects of every size all over Europe, from
-      €100,000 up to several million euros.
+      and the knowledge to handle projects all over Europe, from €100,000 up to
+      several million euros.
     heading: Success
     image: /img/invest.png
     subheading: ' '
-  - description: >
-      CONDA ́s goal is to not just to be another crowdinvesting platform. Our
-      mission is to create the financial market of the future. We are building a
-      community-based ecosystem for fast and secure crowdfinancing, based on
-      blockchain technology and combined with traditional forms of financing.
+  - description: >-
+      Our mission is to create the financial market of the future. We are
+      building a decentralized network protocol for issuing and managing
+      tokenized equity offerings of SMEs, Start-ups and Real Estate Projects.
     heading: Blockchain Technology
     image: /img/brain.png
     subheading: ' '
@@ -50,22 +49,21 @@ facts:
 crowdinvesting:
   firstsection:
     description: >-
-      In the last couple of years, due to having increasing numbers of
-      innovative and rapidly-growing SMEs, startups and real estate projects,
-      traditional forms of financing are unable to fit the needs of innovative
-      ventures. New and alternative forms of financing are the solution to
-      closing the financial gap, with the most important ones being crowdfunding
-      or crowdinvesting
+      In the last few years, the rapid growth in size and number of innovative
+      SMEs, startups, and real estate projects have demonstrated that
+      traditional forms of financing are unable to fit the needs of 
+      cutting-edge ventures. New and alternative forms of financing are the
+      solution to closing the financial gap, with crowdfunding or crowdinvesting
+      proving to be the most important.
 
 
-      Back in 2013, CONDA took the first step to closing this financial gap by
+      CONDA took the first step to closing this financial gap back in 2013 by
       creating an innovative crowdinvesting platform that connects companies
-      with investors who would help their ideas evolve into profitable business
-      without intermediaries, and by participating in the success of these
-      businesses.
+      with investors who help the firms’ ideas evolve into profitable businesses
+      without intermediaries who actively participate in the success of these
+      businesses. 
 
-
-      * (Cambridge Centre for Alternative finance, 2016)
+       * (Cambridge Centre for Alternative finance, 2016)
     quote: >-
       "Alternative business funding increased considerably, with €5,431 million
       raised for over 9,400 start-ups and SMEs across Europe in 2015 – and
