@@ -4,6 +4,7 @@ team:
   members:
     - description: Co-Founder and Managing Partner Sales & Marketing
       image: /img/daniel_horak.png
+      link: 'https://www.linkedin.com/in/danielhorak/'
       name: Daniel Horak
     - description: Co-Founder and Managing Partner Finance & Business Development
       image: /img/paul_pöltner2.png
