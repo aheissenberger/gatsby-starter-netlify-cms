@@ -8,7 +8,7 @@ public_folder: /img
 collections:
   - name: "blog"
     label: "Blog"
-    folder: "src/content/pages/blog"
+    folder: "src/content/blog"
     create: true
     slug: "{{slug}}"
     fields:
@@ -89,10 +89,10 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "partners-section"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Partners", name: "partners", widget: list, fields: [{label: "Name (ALT-Tag)", name: "name", widget: string},{label: "URL", name: "url", widget: string},{label: "Image", name: "image", widget: image}]}
-  - name: "pages"
-    label: "Pages"
+  - name: "specialpages"
+    label: "Special Pages"
     files:
-      - file: "src/content/pages/icoinfo/index.md"
+      - file: "src/content/specialpages/icoinfo/index.md"
         label: "ICO Process Info"
         name: "icoinfo"
         fields:
@@ -100,11 +100,22 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "src/content/pages/faqs/index.md"
+      - file: "src/content/specialpages/faqs/index.md"
         label: "Frequently Asked Questions"
         name: "faqs"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "faqs-page"}
           - {label: Title, name: title, widget: string}
           - {label: "Categories", name: "categories", widget: object, fields: [{label: "Categorie", name: "categorie", widget: text},{label: "FAQs", name: "faqs", widget: list, fields: [{label: "Question", name: "question", widget: text},{label: "Answer", name: "answer", widget: text}]}]}
+  - name: "pages"
+    label: "Pages"
+    folder: "src/content/pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "content-page"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Path", name: "path", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
