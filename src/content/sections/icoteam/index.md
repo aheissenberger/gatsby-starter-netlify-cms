@@ -11,6 +11,16 @@ team:
     - description: Chief Marketing Officer
       image: /img/karin_turki_80x80.png
       name: Karin Turki
+    - description: Online Marketing Manager
+      image: /img/sascha_manhart2.png
+      name: Sascha Manhart
+    - description: Chief Information Officer
+      image: /img/andreas-heissenberger.jpg
+      name: Andreas Heissenberger
+    - description: Investor Relations Manager
+      image: /img/maria_kopp.png
+      name: Maria Kopp
+    - {}
 investors:
   members:
     - description: >-
