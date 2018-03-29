@@ -43,6 +43,6 @@ Once the Pre-/Crowd-Sale has started, you have to transfer ETH to our wallet-add
 **Important to know:**
 
 * Always check if you are on the official CRWD Token Website https://ico.conda.online.
-* Transfer your ETH ONLY to following wallet address: 0x7ffE6A2919bcFf1e27B74d496a650920577841D1
+* Transfer your ETH ONLY to our wallet address you see after you [logged in ](https://oci.conda.online/)to your account
 * Make sure to double-check the details you provide, especially your ERC-20 wallt address. This address will receive the CRWD Tokens – if it’s not correct or the wrong address, CRWD Tokens may be lost!
 * Only upload high-qualitiy images of your government-issued ID or passport fort he KYC check.
