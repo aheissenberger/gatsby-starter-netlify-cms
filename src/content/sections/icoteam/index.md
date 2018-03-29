@@ -4,7 +4,6 @@ team:
   members:
     - description: Co-Founder and Managing Partner Sales & Marketing
       image: /img/daniel_horak.png
-      link: 'https://www.linkedin.com/in/danielhorak/'
       name: Daniel Horak
     - description: Co-Founder and Managing Partner Finance & Business Development
       image: /img/paul_pöltner2.png
@@ -71,7 +70,6 @@ investors:
         Serial entrepreneur, Co-Founder of Amadeus Capital & active business
         angel
       image: /img/hermann_mini.jpg
-      link: 'https://www.linkedin.com/in/hermannhauser/'
       name: Hermann Hauser
     - description: >-
         Serial entrepreneuer, board member at various companies & active
@@ -130,7 +128,9 @@ advisoryboard:
     - description: |
         Cryptoeconomics Researcher
       image: /img/daniel pichler.jpg
-      link: 'https://www.linkedin.com/in/dpichler/'
       name: Daniel Pichler
+    - description: Technology Development Partner
+      image: /img/evojam.png
+      name: evojam
 ---
 
