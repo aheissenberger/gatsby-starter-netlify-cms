@@ -1050,7 +1050,7 @@ h2 {
         padding-top: 50px; }
         @media only screen and (max-width: 767px) {
           .crowdfinancing .crowdfinancing-inner .row .about-content {
-            text-align: justify;
+            text-align: left;
             padding-top: 0; } }
         @media only screen and (min-width: 768px) and (max-width: 992px) {
           .crowdfinancing .crowdfinancing-inner .row .about-content {
@@ -1060,7 +1060,7 @@ h2 {
         padding-top: 108px; }
         @media only screen and (max-width: 767px) {
           .crowdfinancing .crowdfinancing-inner .row .blockchain-block {
-            text-align: justify;
+            text-align: left;
             padding-top: 0; } }
         @media only screen and (min-width: 768px) and (max-width: 992px) {
           .crowdfinancing .crowdfinancing-inner .row .blockchain-block {
@@ -1212,7 +1212,7 @@ h2 {
       max-width: 280px; }
       @media only screen and (max-width: 767px) {
         .crowdinvesting .first-section__text .text-block__left {
-          text-align: justify;
+          text-align: left;
           padding: 0px 20px;
           max-width: 100%; } }
       @media only screen and (min-width: 768px) and (max-width: 992px) {
@@ -1232,7 +1232,7 @@ h2 {
           .crowdinvesting .first-section__text .text-block__left .quot-text {
             width: 100%;
             padding: 0px 30px;
-            text-align: justify; } }
+            text-align: left; } }
         @media only screen and (min-width: 768px) and (max-width: 992px) {
           .crowdinvesting .first-section__text .text-block__left .quot-text {
             width: 100%;
@@ -1279,7 +1279,7 @@ h2 {
           max-width: none;
           flex: 0 0 100%;
           padding: 0 20px;
-          text-align: justify; } }
+          text-align: left; } }
       @media only screen and (min-width: 768px) and (max-width: 992px) {
         .crowdinvesting .first-section__text .text-block__right {
           -webkit-box-ordinal-group: 3;
@@ -1445,7 +1445,7 @@ h2 {
         line-height: 26px; }
         @media only screen and (max-width: 767px) {
           .crowdinvesting .second-section .second-section__text p {
-            text-align: justify; } }
+            text-align: left; } }
 
 .solution {
   background: url(../img/solution-bg.png) no-repeat top center #e2e4e9;
@@ -1483,7 +1483,7 @@ h2 {
         .solution .solution-inner .solution-left {
           max-width: 100%;
           padding-right: 30px;
-          text-align: justify; } }
+          text-align: left; } }
       @media only screen and (min-width: 768px) and (max-width: 992px) {
         .solution .solution-inner .solution-left {
           max-width: 100%;
@@ -1502,7 +1502,7 @@ h2 {
       padding: 0; }
       @media only screen and (max-width: 767px) {
         .solution .solution-inner .solution-right {
-          text-align: justify; } }
+          text-align: left; } }
       .solution .solution-inner .solution-right p {
         font-size: 14px;
         font-size: 14px;
@@ -1511,7 +1511,7 @@ h2 {
         padding-bottom: 30px; }
         @media only screen and (max-width: 767px) {
           .solution .solution-inner .solution-right p {
-            text-align: justify; } }
+            text-align: left; } }
         .solution .solution-inner .solution-right p:last-child {
           padding-bottom: 0px; }
     .solution .solution-inner .solution-btn {
@@ -1585,7 +1585,7 @@ h2 {
       line-height: 26px; }
       @media only screen and (max-width: 767px) {
         .token .token-inner p {
-          text-align: justify; } }
+          text-align: left; } }
       .token .token-inner p:last-child {
         margin-bottom: 0px; }
     .token .token-inner .token-logo {
@@ -1853,7 +1853,7 @@ h2 {
         color: #464755; }
         @media only screen and (max-width: 767px) {
           .ico-details .ico-top .ico-text p {
-            text-align: justify; } }
+            text-align: left; } }
     .ico-details .ico-top .ico-btn {
       margin-top: 67px; }
       @media only screen and (max-width: 767px) {
@@ -2073,7 +2073,7 @@ h2 {
         font-size: 14px; }
         @media only screen and (max-width: 767px) {
           .purchase .purchase-card .card-block p {
-            text-align: justify; } }
+            text-align: left; } }
   .purchase .purchase-btn {
     display: -webkit-box;
     display: -moz-box;
@@ -2718,7 +2718,7 @@ h2 {
             line-height: 37px; }
             @media only screen and (max-width: 767px) {
               .sale-investors .invesrer-review .review-slide .review-content .carousel-item p {
-                text-align: justify; } }
+                text-align: left; } }
 
 .advisory-board {
   margin: 0; }
@@ -3033,7 +3033,7 @@ h2 {
         padding: 20px; }
         @media only screen and (max-width: 767px) {
           .faq #accordion .card .card-block {
-            text-align: justify; } }
+            text-align: left; } }
 
 footer {
   display: block;
