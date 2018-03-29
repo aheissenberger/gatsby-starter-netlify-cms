@@ -8,7 +8,7 @@ const ProfileGrid = ({ members, bigger, prize }) => (
         key={index}
       >
         <div className="investors-card">
-          <a href={link}>
+          <a href={link} target="_blank">
             <span className="member-image">
               <img src={image} alt="image" />
             </span>
