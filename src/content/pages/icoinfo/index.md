@@ -20,11 +20,7 @@ The CRWD Token Distribution will take place over 16 days, starting on June 4, 20
 
 All CRWD tokens will be issued exclusively during the ICO. This is coded in the CONDA's Smart Contracts, so it is 100% guaranteed by the blockchain protocol. 
 
-> CONDA will create up to 
->
-> **45,000,000 CRWD Tokens**
->
-> . CONDA intends to exchange up to 22,500,000 CRWD Tokens (or 50% of the total token amount), including bonus tokens. 
+> CONDA will create up to **45,000,000 CRWD Tokens** CONDA intends to exchange up to 22,500,000 CRWD Tokens (or 50% of the total token amount), including bonus tokens. 
 
 The ETH / CRWD Token exchange rate will be fixed, and the EUR/CRWD Token exchange rate will be floating and will be presented on the webpage at 9 a.m. daily. 
 
