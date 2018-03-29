@@ -63,7 +63,7 @@ crowdinvesting:
       without intermediaries who actively participate in the success of these
       businesses. 
 
-       * (Cambridge Centre for Alternative finance, 2016)
+       *(Cambridge Centre for Alternative finance, 2016)
     quote: >-
       "Alternative business funding increased considerably, with €5,431 million
       raised for over 9,400 start-ups and SMEs across Europe in 2015 – and
