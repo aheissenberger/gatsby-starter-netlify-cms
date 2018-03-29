@@ -6,7 +6,7 @@ const Footer = () => (
       <div className="container">
         <ul className="top-list">
           <li>
-            <a href="/img/conda-white-paper.pdf">Download White paper </a>
+            <a href="/img/conda-white-paper.pdf" target="_blank">Download White paper </a>
           </li>
           <li>
             <a href="/imprint">Imprint </a>
@@ -18,7 +18,7 @@ const Footer = () => (
             <a href="/blog">Blog </a>
           </li>
           <li>
-            <a href="https://www.conda.eu">Visit CONDA.eu</a>
+            <a href="https://www.conda.eu" target="_blank">Visit CONDA.eu</a>
           </li>
         </ul>
         <div className="email">
@@ -35,16 +35,16 @@ const Footer = () => (
         <div className="social-media">
           <ul className="media-list">
             <li>
-              <a href="https://www.facebook.com/crwdtoken/" title="facebook CRWD Token"><i className="fa fa-facebook" aria-hidden="true" /></a>
+              <a href="https://www.facebook.com/crwdtoken/" title="facebook CRWD Token" target="_blank"><i className="fa fa-facebook" aria-hidden="true" /></a>
             </li>
             <li>
-              <a href="https://twitter.com/conda_austria" title="Twitter CONDA"><i className="fa fa-twitter" aria-hidden="true" /></a>
+              <a href="https://twitter.com/conda_austria" title="Twitter CONDA" target="_blank"><i className="fa fa-twitter" aria-hidden="true" /></a>
             </li>
             <li>
-              <a href="https://t.me/conda_ico" title="Telegram"><i className="fa fa-paper-plane" aria-hidden="true" /></a>
+              <a href="https://t.me/conda_ico" title="Telegram" target="_blank"><i className="fa fa-paper-plane" aria-hidden="true" /></a>
             </li>
             <li>
-              <a href="https://github.com/conda-ag" title="github CONDA AG"><i className="fa fa-github-alt" aria-hidden="true" /></a>
+              <a href="https://github.com/conda-ag" title="github CONDA AG" target="_blank"><i className="fa fa-github-alt" aria-hidden="true" /></a>
             </li>
             <li>
               <a href="mailto:team@conda.eu" title="team@conda.eu"><i className="fa fa-envelope" aria-hidden="true" /></a>

@@ -70,13 +70,13 @@ const Navbar = () => (
           </ul>
           <div className="textwidget custom-html-widget">
             <div className="header-btn">
-              <a href="/img/conda-white-paper.pdf" className="btn btn-default">White Paper</a>
+              <a href="/img/conda-white-paper.pdf" className="btn btn-default" target="_blank">White Paper</a>
               <a href="/privatesale" className="btn btn-primary">
                 Apply for Private Sale
               </a>
             </div>
             <div className="papper-plain">
-              <a href="https://t.me/conda_ico" title="Telegram">
+              <a href="https://t.me/conda_ico" title="Telegram" target="_blank">
                 <i className="fa fa-paper-plane" aria-hidden="true" />
               </a>
             </div>
