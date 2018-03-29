@@ -69,7 +69,7 @@ investors:
     - description: >-
         Serial entrepreneur, Co-Founder of Amadeus Capital & active business
         angel
-      image: /img/meeting-space.png
+      image: /img/hermann_mini.jpg
       name: Hermann Hauser
     - description: >-
         Serial entrepreneuer, board member at various companies & active
@@ -80,11 +80,13 @@ investors:
       image: /img/nikoalm-1.jpg
       name: Niko Alm
     - description: Biggest austrian business angel syndicate with more than 100 mentors
+      image: /img/startup300_schwarz-neu.png
       name: startup300
     - description: 'Entrepreneur, consultant and Managing Director of BoYaSTAR GmbH'
       image: /img/udo-oksakowski-1.jpg
       name: Udo Georges Oksakowski
     - description: Fund for business financing & strategic development
+      image: /img/arax.png
       name: arax Capital Partners
   quotes:
     - image: /img/udo-oksakowski-1.jpg
