@@ -31,6 +31,7 @@ During the Private-, Pre- & Crowd-sale period, we are entitled to distribute CRW
 **Whitelist**
 
 All you need to do is visit the CRWD Token Whitelisting page, choose your preferred payment method (ETH or EURO), fill out the form, upload your KYC files and then submit them. 
+<div class="btn-inner"><a href="/whitelist" class="btn btn-primary">Whitelist Wallet</a><p>&amp; grab 30% bonus!</p></div>
 
 We will review every submission manually and let you know, once you’re whitelisted. 
 
