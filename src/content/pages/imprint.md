@@ -9,9 +9,7 @@ description: 'Content and editorial responsibility, Customer service, Risk discl
 CONDA AG\
 Donau-City-Straße 6, 1020 Vienna
 
-
-
-## Infos, data disclosure and further inquiry: 
+## Infos, data disclosure and further inquiry:
 
 telephone: +43 1 33 69 069\
 E-Mail: team@conda.eu
@@ -23,7 +21,7 @@ DVR: 4010715
 
 Member of the Austrian Economic Chamber Vienna: Unternehmensberatung und Vermögensberatung
 
-**commercial regulations: **Gewerbeordnung (www.ris.bka.gv.at) Freiwillige Verhaltensrichtlinien: www.guetezeichen.at
+**commercial regulations:** Gewerbeordnung (www.ris.bka.gv.at) Freiwillige Verhaltensrichtlinien: www.guetezeichen.at
 
 We recognize the Internet Ombudsman as extrajudicial dispute resolution in: Internet Ombudsmann, Margaretenstr. 70/2/10, 1050 Wien, www.ombudsmann.at
 
@@ -72,8 +70,6 @@ The website www.conda.at and all related content and information is made availab
 ## Liability and copyright
 
 All texts on the home page of CONDA are checked carefully. Despite this there can be no guarantee given regarding the accuracy or completeness of this information or that it is up-to-date. CONDA AG accepts no liability for this. The links to other websites were carefully selected. As CONDA has no influence over the content of these sites, CONDA AG, Österreich and CONDA Deutschland Crowdinvesting GmbH, München accept no responsibility for said content.
-
-
 
 ## Data protection guidelines
 
