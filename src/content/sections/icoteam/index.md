@@ -71,6 +71,7 @@ investors:
         Serial entrepreneur, Co-Founder of Amadeus Capital & active business
         angel
       image: /img/hermann_mini.jpg
+      link: 'https://www.linkedin.com/in/hermannhauser/'
       name: Hermann Hauser
     - description: >-
         Serial entrepreneuer, board member at various companies & active
@@ -129,6 +130,7 @@ advisoryboard:
     - description: |
         Cryptoeconomics Researcher
       image: /img/daniel pichler.jpg
+      link: 'https://www.linkedin.com/in/dpichler/'
       name: Daniel Pichler
 ---
 
