@@ -109,20 +109,15 @@ investors:
         securing and expanding existing markets."
 advisoryboard:
   members:
-    - description: Investor and Business Angel
-      image: /img/hansi-hansmann.jpg
-      name: Johann "Hansi" Hansmann
-    - description: Manager and owner of the advertising agency 3C-Design
-      image: /img/marcus-ceh.jpg
-      name: Markus Ceh
-    - description: Chief Marketing Officer of the Kapsch Group
-      image: /img/alf-netek.jpg
-      name: Alf Netek
-    - description: CEO of M27 Consulting and M27 Finance
-      image: /img/andreas-reinthaler.jpg
-      name: Andreas Reinthaler
-    - description: Tax Adviser and Partner at TPA Horwath
-      image: /img/roland-reisch.jpg
-      name: Roland Reisch
+    - description: Tokenization Expert & Advisor
+      image: /img/jürgen hoebarth.jpg
+      name: Jürgen Hoebarth
+    - description: Audit & Research Advisor Research Institute for Future Cryptoeconomics
+      image: /img/riat.png
+      name: RIAT
+    - description: |
+        Cryptoeconomics Researcher
+      image: /img/daniel pichler.jpg
+      name: Daniel Pichler
 ---
 
