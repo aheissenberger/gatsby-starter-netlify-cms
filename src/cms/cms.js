@@ -11,6 +11,7 @@ import FAQSectionPreview from './preview-templates/FAQSectionPreview'
 
 import BlogPostPreview from './preview-templates/BlogPostPreview'
 import IcoinfoPagePreview from './preview-templates/IcoinfoPagePreview'
+import ContentPagePreview from './preview-templates/ContentPagePreview'
 
 
 import ProductPagePreview from './preview-templates/ProductPagePreview'
@@ -31,6 +32,7 @@ registerPreviewTemplate('newsletter', NewsletterSectionPreview)
 registerPreviewTemplate('faq', FAQSectionPreview)
 registerPreviewTemplate('blog', BlogPostPreview)
 registerPreviewTemplate('icoinfo', IcoinfoPagePreview)
+registerPreviewTemplate('pages', ContentPagePreview)
 
 CMS.registerPreviewTemplate('products', ProductPagePreview)
 //CMS.registerPreviewTemplate('blog', BlogPostPreview)
