@@ -28,5 +28,5 @@ December 20, 2017 - Trending Topics
 **Semicolon Relations**
 
 Stefanie Kurzweil\
-Mail: stefanie.kurzweil@semicolon-relations.com\
-Phone: +43650 3663008
+Mail: <mailto:stefanie.kurzweil@semicolon-relations.com>\
+Phone: [+43650 3663008](tel:+436503663008)
