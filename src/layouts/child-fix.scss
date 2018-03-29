@@ -67,10 +67,10 @@
   }
 }
 
-.hero-banner {
+.banner {
   .button-pane {
-    @media only screen and (amx-width: 767px) {
-      flex-wrap: wrap;
+    @media only screen and (max-width: 767px) {
+      flex-wrap: wrap!important;
     }
     .btn-inner {
       margin-bottom: 1.5rem;
@@ -80,6 +80,16 @@
         }
       }
     }
+  }
+}
+
+.hero-banner {
+  .progress-block {
+    display: none;
+  }
+  @media only screen and (min-width: 768px) {
+    display: block;
+    visibility: hidden;
   }
 }
 
