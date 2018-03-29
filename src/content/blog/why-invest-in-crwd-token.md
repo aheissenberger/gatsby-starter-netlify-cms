@@ -31,8 +31,6 @@ CRWD Token is the core of all transactions made in the CONDA decentralized marke
 
 ## Why should you purchase CRWD Token?
 
-
-
 ## 1. Limited-time offer
 
 All tokens will be issued only during the ICO. This is stated in the CONDA smart contract and is therefore 100% guaranteed by a decentralized blockchain protocol. For investors this results in a reduced supply and therefore higher token price when hitting the exchanges.
@@ -53,4 +51,4 @@ Loyal members of the CONDA community will receive CRWD Token based on their acti
 
 All of CONDA’s activities as a crowdinvesting platform are checked by the financial authority in the countries in which CONDA operates. CONDA is currently operates as a subordinated loan.
 
-Read more about CRWD Token in the white paper.
+Read more about CRWD Token in the [white paper](https://ico.conda.online/wp-content/uploads/sites/2/2017/12/CONDA-White-paper.pdf).
