@@ -72,15 +72,11 @@ crowdinvesting:
     title2: the Future of Crowdinvesting
   secondsection:
     description: >-
-      The industry for alternative financing is growing rapidly and with it,
-      more different and non-standardized platforms for
-
-
-      ICOs and crowdfinancing are popping up. CONDA believes that the future of
-      financing lies in the power of the crowd. At the moment, the power of the
-      crowd is proving to be on a good path toward fulfilling the existing
-      financing gap, but it is also obvious that it has much more to overcome,
-      such as the lack of decentralization and full-transparency.
+      We are constantly empowering the crowd by enlarging our CONDA CRWD Network
+      - a network of platforms where investors create investment portfolios,
+      allowing startups and SMEs the chance to realize their business ideas. By
+      enabling our users to invest into various projects we create a positive
+      network effect where more investors empower more projects and vice versa.
     title1: 'Power of the Crowd:'
     title2: The Future of Financing
 ---
