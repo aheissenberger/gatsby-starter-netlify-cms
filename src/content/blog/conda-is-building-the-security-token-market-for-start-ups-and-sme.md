@@ -31,3 +31,5 @@ Having these elements setup, we are step by step creating a completely decentral
 
 [![Paul Pöltner](/img/paul-linkedin-150x150.jpg)](<https://www.linkedin.com/in/poeltner/>)
 
+---
+
