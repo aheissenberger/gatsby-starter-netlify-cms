@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: The Crypto Guide for Beginners – What is a token?
-path: what-is-a-token
+path: what-is-a-token-the-crypto-guide-for-beginners
 date: '2017-12-22T15:45:44+01:00'
 author: Sascha Manhart
 tags:
   - Crypto Guide
 description: What is a token?
-image: /img/crwd network logo.png
+image: /img/write-593333_1280-670x396.jpg
 ---
 Due to the early stage of investment with cryptocurrency, not every ICO has predefined what a token should represent. It is completely up to each company to decide upon its token’s relevance. A very generic definition is that a token is simply a digital resource (often purchased with „real“ currency) which you control and can reassign to someone else.
 
