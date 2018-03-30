@@ -29,4 +29,4 @@ The last element of our protocol is the investor key. We see the current develop
 
 Having these elements setup, we are step by step creating a completely decentralised and standardised ecosystem to invest into companies the legal and regulated way.
 
-
+![](/img/paul-post-670x377.jpg)
