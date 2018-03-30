@@ -1,4 +1,4 @@
-/whitelist  https://oci.conda.online/payment-method
+/whitelist  /f/payment-method
 /join-pre-sale  /privatesale
 /download-legal/presale_orderform_legalperson.pdf /img/pre_sale_crowdsale_order_form_legal_persons_20180330.pdf
 /download-legal/presale_crwd_token_distribution_agreement_crowd.pdf /img/[final]_crwd_token_distribution_agreement_crowd_presale__20180329.pdf
