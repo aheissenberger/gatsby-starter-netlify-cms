@@ -5,7 +5,7 @@ path: conda-crwd-network-tour-part-½
 date: '2018-03-28T00:00:00+02:00'
 author: Daniel Horak
 tags:
-  - ''
+  - Conferences
 description: Hälfte unserer Roadshow durch Asien für unseren anstehenden CONDA ICO
 image: /img/daniel-roadshow-670x377.jpg
 ---
