@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: The Crypto Guide for Beginners – What is KYC?
-path: what-is-kyc
+path: the-crypto-guide-for-beginners-what-is-kyc
 date: '2018-01-02T15:55:41+01:00'
 author: Karin
 tags:
   - Crypto Guide
 description: What is KYC?
-image: /img/crwd network logo.png
+image: /img/kunde-670x287.jpg
 ---
 ![](/img/kunde.jpg)
 

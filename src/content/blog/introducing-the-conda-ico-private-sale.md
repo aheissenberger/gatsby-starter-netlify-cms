@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: Introducing the CONDA ICO PRIVATE-SALE
-path: private-sale
+path: introducing-conda-ico-private-sale
 date: '2018-02-21T00:00:00+01:00'
 author: Julie
 tags:
-  - Uncategorized
+  - CRWD Token
 description: Introducing the private sale
-image: /img/crwd network logo.png
+image: /img/early-bird-post-670x377.jpg
 ---
 CRWD Token Private Sale
 

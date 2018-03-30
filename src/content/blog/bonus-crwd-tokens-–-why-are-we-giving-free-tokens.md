@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: Bonus CRWD Tokens – Why are we giving free tokens?
-path: free-tokens
+path: bonus-crwd-token-why-are-we-giving-free-tokens
 date: '2018-01-10T12:00:00+01:00'
 author: Karin
 tags:
   - CRWD Token
 description: Why are we giving free tokens?
-image: /img/crwd network logo.png
+image: /img/did-you-say-bonus-670x255.jpg
 ---
 ![null](/img/did-you-say-bonus.jpg)
 

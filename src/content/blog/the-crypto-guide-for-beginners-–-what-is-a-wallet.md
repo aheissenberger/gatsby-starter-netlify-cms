@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: The Crypto Guide for Beginners – What is a wallet?
-path: what-is-a-wallet
-date: '2018-03-29T15:36:08+02:00'
+path: the-crypto-guide-for-beginners-what-is-a-wallet
+date: '2017-12-27T15:36:00+01:00'
 author: Karin
 tags:
   - Crypto Guide
 description: Crypto Guide - what is a wallet?
-image: /img/crwd network logo.png
+image: /img/wallet-2561419_640.jpg
 ---
 ![wallet](/img/wallet-2561419_640.jpg)
 

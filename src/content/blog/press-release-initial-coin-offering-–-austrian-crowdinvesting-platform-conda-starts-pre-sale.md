@@ -3,13 +3,14 @@ templateKey: blog-post
 title: >-
   Press release: Initial Coin Offering – Austrian crowdinvesting platform CONDA
   starts pre-sale
-path: press-release-initial-coin-offering
+path: >-
+  press-release-initial-coin-offering-austrian-crowd-investing-platform-conda-starts-pre-sale
 date: '2017-12-20T15:25:28+01:00'
 author: Sascha Manhart
 tags:
-  - Uncategorized
+  - CRWD Token
 description: Press release
-image: /img/crwd network logo.png
+image: /img/early-bird-post-670x377.jpg
 ---
 After announcing its ICO several months ago, CONDA has now begun its pre-sale. Starting on December 20th, 2017, people can pre-sign for the new CRWD Token. By utilizing the power of blockchain technology, the company founded by Daniel Horak and Paul Poeltner aims to build the financial market of the future.
 

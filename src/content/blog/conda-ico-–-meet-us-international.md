@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: CONDA ICO – meet us international!
-path: meet-us-international
-date: '2018-03-07T00:00:00+01:00'
+path: conda-ico-meet-us-international
+date: '2018-03-07T10:00:00+01:00'
 author: Karin
 tags:
   - Crypto Guide
 description: Meet us International
-image: /img/crwd network logo.png
+image: /img/paul_daniel_meetconda-670x351.jpg
 ---
 ![null](/img/paul_daniel_meetconda.jpg)
 
@@ -44,4 +44,4 @@ more events coming soon…
 
 
 
-# Get in touch with us:
+

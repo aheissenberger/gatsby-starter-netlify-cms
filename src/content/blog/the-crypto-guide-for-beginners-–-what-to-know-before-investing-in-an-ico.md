@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: The Crypto Guide for Beginners – What to know before investing in an ICO?
-path: what-to-know-before-investing
+path: the-crypto-guide-for-beginners-what-to-know-before-investing-in-an-ico
 date: '2018-01-03T15:51:47+01:00'
 author: Karin
 tags:
   - Crypto Guide
 description: What to know before investing in an ICO?
-image: /img/crwd network logo.png
+image: /img/write-593333_1280-670x396.jpg
 ---
 ![](/img/write-593333_1280.jpg)
 

@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: The Crypto Guide for Beginners – How to identify an ICO scam!
-path: how-to-identify-scam
+path: how-to-avoid-scam
 date: '2018-01-31T12:00:48+01:00'
 author: Karin
 tags:
   - Crypto Guide
 description: How to identify an ICO scam!
-image: /img/crwd network logo.png
+image: /img/hacker-3081816_1280-670x670.jpg
 ---
 ## What is phishing?
 

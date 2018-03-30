@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: The Crypto Guide for Beginners – What is an ICO?
-path: what-is-an-ico
+path: what-is-an-ico-the-crypto-guide-for-beginners
 date: '2017-12-22T15:48:21+01:00'
 author: Sascha Manhart
 tags:
   - Crypto Guide
 description: What is an ICO?
-image: /img/crwd network logo.png
+image: /img/writing-1149962_640.jpg
 ---
 If it seems like lately everybody is talking about ICOs, it’s because startups are funding their businesses by raising millions of Euros or Dollars by issuing tokens. But it’s not as easy as it sounds!
 

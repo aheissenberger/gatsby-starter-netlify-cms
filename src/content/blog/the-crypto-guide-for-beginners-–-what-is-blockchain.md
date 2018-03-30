@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: The Crypto Guide for Beginners – What is blockchain?
-path: what-is-blockchain
+path: what-is-blockchain-the-crypto-guide-for-beginners
 date: '2017-12-22T15:33:23+01:00'
 author: Sascha Manhart
 tags:
   - Crypto Guide
 description: Crypto guide for beginners - What is blockchain?
-image: /img/crwd network logo.png
+image: /img/blockchain.png
 ---
 Regardless of your interest level, you’ve most certainly heard about Bitcoin, a cryptocurrency invented by the pseudonym Satoshi Nakamoto, who is either one genius individual or a group innovators – we don’t know and most probably never will. To understand this cryptocurrency, you need to know some basics, like the concept of blockchain.
 
