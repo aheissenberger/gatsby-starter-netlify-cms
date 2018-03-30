@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
 title: CONDA is building the security token market for start-ups and SME
-path: CONDA-building-security-token
+path: conda-is-building-the-security-token-market-for-start-ups-and-sme
 date: '2018-03-29T16:46:46+02:00'
-author: Karin
+author: Paul Pöltner
 tags:
   - CRWD Token
 description: CONDA is building the security token market
@@ -29,10 +29,4 @@ The last element of our protocol is the investor key. We see the current develop
 
 Having these elements setup, we are step by step creating a completely decentralised and standardised ecosystem to invest into companies the legal and regulated way.
 
-[![Paul Pöltner](/img/paul-linkedin-150x150.jpg)](https://www.linkedin.com/in/poeltner/)
 
-Paul Pöltner
-
-co-founder of CONDA
-
-\--
