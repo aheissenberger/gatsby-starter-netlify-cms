@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: KYC – Why does CONDA value it so much?
-path: KYC-CONDA
+path: kyc-why-does-conda-value-it-so-much
 date: '2018-01-11T12:00:52+01:00'
 author: Karin
 tags:
   - CRWD Token
 description: Why does CONDA value KYC so much?
-image: /img/crwd network logo.png
+image: /img/blogpost_header_kyc-670x257.jpg
 ---
 ![](/img/blogpost_header_kyc.jpg)
 
