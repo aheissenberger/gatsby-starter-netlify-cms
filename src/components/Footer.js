@@ -35,7 +35,7 @@ const Footer = () => (
         <div className="social-media">
           <ul className="media-list">
             <li>
-              <a href="https://www.facebook.com/crwdtoken/" title="facebook CRWD Token" target="_blank"><i className="fa fa-facebook" aria-hidden="true" /></a>
+              <a href="https://www.facebook.com/crwdnetwork/" title="facebook CRWD Token" target="_blank"><i className="fa fa-facebook" aria-hidden="true" /></a>
             </li>
             <li>
               <a href="https://twitter.com/conda_austria" title="Twitter CONDA" target="_blank"><i className="fa fa-twitter" aria-hidden="true" /></a>

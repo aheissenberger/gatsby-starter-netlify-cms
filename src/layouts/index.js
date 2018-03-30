@@ -13,9 +13,6 @@ import './all.sass'
 
 const TemplateWrapper = ({ children }) => (
   <div className="outer-wrapper">
-    <Helmet>
-      <title>CRD Toke | CONDA ICO</title> 
-    </Helmet>
     <Navbar />
     {children()}  
     <Footer />

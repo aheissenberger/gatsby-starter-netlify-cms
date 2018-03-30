@@ -1,11 +1,17 @@
 import React from "react";
 import Content, { HTMLContent } from "../components/Content";
 import AboutExperianceContent from "../components/AboutExperianceContent";
-import quoteImage from '../img/white-quote.png';
-import secgrap1Image from '../img/sec-grap1.png';
-import secgrap2Image from '../img/sec-grap2.png';
+import quoteImage from "../img/white-quote.png";
+import secgrap1Image from "../img/sec-grap1.png";
+import secgrap2Image from "../img/sec-grap2.png";
 
-export const AboutSectionTemplate = ({ title, title1, title2, facts, crowdinvesting }) => {
+export const AboutSectionTemplate = ({
+  title,
+  title1,
+  title2,
+  facts,
+  crowdinvesting
+}) => {
   return (
     <section id="about" className="about">
       <div className="crowdfinancing">
@@ -28,17 +34,28 @@ export const AboutSectionTemplate = ({ title, title1, title2, facts, crowdinvest
 
             <div className="button-pane">
               <div className="btn-inner">
+                <a href="/privatesale" className="btn btn-primary">
+                Apply for Private-Sale
+                </a>
+                <p>&amp; grab 30% bonus!</p>
+              </div>{" "}
+              {/* <div className="btn-inner">
                 <a href="/whitelist" className="btn btn-primary">
                   Whitelist Wallet
                 </a>
                 <p>&amp; grab 30% bonus!</p>
-              </div>
+              </div> */}
               <div className="btn-inner">
-                <a href="/img/conda-white-paper.pdf" className="btn btn-default">
+                <a
+                  href="/img/conda-white-paper.pdf"
+                  className="btn btn-default"
+                >
                   Download our White paper
                 </a>
                 <p>
-                  or download the&nbsp;<a href="/img/CONDA-Light-paper.pdf">light paper</a>
+                  or download the&nbsp;<a href="/img/CONDA-Light-paper.pdf">
+                    light paper
+                  </a>
                 </p>
               </div>
             </div>
@@ -48,25 +65,17 @@ export const AboutSectionTemplate = ({ title, title1, title2, facts, crowdinvest
       <div className="crowdinvesting">
         <div className="first-section__text">
           <div className="text-block__left">
-            <h2>
-              {crowdinvesting.firstsection.title1}
-            </h2>
-            <h1>
-              {crowdinvesting.firstsection.title2}
-            </h1>
+            <h2>{crowdinvesting.firstsection.title1}</h2>
+            <h1>{crowdinvesting.firstsection.title2}</h1>
             <div className="quot-text">
               <span className="quote-icon">
                 <img src={quoteImage} alt="quote" />
               </span>
-              <p>
-              {crowdinvesting.firstsection.quote}
-              </p>
+              <p>{crowdinvesting.firstsection.quote}</p>
             </div>
           </div>
           <div className="text-block__right">
-            <p>
-              {crowdinvesting.firstsection.description}
-            </p>
+            <p>{crowdinvesting.firstsection.description}</p>
           </div>
           <div className="first-section-img">
             <img src={secgrap1Image} alt="img" />
@@ -79,9 +88,7 @@ export const AboutSectionTemplate = ({ title, title1, title2, facts, crowdinvest
           <div className="second-section__text">
             <h2>{crowdinvesting.secondsection.title1}</h2>
             <h1>{crowdinvesting.secondsection.title2}</h1>
-            <p>
-              {crowdinvesting.secondsection.description}
-            </p>
+            <p>{crowdinvesting.secondsection.description}</p>
           </div>
         </div>
       </div>
