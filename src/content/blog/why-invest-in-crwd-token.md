@@ -7,7 +7,7 @@ author: Sascha Manhart
 tags:
   - CRWD Token
 description: Why invest in CRWD Token
-image: /img/crwd network logo.png
+image: /img/bild_cover_pitch_deck-670x265.png
 ---
 Blockchain technologies and cryptocurrencies are growing exponentially. So is the demand for alternative financing of startups and innovative ventures.
 
