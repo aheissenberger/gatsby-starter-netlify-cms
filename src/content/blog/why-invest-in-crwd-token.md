@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Why invest in CRWD Token?
-path: why-invest-in-CRWD
+path: why-to-invest-in-crwd-token
 date: '2017-12-21T15:29:19+01:00'
 author: Sascha Manhart
 tags:
