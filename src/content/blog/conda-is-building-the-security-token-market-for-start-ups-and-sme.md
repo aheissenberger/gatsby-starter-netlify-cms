@@ -9,7 +9,7 @@ tags:
 description: CONDA is building the security token market
 image: /img/paul-post-670x377.jpg
 ---
-![null](/img/paul-post-670x377.jpg)
+[![Paul Pöltner](/img/paul-post-670x377.jpg)](https://www.linkedin.com/in/poeltner/)
 
 ## What we do – and what not
 
