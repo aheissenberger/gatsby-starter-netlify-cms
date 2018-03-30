@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: 'CRWD Token: ICO date & new partners!'
 path: crwd-token-ico-date-new-partners
-date: '2018-03-30T21:49:35+02:00'
-author: Karin Turki
+date: '2018-03-15T21:49:35+01:00'
+author: 'Sascha Manhart '
 tags:
   - CRWD Token
 description: Press Release
