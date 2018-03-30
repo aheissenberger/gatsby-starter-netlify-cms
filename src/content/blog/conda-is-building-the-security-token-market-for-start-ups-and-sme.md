@@ -9,6 +9,8 @@ tags:
 description: CONDA is building the security token market
 image: /img/paul-post-670x377.jpg
 ---
+![null](/img/paul-post-670x377.jpg)
+
 ## What we do – and what not
 
 In the last month we were going through a lot of discussion based on our whitepaper so it is time to share more information about what we are doing and what we are not doing. We are thinking about how we streamline and standardize the full M&A process so that everyone can invest into companies also starting with small amount of investments. The blockchain is an enabler to further optimize and standardize this process. That’s why we are building up a protocol to shift the working crowd investing model to a completely decentralised and standardized protocol to setup investments into companies based on automated scalable investment products.
@@ -28,5 +30,3 @@ At the beginning, to give out the company token the first time, the smart contra
 The last element of our protocol is the investor key. We see the current developments form the regulators in Europe, that say that everyone who wants to buy a security needs to be identified. The investor key is linked with a specific Ethereum wallet and serves as this identification mechanism, after the owner of the private key of that wallet has gone through a [KYC process](https://ico.conda.online/kyc-why-does-conda-value-it-so-much/). This allows the CRWD Protocol to always know who owns which company token.
 
 Having these elements setup, we are step by step creating a completely decentralised and standardised ecosystem to invest into companies the legal and regulated way.
-
-![](/img/paul-post-670x377.jpg)
