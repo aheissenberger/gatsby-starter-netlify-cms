@@ -7,7 +7,7 @@ author: Karin
 tags:
   - CRWD Token
 description: CONDA is building the security token market
-image: /img/crwd network logo.png
+image: /img/paul-post-670x377.jpg
 ---
 ## What we do – and what not
 
