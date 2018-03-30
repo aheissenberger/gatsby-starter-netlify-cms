@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: The Crypto Guide for Beginners – What is a wallet?
 path: what-is-a-wallet
-date: '2018-03-29T15:36:08+02:00'
+date: '2017-12-27T15:36:00+01:00'
 author: Karin
 tags:
   - Crypto Guide
