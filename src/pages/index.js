@@ -206,7 +206,7 @@ query IndexQuery {
               image
               name
               description
-              link
+              
             }
           }
           investors {
@@ -214,7 +214,7 @@ query IndexQuery {
               image
               name
               description
-              link
+              
             }
             quotes {
               name
@@ -227,7 +227,7 @@ query IndexQuery {
               image
               name
               description
-              link
+              
             }
           }
         }
