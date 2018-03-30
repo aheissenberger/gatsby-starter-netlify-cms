@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: How can you benefit from buying CRWD Token?
-path: how-can-you-benefit
+path: how-to-benefit-from-buying-crwd-token
 date: '2018-01-10T12:00:51+01:00'
 author: Karin
 tags:
   - CRWD Token
 description: How can you benefit from buying CRWD Token?
-image: /img/crwd network logo.png
+image: /img/presale-fb-cover-670x255.jpg
 ---
 ![](/img/presale-fb-cover.jpg)
 
