@@ -1,16 +1,16 @@
 ---
 templateKey: blog-post
-title: ' secure token ecosystem for start-ups and SMEs.'
-path: introducing-a-secure-token
+title: CONDA – introducing a secure token ecosystem for start-ups and SMEs.
+path: secure-token-ecosystem
 date: '2018-03-21T00:35:58+01:00'
 author: Paul Pöltner
 tags:
-  - Uncategorized
+  - CRWD Token
 description: >-
   Our white paper was the focus of many conversations last month, and we’d love
   for you to be in on the discussion! Here’s some more information about our
   latest developments.
-image: /img/Blaz-Jamsek-img-150x150.jpg
+image: /img/bild_cover_pitch_deck-670x265.png
 ---
 **Our white paper was the focus of many conversations last month, and we’d love for you to be in on the discussion! Here’s some more information about our latest developments.**
 
