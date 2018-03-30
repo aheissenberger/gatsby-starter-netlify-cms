@@ -29,7 +29,7 @@ The last element of our protocol is the investor key. We see the current develop
 
 Having these elements setup, we are step by step creating a completely decentralised and standardised ecosystem to invest into companies the legal and regulated way.
 
-[![Paul Pöltner](/img/paul-linkedin-150x150.jpg)](<https://www.linkedin.com/in/poeltner/>) Paul Pöltner asdfasdfa
+[![Paul Pöltner](/img/paul-linkedin-150x150.jpg)](<https://www.linkedin.com/in/poeltner/>)
 
 --
 
