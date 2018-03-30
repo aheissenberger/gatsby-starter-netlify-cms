@@ -13,7 +13,7 @@ Nun ist knapp die Hälfte unserer Roadshow durch Asien für unseren anstehenden 
 
 ![null](/img/image-uploaded-from-ios-300x225.jpg)
 
-# Am 12.3 ging die Reise Richtung Asien los – erster Stopp war Singapur um hier 2,5 Tage an der Konferenz Money 20/20 Asia teilzunehmen.
+> Am 12.3 ging die Reise Richtung Asien los – erster Stopp war Singapur um hier 2,5 Tage an der Konferenz Money 20/20 Asia teilzunehmen.
 
 Was gleich zu Beginn auffällt: das ist eine Konferenz von Weltformat, alleine schon die Event Location, das Marina Bay Sands Hotel, ist mehr als beeindruckend. Mehrere Tausend Teilnehmer finden sich hier zusammen um sich über die Zukunft der Finanzwelt auszutauschen. Es herrscht ein spannender Mix aus Startups, Großunternehmen, Banken und den „new kids on the block“, die Vertreter der Krypto-Szene. Die Themen sind weit gestreut – es geht um alles Mögliche – von Zahlungsverkehr über Fintech-Investments bis hin zu ICOs und Cryptocurrencies. Nach vielen Gesprächen bestätigt sich der Eindruck unserer ersten Asienreise umso mehr – der Asiatische Markt ist mehr als Interessant für CONDA und unser CRWD Network.
 
