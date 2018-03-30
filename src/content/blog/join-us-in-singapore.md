@@ -5,9 +5,9 @@ path: join-us-in-singapore
 date: '2018-03-07T12:30:00+01:00'
 author: Karin
 tags:
-  - Uncategorized
+  - Conferences
 description: Meetup in Singapore
-image: /img/crwd network logo.png
+image: /img/meet-conda-singapur.jpg
 ---
 ![](/img/meet-conda-singapur.jpg)
 
