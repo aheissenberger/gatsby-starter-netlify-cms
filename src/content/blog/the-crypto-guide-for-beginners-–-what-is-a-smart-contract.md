@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: The Crypto Guide for Beginners – What is a smart contract?
-path: what-is-a-smart-contract
+path: the-crypto-guide-for-beginners-what-is-a-smart-contract
 date: '2017-12-27T15:41:55+01:00'
 author: Karin
 tags:
   - Crypto Guide
 description: What is a smart contract?
-image: /img/crwd network logo.png
+image: /img/write-593333_1280-670x396.jpg
 ---
 ![Contract](/img/writing-1149962_640.jpg)
 
