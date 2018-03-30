@@ -3,13 +3,13 @@ templateKey: blog-post
 title: >-
   TOKEN2049 – The Token And Cryptocurrency Ecosystem Is Meeting In The Heart Of
   Asia
-path: token2049
+path: token2049-get-your-exclusive-15-discount-now
 date: '2018-02-21T00:00:00+01:00'
 author: Karin
 tags:
-  - Uncategorized
+  - Conferences
 description: Token2049
-image: /img/crwd network logo.png
+image: /img/token2049-banner.jpg
 ---
 ![](/img/token2049-logo-300x300.png)
 
