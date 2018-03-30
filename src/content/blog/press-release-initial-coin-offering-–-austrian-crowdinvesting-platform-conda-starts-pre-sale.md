@@ -8,7 +8,7 @@ path: >-
 date: '2017-12-20T15:25:28+01:00'
 author: Sascha Manhart
 tags:
-  - Uncategorized
+  - CRWD Token
 description: Press release
 image: /img/early-bird-post-670x377.jpg
 ---
