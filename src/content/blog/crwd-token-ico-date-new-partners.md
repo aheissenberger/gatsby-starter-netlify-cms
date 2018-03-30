@@ -7,7 +7,7 @@ author: 'Sascha Manhart '
 tags:
   - CRWD Token
 description: Press Release
-image: /img/crwd network logo.png
+image: /img/early-bird-post-670x377.jpg
 ---
 ## CONDA – Crowdinvesting platform announces ICO date and introduces new partners
 
