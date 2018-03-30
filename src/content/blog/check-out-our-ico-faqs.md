@@ -1,13 +1,13 @@
 ---
 templateKey: blog-post
 title: Check out our ICO FAQs!
-path: ICO-FAQs
+path: check-out-our-ico-faqs
 date: '2018-01-16T12:00:06+01:00'
 author: Karin
 tags:
   - CRWD Token
 description: FAQ about ICO
-image: /img/crwd network logo.png
+image: /img/faq_banner-670x257.jpg
 ---
 ![](/img/faq_banner.jpg)
 
