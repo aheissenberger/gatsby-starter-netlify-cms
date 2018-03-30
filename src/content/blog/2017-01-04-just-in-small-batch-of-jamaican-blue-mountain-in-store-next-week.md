@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: CONDA CRWD Network Tour – Part 0.5
 path: conda-crwd-network-tour-part-½
-date: '2018-03-28T00:00:00+02:00'
+date: '2018-03-28T10:00:00+02:00'
 author: Daniel Horak
 tags:
   - Conferences
