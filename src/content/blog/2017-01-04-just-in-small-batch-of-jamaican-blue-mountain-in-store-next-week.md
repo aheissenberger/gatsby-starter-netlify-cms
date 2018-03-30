@@ -9,6 +9,9 @@ tags:
 description: Hälfte unserer Roadshow durch Asien für unseren anstehenden CONDA ICO
 image: /img/daniel-roadshow-670x377.jpg
 ---
+[![Daniel Horak](/img/daniel-roadshow-670x377.jpg)](https://www.linkedin.com/in/danielhorak/)
+
+
 Nun ist knapp die Hälfte unserer Roadshow durch Asien für unseren anstehenden CONDA ICO – CRWD Network um – daher wird es Zeit einen kurzen Zwischenbericht abzuliefern.
 
 ![null](/img/image-uploaded-from-ios-300x225.jpg)
