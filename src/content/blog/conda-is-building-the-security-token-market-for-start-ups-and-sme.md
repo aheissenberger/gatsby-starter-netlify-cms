@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: CONDA is building the security token market for start-ups and SME
-path: conda-is-building-the-security-token-market-for-start-ups-and-sme
+path: /conda-is-building-the-security-token-market-for-start-ups-and-sme
 date: '2018-03-29T16:46:46+02:00'
 author: Paul Pöltner
 tags:
