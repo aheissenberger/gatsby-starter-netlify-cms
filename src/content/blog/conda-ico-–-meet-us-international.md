@@ -26,8 +26,8 @@ Here is an overview (we will up-date it frequently) of all the events you might 
   ](http://conferences.unicom.co.uk/blockchain-zurich-2018/)
 * March 9: [Blockchain & Real Estate
   ](https://www.blockchain-real.at/)
-* March 13: [Weinviertel Business Forum
-  ](http://www.weinviertelbusinessforum.at/programm/bitcoin-das-ende-des-geldes.shtml)
+* March 13:[ Weinviertel Business Forum](http://www.weinviertelbusinessforum.at/)
+
 * March 13-15: [AsiaMoney2020
   ](https://asia.money2020.com/)
 * March 15-16: [Token Fest San Francisco
@@ -41,7 +41,3 @@ Here is an overview (we will up-date it frequently) of all the events you might 
   ](https://beyondblocks.com/)
 
 more events coming soon…
-
-
-
-
