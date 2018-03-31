@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Introducing the CONDA ICO PRIVATE-SALE
-path: introducing-conda-ico-private-sale
+path: /introducing-conda-ico-private-sale
 date: '2018-02-21T00:00:00+01:00'
 author: Julie
 tags:
