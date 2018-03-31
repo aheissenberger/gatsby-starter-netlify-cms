@@ -140,7 +140,7 @@ export const TokenSectionTemplate = ({
             <div className="community">
               <h3>Join Our ICO Community</h3>
               <div className="commu-icon">
-                <a href="https://www.facebook.com/crwdtoken/"  title="facebook" style={{color:"#474b6d", textDecoration:"none"}}>
+                <a href="https://www.facebook.com/crwdnetwork/"  title="facebook" style={{color:"#474b6d", textDecoration:"none"}}>
                 <span className="facebook">
                   <i className="fa fa-facebook" aria-hidden="true" />
                   </span>

@@ -38,4 +38,4 @@ These articles have got you covered:
 ](/
 
 
-For information about CONDA’s ICO, please have a look at our [white paper](https://ico.conda.online/wp-content/uploads/sites/2/2017/12/CONDA-White-paper.pdf), and stay up-to-date by following us on [Facebook](https://www.facebook.com/crwdnetwork/).
+For information about CONDA’s ICO, please have a look at our [white paper](https://ico.conda.online/img/conda-white-paper.pdf), and stay up-to-date by following us on [Facebook](https://www.facebook.com/crwdnetwork/).

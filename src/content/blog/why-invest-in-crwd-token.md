@@ -51,4 +51,4 @@ Loyal members of the CONDA community will receive CRWD Token based on their acti
 
 All of CONDA’s activities as a crowdinvesting platform are checked by the financial authority in the countries in which CONDA operates. CONDA is currently operates as a subordinated loan.
 
-Read more about CRWD Token in the [white paper](/wp-content/uploads/sites/2/2017/12/CONDA-White-paper.pdf).
+Read more about CRWD Token in the [white paper](/img/conda-white-paper.pdf).
