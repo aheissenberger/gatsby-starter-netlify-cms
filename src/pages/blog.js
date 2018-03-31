@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "gatsby-link";
 import Hero from "../components/Hero";
+import BlogPostTeaser from "../components/BlogPostTeaser";
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -24,33 +25,11 @@ export default class BlogIndexPage extends React.Component {
           </div>
           <div className="blog__element">
             <div className="row">
-              {blogposts.map(item => {
+              {blogposts.map( (item,index) => {
                 const { fields: {slug} } = item.node;
                 const { frontmatter: post } = item.node;
                 return (
-                  <div className="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                    <div className="blog__element--item">
-                      <a href={slug}>
-                        <div className="image">
-                          <img src={post.image} alt="image" />
-                        </div>
-                        <div className="content">
-                          <div className="content--text">
-                            <h3>{post.title}</h3>
-                          </div>
-                          <div className="content--details">
-                            <div className="date-pane">
-                              <a>By {post.author}</a>
-                              <span>{post.date}</span>
-                            </div>
-                            <div className="tag-pane">
-                              <a>{post.tags}</a>
-                            </div>
-                          </div>
-                        </div>
-                      </a>
-                    </div>
-                  </div>
+                  <BlogPostTeaser post={post} slug={slug} key={index} />
                 );
               })}
             </div>
