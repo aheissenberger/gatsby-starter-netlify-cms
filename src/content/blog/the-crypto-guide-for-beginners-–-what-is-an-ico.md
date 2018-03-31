@@ -25,14 +25,17 @@ These articles have got you covered:
 
 
 
-[Initial Coin Offering (ICO)](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp)
+[Initial Coin Offering (ICO)
+](https://www.investopedia.com/terms/i/initial-coin-offering-ico.asp)
 
-[What is an ICO?](https://bitcoinmagazine.com/guides/what-ico)
+[What is an ICO?
+](https://bitcoinmagazine.com/guides/what-ico)
 
-[How does an ICO work](https://www.cryptocompare.com/coins/guides/how-does-an-ico-work/)
+[How does an ICO work
+](https://www.cryptocompare.com/coins/guides/how-does-an-ico-work/)
 
  
-
+](/
 
 
 For information about CONDA’s ICO, please have a look at our [white paper](https://ico.conda.online/wp-content/uploads/sites/2/2017/12/CONDA-White-paper.pdf), and stay up-to-date by following us on [Facebook](https://www.facebook.com/crwdnetwork/).

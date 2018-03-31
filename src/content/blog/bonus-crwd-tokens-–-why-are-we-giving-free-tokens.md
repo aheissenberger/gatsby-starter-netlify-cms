@@ -13,7 +13,7 @@ image: /img/did-you-say-bonus-670x255.jpg
 
 CRWD Token Pre-Sale
 
-Here at CONDA, we’ve developed a [Pre-Sale Bonus Token Program](https://ico.conda.online/) for our early investors.
+Here at CONDA, we’ve developed a [Pre-Sale Bonus Token Program](/) for our early investors.
 
 Sign up during the pre-sale, and earn 20% more tokens with your initial investment. An additional token bonus of 10% can be earned depending on the amount invested.
 
@@ -31,4 +31,4 @@ We are equally excited about every new participant that joins the ecosystem, so 
 **We value our crowd, so do not miss our pre-sale! Grab your early bird bonus NOW!
 **
 
-Need more info? Check out our [white paper](https://ico.conda.online/wp-content/uploads/sites/2/2018/01/CONDA-White-paper.pdf).
+Need more info? Check out our [white paper](/wp-content/uploads/sites/2/2018/01/CONDA-White-paper.pdf).

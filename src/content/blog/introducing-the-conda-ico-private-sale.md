@@ -13,12 +13,13 @@ CRWD Token Private Sale
 
 
 
-As a reward to our earliest ICO investors, we have developed a [Private Sale Bonus Token Program](https://ico.conda.online/), which includes a 30% token bonus for joining by 1.4.18 (or until the first 1 million euros have been invested). 
+As a reward to our earliest ICO investors, we have developed a [Private Sale Bonus Token Program](/), which includes a 30% token bonus for joining by 1.4.18 (or until the first 1 million euros have been invested). 
 
 
 
-**We value our crowd – so do not miss our private sale, and grab your early bird bonus!**
+**We value our crowd – so do not miss our private sale, and grab your early bird bonus!
+**
 
 
-
+](/
 [Get all info in our whitepaper…](https://ico.conda.online/wp-content/uploads/sites/2/2018/01/CONDA-White-paper.pdf)

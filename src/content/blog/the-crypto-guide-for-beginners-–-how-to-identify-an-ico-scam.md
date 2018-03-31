@@ -19,7 +19,7 @@ Because the word „scam“ keeps popping up in relation to cryptos,  a certain 
 
 
 
-Check out our article “[What to know before investing in an ICO](https://ico.conda.online/the-crypto-guide-for-beginners-what-to-know-before-investing-in-an-ico/)” to find out more about how to evaluate an ICO!
+Check out our article “[What to know before investing in an ICO](/the-crypto-guide-for-beginners-what-to-know-before-investing-in-an-ico/)” to find out more about how to evaluate an ICO!
 
 
 

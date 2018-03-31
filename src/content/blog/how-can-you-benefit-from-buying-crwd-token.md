@@ -11,7 +11,7 @@ image: /img/presale-fb-cover-670x255.jpg
 ---
 ![](/img/presale-fb-cover.jpg)
 
-We’ve put a lot of emphasis on how we are planning to [create the financial market of the future](https://ico.conda.online/), but how does an individual participating in our ICO truly benefit from owning CRWD Token?
+We’ve put a lot of emphasis on how we are planning to [create the financial market of the future](/), but how does an individual participating in our ICO truly benefit from owning CRWD Token?
 
 
 

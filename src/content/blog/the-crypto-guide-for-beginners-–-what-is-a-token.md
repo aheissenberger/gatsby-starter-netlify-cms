@@ -25,4 +25,4 @@ Now that you have a better understanding of tokens, it’s important to mention 
 
 
 
-Check out our [white paper](https://ico.conda.online/wp-content/uploads/sites/2/2017/12/CONDA-White-paper.pdf) to get an overview of the CRWD Token and what value it holds on CONDA’s crowdinvesting platforms.
+Check out our [white paper](/wp-content/uploads/sites/2/2017/12/CONDA-White-paper.pdf) to get an overview of the CRWD Token and what value it holds on CONDA’s crowdinvesting platforms.

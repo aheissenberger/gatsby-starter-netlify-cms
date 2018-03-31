@@ -13,7 +13,7 @@ image: /img/blogpost_header_kyc-670x257.jpg
 
 ## KYC matters.
 
-Regardless of how daunting they may be for first-time investors, „Know Your Customer“ ([KYC](https://ico.conda.online/the-crypto-guide-for-beginners-what-is-kyc/)) requirements are incredibly important for numerous reasons.
+Regardless of how daunting they may be for first-time investors, „Know Your Customer“ ([KYC](/the-crypto-guide-for-beginners-what-is-kyc/)) requirements are incredibly important for numerous reasons.
 
 
 
@@ -33,4 +33,4 @@ CONDA is committed to remaining legally compliant with current and possible futu
 
 
 
-For more information about KYC, click [here](https://ico.conda.online/the-crypto-guide-for-beginners-what-is-kyc/).
+For more information about KYC, click [here](/the-crypto-guide-for-beginners-what-is-kyc/).

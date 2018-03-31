@@ -27,6 +27,6 @@ At the beginning, to give out the company token the first time, the smart contra
 
 ## Investor Key
 
-The last element of our protocol is the investor key. We see the current developments form the regulators in Europe, that say that everyone who wants to buy a security needs to be identified. The investor key is linked with a specific Ethereum wallet and serves as this identification mechanism, after the owner of the private key of that wallet has gone through a [KYC process](https://ico.conda.online/kyc-why-does-conda-value-it-so-much/). This allows the CRWD Protocol to always know who owns which company token.
+The last element of our protocol is the investor key. We see the current developments form the regulators in Europe, that say that everyone who wants to buy a security needs to be identified. The investor key is linked with a specific Ethereum wallet and serves as this identification mechanism, after the owner of the private key of that wallet has gone through a [KYC process](/kyc-why-does-conda-value-it-so-much/). This allows the CRWD Protocol to always know who owns which company token.
 
 Having these elements setup, we are step by step creating a completely decentralised and standardised ecosystem to invest into companies the legal and regulated way.
