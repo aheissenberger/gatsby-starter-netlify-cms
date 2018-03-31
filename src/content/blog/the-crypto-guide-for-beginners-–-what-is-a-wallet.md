@@ -9,8 +9,9 @@ tags:
 description: Crypto Guide - what is a wallet?
 image: /img/wallet-2561419_640.jpg
 ---
+![wallet](/img/wallet-2561419_640.jpg)
 
-To entirely understand how cryptocurrency transactions work, you need to understand what a wallet is.![wallet](/img/wallet-2561419_640.jpg)
+To entirely understand how cryptocurrency transactions work, you need to understand what a wallet is.
 
 
 
