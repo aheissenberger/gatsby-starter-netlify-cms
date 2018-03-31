@@ -89,9 +89,9 @@ If you need help or further information about our ICO, don't hesitate to contact
 
 <mailto:team@conda.eu>\
 [+43 1 33 69 069](tel:+4313369069)\
-[CONDA ICO on Facebook](https://www.facebook.com/crwdtoken/)\
+[CONDA ICO on Facebook](https://www.facebook.com/crwdnetwork/)\
 [CONDA ICO Slack Channel](http://bit.ly/2lgKuRa)\
-[CONDA ICO Telegram Channel](<CONDA ICO Telegram Channel>)
+[CONDA ICO Telegram Channel](https://t.me/conda_ico)
 
 [Download CONDA Light paper](/img/CONDA-Light-paper.pdf)\
 [Download CONDA White paper](/img/conda-white-paper.pdf)

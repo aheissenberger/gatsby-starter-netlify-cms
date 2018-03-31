@@ -30,4 +30,4 @@ For more information about smart contracts, check out these links:
 
 
 * [coindesk.com](https://www.coindesk.com/information/ethereum-smart-contracts-work/)
-* [techtarget.com](/searchcompliance.techtarget.com/definition/smart-contract)
+* [techtarget.com](http://searchcompliance.techtarget.com/definition/smart-contract)
