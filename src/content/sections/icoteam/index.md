@@ -8,59 +8,75 @@ team:
       name: Daniel Horak
     - description: Co-Founder and Managing Partner Finance & Business Development
       image: /img/paul_pöltner2.png
+      link: 'https://www.linkedin.com/in/poeltner/'
       name: Paul Pöltner
     - description: Chief Marketing Officer
       image: /img/karin_turki_80x80.png
+      link: 'https://www.linkedin.com/in/karinturki/'
       name: Karin Turki
     - description: Chief Information Officer
       image: /img/andreas-heissenberger.jpg
+      link: 'https://www.linkedin.com/in/andreasheissenberger/'
       name: Andreas Heissenberger
     - description: Online Marketing Manager
       image: /img/sascha_manhart2.png
+      link: 'https://www.linkedin.com/in/sascha-manhart-30850994/'
       name: Sascha Manhart
     - description: Managing Director CONDA Development Services
       image: /img/igor-velickovic.jpg
+      link: 'https://www.linkedin.com/in/igor-velickovic-29a2a24/'
       name: Igor Veličković
     - description: |-
         Blockchain Enabler & Technical Advisor
         Capacity Blockchain Solutions GmbH
       image: /img/andreas petersson.jpg
+      link: 'https://www.linkedin.com/in/andreas-petersson-202293b5/'
       name: Andreas Petersson
     - description: Legal Advisor
       image: /img/Blaz-Jamsek-img-150x150.jpg
+      link: 'https://www.linkedin.com/in/blazjamsek/'
       name: Blaž Jamšek
     - description: Developer
       image: /img/Radojica-Radivojevic-img-150x150.jpg
       name: Radojica Radivojević
     - description: Developer
       image: /img/Nebojsa-Nikolic-img-150x150.jpg
+      link: 'https://www.linkedin.com/in/nebojsa-nikolic-ab9193122/'
       name: Nebojsa Nikolic
     - description: Investor Relations Manager
       image: /img/maria_kopp.png
       name: Maria Kopp
     - description: Content Writer
       image: /img/Vladana-Donevski-img-150x150.jpg
+      link: 'https://www.linkedin.com/in/vladana-donevski-30a244152/'
       name: Vladana Donevski
     - description: Content Writer
       image: /img/julie sufana.jpg
+      link: 'https://www.linkedin.com/in/julie-sufana-14b3b217/'
       name: Julie Sufana
     - description: Bounty & Affiliate Program Manager
       image: /img/stojan.jpg
+      link: 'https://www.linkedin.com/in/stojanivanisevic/'
       name: ' Stojan Ivanišević'
     - description: White Label Partner Manager
       image: /img/Erika-Boon-Neu-150x150.png
+      link: 'https://www.linkedin.com/in/erika-boon-97b96238/'
       name: Erika Boon
     - description: Head of Campaign Management
       image: /img/hannah_sturm.png
+      link: 'https://www.linkedin.com/in/hannah-sturm/'
       name: Hannah Sturm
     - description: Chief Executive Officer Austria
       image: /img/katharina_ehrenfellner.png
+      link: 'https://www.linkedin.com/in/katharina-ehrenfellner-10236018/'
       name: Katharina Ehrenfellner
     - description: Head of Investment Management
       image: /img/michael_lipper2.png
+      link: 'https://www.linkedin.com/in/michaellipper/'
       name: Michael Lipper
     - description: Marketing Assistant
       image: /img/lara_scheibner.png
+      link: 'https://www.linkedin.com/in/lara-scheibner-956862120/'
       name: Lara Scheibner
     - description: Business Analyst
       image: /img/hannes.jpg
