@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: Exchange Rate
+title: Exchange
 path: exchangerate
 description: >-
   Exact EUR Amount will be calculated on the basis of the daily EUR/CRWT ratio
