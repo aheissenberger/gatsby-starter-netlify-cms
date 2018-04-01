@@ -23,7 +23,7 @@ const Hero = ({}) => (
         <div className="progress-block" style={{ visibility: "hidden" }}>
           <img src={progressImage} alt="progress" />
         </div>
-        <p>Private Sale ends in:</p>
+        <p>Pre-Sale starts in:</p>
         <div className="time-block">
           <div className="days">
             <span>27</span>
@@ -43,31 +43,31 @@ const Hero = ({}) => (
           </div>
         </div>
         <div className="button-pane">
-          <div className="btn-inner">
+          {/* <div className="btn-inner">
             <a href="/privatesale" className="btn btn-primary">
             Apply for Private-Sale
             </a>
             <p>&amp; grab 30% bonus!</p>
-          </div>
-          {/* <div className="btn-inner">
+          </div> */}
+          <div className="btn-inner">
             <a href="/whitelist" className="btn btn-primary">
               Whitelist Wallet
             </a>
-            <p>&amp; grab 30% bonus!</p>
+            {/* <p>&amp; grab 30% bonus!</p> */}
           </div>
           <div className="btn-inner">
             <a href="/icoinfo" className="btn btn-default">
               How to Participate
             </a>
-            <p>
+            {/* <p>
               or watch the&nbsp;<a
                 href="https://www.youtube.com/channel/UCvnUfzByoiX-R26GqmD0y0A/feed"
                 target="_blank"
               >
                 video
               </a>
-            </p>
-          </div> */}
+            </p> */}
+          </div>
         </div>
       </div>
     </div>

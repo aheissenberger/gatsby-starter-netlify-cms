@@ -18,18 +18,18 @@ description: >-
 whitepaper: /img/conda-white-paper.pdf
 icodetails:
   buttoncalltoaction:
-    info: '& grab 30% bonus!'
-    label: Apply for Private-Sale
-    url: /privatesale
+    info: ' '
+    label: Whitelist now
+    url: /whitelist
   description: >-
     In total, 50% of the tokens will be distributed in the initial coin
     offering, which includes the tokens sold and bonus tokens distributed. After
     the crowdsale, unsold tokens will be burned.
 reasonswhy:
   buttoncalltoaction:
-    info: '& grab 30% bonus!'
-    label: Apply for Private-Sale
-    url: /privatesale
+    info: ' '
+    label: Whitelist now
+    url: /whitelist
   reasons:
     - icon: /img/offer.png
       title: Limited Offer
@@ -66,8 +66,8 @@ reasonswhy:
         their activities on the platform.
 foursteps:
   buttoncalltoaction:
-    info: '& grab 30% bonus!'
-    label: Apply for Private-Sale
-    url: /privatesale
+    info: ' '
+    label: Whitelist now
+    url: /whitelist
 ---
 
