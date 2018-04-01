@@ -1,6 +1,6 @@
 /whitelist  /f/payment-method
 /exchangerate /icoinfo
-/join-pre-sale  /privatesale
+/join-pre-sale  /icoinfo
 /download-legal/presale_orderform_legalperson.pdf /img/pre_sale_crowdsale_order_form_legal_persons_20180330.pdf
 /download-legal/presale_crwd_token_distribution_agreement_crowd.pdf /img/[final]_crwd_token_distribution_agreement_crowd_presale__20180329.pdf
 /download-legal/crwd_token_general_terms.pdf /img/[final]_crwd_token_general_terms_20180328.pdf

@@ -31,8 +31,8 @@ export const SolutionSectionTemplate = ({
           </div>
           <div className="solution-btn">
             <div className="btn-inner">
-              <a href="/privatesale" className="btn btn-primary">Join CONDA ICO</a>
-              <p>&amp; grab 30% bonus!</p>
+              <a href="/whitelist" className="btn btn-primary">Join CONDA ICO</a>
+              {/* <p>&amp; grab 30% bonus!</p> */}
             </div>
           </div>
         </div>
