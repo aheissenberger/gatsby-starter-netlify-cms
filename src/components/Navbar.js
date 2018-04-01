@@ -1,12 +1,19 @@
 import React from "react";
 import Link from "gatsby-link";
-
+import CookieBanner from 'react-cookie-banner';
 
 import logo from "../img/logo.png";
 
 const Navbar = () => (
   <header className="header">
-    <div className="container">
+  <CookieBanner
+      message='This website uses cookies. By using our site you agree to our privacy policy'
+      onAccept={() => {}}
+      cookie="user-has-accepted-cookies"
+      dismissOnScrollThreshold={1000}
+    />
+    <div className="container"> 
+    
       <nav className="navbar navbar-expand-lg">
         <Link className="navbar-brand" to="/">
           <img src={logo} alt="Logo" />

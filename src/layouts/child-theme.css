@@ -403,7 +403,7 @@ h2 {
   position: relative; }
 
 .header {
-  height: 65px;
+  //  height: 65px;
   position: fixed;
   top: 0;
   left: 0;

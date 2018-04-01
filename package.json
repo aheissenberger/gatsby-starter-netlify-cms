@@ -21,6 +21,7 @@
     "gatsby-transformer-sharp": "^1.6.22",
     "prop-types": "^15.6.1",
     "react": "^16.2.0",
+    "react-cookie-banner": "^3.0.0",
     "react-helmet": "^5.2.0",
     "s3-deploy": "^0.10.0"
   },
