@@ -81,6 +81,9 @@ team:
     - description: Business Analyst
       image: /img/hannes.jpg
       name: Hannes Reithuber
+    - description: Head of Operations
+      image: /img/Predrag-Mijatovic-img-150x150.jpg
+      name: Predrag Mijatovic
 investors:
   members:
     - description: >-
