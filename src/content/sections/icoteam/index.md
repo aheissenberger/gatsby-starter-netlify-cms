@@ -26,6 +26,9 @@ team:
       image: /img/igor-velickovic.jpg
       link: 'https://www.linkedin.com/in/igor-velickovic-29a2a24/'
       name: Igor Veličković
+    - description: Head of Operations
+      image: /img/Predrag-Mijatovic-img-150x150.jpg
+      name: Predrag Mijatovic
     - description: |-
         Blockchain Enabler & Technical Advisor
         Capacity Blockchain Solutions GmbH
@@ -81,9 +84,6 @@ team:
     - description: Business Analyst
       image: /img/hannes.jpg
       name: Hannes Reithuber
-    - description: Head of Operations
-      image: /img/Predrag-Mijatovic-img-150x150.jpg
-      name: Predrag Mijatovic
 investors:
   members:
     - description: >-
