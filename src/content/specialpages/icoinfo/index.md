@@ -7,12 +7,12 @@ description: >-
 ---
 ## CRWD Token
 
-The CRWD Token Distribution will take place over 16 days, starting on June 4, 2018 and ends on June 20, 2018. Our ERC-20 compatible CRWD Tokens will be sold according to the schedule below:
+The CRWD Token Distribution will take place over 16 days, starting on June 4, 2018 and ends on July 31, 2018. Our ERC-20 compatible CRWD Tokens will be sold according to the schedule below:
 
 | Schedule                                                 | Contribution  |
 | -------------------------------------------------------- | ------------- |
 | Pre Sale, starting on June 4, 2018, until June 6, 2018   | Min. 5 ETH*   |
-| Crowd Sale, starting on June 6, 2018 until June 20, 2018 | Min. 0.1 ETH* |
+| Crowd Sale, starting on June 6, 2018 until July 31, 2018 | Min. 0.1 ETH* |
 
 <div style="text-align: right">* (EUR accordingly to ETH price)</div>
 
@@ -31,6 +31,7 @@ During the Private-, Pre- & Crowd-sale period, we are entitled to distribute CRW
 **Whitelist**
 
 All you need to do is visit the CRWD Token Whitelisting page, choose your preferred payment method (ETH or EURO), fill out the form, upload your KYC files and then submit them. 
+
 <div class="btn-inner"><a href="/whitelist" class="btn btn-primary">Whitelist Wallet</a><p>&amp; grab 30% bonus!</p></div>
 
 We will review every submission manually and let you know, once you’re whitelisted. 
