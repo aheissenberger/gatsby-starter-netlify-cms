@@ -8,6 +8,7 @@ import { ICOTeamSectionTemplate } from '../templates/icoteam-section';
 import { NewsletterSectionTemplate } from '../templates/newsletter-section';
 import { FAQSectionTemplate } from '../templates/faq-section';
 import { PartnersSectionTemplate } from '../templates/partners-section';
+import { IcoRatingsSectionTemplate } from '../templates/icoratings-section';
 
 export default class IndexPage extends React.Component {
   render() {
@@ -19,6 +20,7 @@ export default class IndexPage extends React.Component {
     const { edges: newsletterData }  = data.newsletter;
     const { edges: faqData }  = data.faq;
     const { edges: partnersData }  = data.partners;
+    const { edges: icoratingsData }  = data.icoratings;
     //const { edges: posts } = data.allMarkdownRemark
 
     return (
@@ -59,6 +61,10 @@ export default class IndexPage extends React.Component {
       <FAQSectionTemplate
         title={faqData[0].node.frontmatter.title}
         faqs={faqData[0].node.frontmatter.faqs}
+      />
+      <IcoRatingsSectionTemplate
+      title={icoratingsData[0].node.frontmatter.title}
+      partners={icoratingsData[0].node.frontmatter.partners}
       />
       <PartnersSectionTemplate
         title={partnersData[0].node.frontmatter.title}
@@ -260,6 +266,20 @@ query IndexQuery {
     }
   }
   partners: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(/sections/partners)/.*\\.md$/"}}) {
+    edges {
+      node {
+        frontmatter {
+          title
+          partners {
+            name
+            url
+            image
+          }
+        }
+      }
+    }
+  }
+  icoratings: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(/sections/icoratings)/.*\\.md$/"}}) {
     edges {
       node {
         frontmatter {

@@ -8,6 +8,7 @@ import TokenSectionPreview from './preview-templates/TokenSectionPreview'
 import ICOTeamSectionPreview from './preview-templates/ICOTeamSectionPreview'
 import NewsletterSectionPreview from './preview-templates/NewsletterSectionPreview'
 import FAQSectionPreview from './preview-templates/FAQSectionPreview'
+import IcoRatingsSectionPreview from './preview-templates/IcoRatingsSectionPreview'
 
 import BlogPostPreview from './preview-templates/BlogPostPreview'
 import IcoinfoPagePreview from './preview-templates/IcoinfoPagePreview'
@@ -30,6 +31,7 @@ registerPreviewTemplate('token', TokenSectionPreview)
 registerPreviewTemplate('icoteam', ICOTeamSectionPreview)
 registerPreviewTemplate('newsletter', NewsletterSectionPreview)
 registerPreviewTemplate('faq', FAQSectionPreview)
+registerPreviewTemplate('faq', IcoRatingsSectionPreview)
 registerPreviewTemplate('blog', BlogPostPreview)
 registerPreviewTemplate('icoinfo', IcoinfoPagePreview)
 registerPreviewTemplate('pages', ContentPagePreview)
