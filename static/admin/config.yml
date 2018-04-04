@@ -89,6 +89,13 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "partners-section"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Partners", name: "partners", widget: list, fields: [{label: "Name (ALT-Tag)", name: "name", widget: string},{label: "URL", name: "url", widget: string},{label: "Image", name: "image", widget: image}]}
+      - file: "src/content/sections/icoratings/index.md"
+        label: "ICO Ratings"
+        name: "partners"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "icoratings-section"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Partners", name: "partners", widget: list, fields: [{label: "Name (ALT-Tag)", name: "name", widget: string},{label: "URL", name: "url", widget: string},{label: "Image", name: "image", widget: image}]}
   - name: "specialpages"
     label: "Special Pages"
     files:
