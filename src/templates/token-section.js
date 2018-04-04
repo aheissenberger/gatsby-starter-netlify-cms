@@ -44,7 +44,7 @@ export const TokenSectionTemplate = ({
                     <span className="logo-text">
                       For more information, download
                     </span>
-                    <a href={whitepaper}>
+                    <a href={whitepaper} target="_blank">
                       <img
                         src={tokenDownloadImage}
                         alt="Button Download White Paper PDF"
