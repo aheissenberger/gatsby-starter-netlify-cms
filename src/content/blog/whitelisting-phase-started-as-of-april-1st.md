@@ -22,21 +22,21 @@ The CRWD Network is a decentralized network protocol on the blockchain, providin
 ## CRWD Network Advantages
 
 \
-**For SMEs, startups, and real estate projects:**
+For SMEs, startups, and real estate projects:
 
 * Standardized solutions for the creation and management of "tokenized" private equity instruments (both proprietary and mezzanine instruments) 
 * Easy and fast payouts with the touch of a button 
 * 100% legally-compliant: the network complies with the prevailing legal regulations in each country
 
 \
-**For crowdfinancing platforms: **
+For crowdfinancing platforms: 
 
 * Standardized and legally-compliant infrastructure 
 * The ability to share resources, contracts, communities, etc. and to reach a larger crowd
 * Increased automation via smart contracts 
 
 \
-**For investors:**
+For investors:
 
 * Investments are easier to transfer and trade 
 * Transparency & traceability 
