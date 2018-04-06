@@ -7,7 +7,7 @@ author: Sascha Manhart
 tags:
   - CRWD Token
 description: Press release
-image: /img/fb-cover_white-listing.jpg
+image: /img/get whitelisted now.jpg
 ---
 **Press release:**\
 On Easter Sunday, April 1st 2018, Austrian crowdfincancing platform CONDA began the whitelisting phase of its Initial Coin Offering (ICO). Moving forward, interested parties can register online, even before the official start of the crowd sale.\
