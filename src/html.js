@@ -49,6 +49,7 @@ module.exports = class HTML extends React.Component {
             name="viewport"
             content="width=device-width, initial-scale=1, shrink-to-fit=no"
           />
+          <meta name="google-site-verification" content="butr6Jr5Jk3HUVI46ClJ4qzZyq1kfntPOvDrFQYblJg" />
           <title>THE CRWD NETWORK | CONDA ICO</title>
           <link rel="icon" href="https://www.conda.eu/wp-content/themes/conda/frontend/images/favicon.ico" type="image/x-icon" />
           {this.props.headComponents}
