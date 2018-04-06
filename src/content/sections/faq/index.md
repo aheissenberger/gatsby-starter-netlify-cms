@@ -8,9 +8,9 @@ faqs:
       businesses together.
 
 
-      So far, 89 projects have been successfully funded, and investment capital
-      of more than € 19.60 million was raised via CONDA platforms in Europe.
-      Through CONDA’s platform, everyone can invest in a project, with
+      So far, almost 100 projects have been successfully funded, and investment
+      capital of more than € 22.50 million was raised via CONDA platforms in
+      Europe. Through CONDA’s platform, everyone can invest in a project, with
       investments being as low as €100. Apart from giving everybody the ability
       to participate as an investor, every valid project is given the
       opportunity to get financed through CONDA. 
