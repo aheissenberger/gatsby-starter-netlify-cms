@@ -15,15 +15,9 @@ On Easter Sunday, April 1st 2018, Austrian crowdfincancing platform CONDA began 
 \
 **Vienna, April 2018 **| In early April, CONDA entered the next phase of its ICO. Together with experts from project partner RIAT (The Institute for Future Cryptoeconomics), the team is now in the midst of developing the CRWD Network (pronounced Crowd Network), which requires its own cryptocurrency, the CRWD Token.  By joining the whitelisting phase, all interested parties now have the opportunity to register before the official start of the Crowd-Sale on June 6, 2018, avoiding longer wait times and ensuring that they will not miss the ICO.
 
-
-
 ## Crowdfinancing within a decentralized network protocol
 
 The CRWD Network is a decentralized network protocol on the blockchain, providing regulatory-compliant investment in SMEs, startups and real estate projects. Any platform on the network can take advantage of the benefits of the CRWD network. As a result, CONDA is setting new standards across Europe: companies use the network protocol, supported by various crowdfunding platforms, to issue tokenized private equity instruments (e.g. company shares, subordinated loans, etc.). This solves a widespread problem of the current crypto scene: the need for financial products to operate within a legally-compliant framework.
-
-
-
-
 
 ## CRWD Network Advantages
 
