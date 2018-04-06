@@ -10,7 +10,7 @@ const Hero = ({}) => (
           The{" "}
           <img
             src={logo}
-            style={{ width: "3.8ex", height: "auto" }}
+            style={{ width: "auto", height: "1.9ex", marginBottom: "-0,1ex" }}
             alt="CRWD"
           />{" "}
           Network
