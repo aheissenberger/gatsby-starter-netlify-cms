@@ -13,7 +13,7 @@ image: /img/fb-cover_white-listing.jpg
 On Easter Sunday, April 1st 2018, Austrian crowdfincancing platform CONDA began the whitelisting phase of its Initial Coin Offering (ICO). Moving forward, interested parties can register online, even before the official start of the crowd sale.\
 \
 \
-**Vienna, April 2018 **| In early April, CONDA entered the next phase of its ICO. Together with experts from project partner RIAT (The Institute for Future Cryptoeconomics), the team is now in the midst of developing the CRWD Network (pronounced Crowd Network), which requires its own cryptocurrency, the CRWD Token.  By joining the whitelisting phase, all interested parties now have the opportunity to register before the official start of the Crowd-Sale on June 6, 2018, avoiding longer wait times and ensuring that they will not miss the ICO.
+Vienna, April 2018 | In early April, CONDA entered the next phase of its ICO. Together with experts from project partner RIAT (The Institute for Future Cryptoeconomics), the team is now in the midst of developing the CRWD Network (pronounced Crowd Network), which requires its own cryptocurrency, the CRWD Token.  By joining the whitelisting phase, all interested parties now have the opportunity to register before the official start of the Crowd-Sale on June 6, 2018, avoiding longer wait times and ensuring that they will not miss the ICO.
 
 ## Crowdfinancing within a decentralized network protocol
 
@@ -29,7 +29,7 @@ The CRWD Network is a decentralized network protocol on the blockchain, providin
 * 100% legally-compliant: the network complies with the prevailing legal regulations in each country
 
 \
-**For crowdfinancing platforms: **
+For crowdfinancing platforms: 
 
 * Standardized and legally-compliant infrastructure 
 * The ability to share resources, contracts, communities, etc. and to reach a larger crowd
