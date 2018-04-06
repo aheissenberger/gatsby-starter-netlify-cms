@@ -32,7 +32,7 @@ faqs:
       of operation.
 
     question: >-
-      CONDA has already successfully raised investments for over 90 projects.
+      CONDA has already successfully raised investments for almost 100 projects.
       Why does it need an ICO? 
   - answer: >-
       Yes, there is a bonus system during the Private- and Pre-Sale.
@@ -52,6 +52,6 @@ faqs:
       CONDA services for less money. Another reason could be that you believe,
       that the value of the CONDA Token will increase over time and a possible
       exchange might be profitable for you.
-    question: 'How can I learn more about CONDA ICO? '
+    question: 'How can I learn more about CRWD Network? '
 ---
 
