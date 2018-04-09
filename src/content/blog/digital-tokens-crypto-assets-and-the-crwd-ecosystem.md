@@ -32,9 +32,7 @@ Newer projects like polymath, t0 and CRWD network utilize the concepts of two or
 
 In case of the CRWD project the three tokens utilized to achieve the decentralized infrastructure idea are: 
 
-![](/img/cryptocurrencies.png)
-
-
+![utility token vs security token](/img/cryptocurrencies.png)
 
 Besides these three, a fourth or non tradeable type of investor verification key is utilized as an unspendable ‘token’ that proves the follow through on formal verification procedures. 
 
@@ -42,4 +40,5 @@ A combination of current token models enables newly created asset tokens to exis
 
 Read more how this regulated subset will come about in the whitepaper at ico.conda.online.
 
-**CRWD network brings clarity and stability into the world of tokenized equity offerings. We are building a decentralized network protocol for SMEs, Start-ups and Real Estate Projects.**
+**CRWD network brings clarity and stability into the world of tokenized equity offerings. We are building a decentralized network protocol for SMEs, Start-ups and Real Estate Projects.
+**
