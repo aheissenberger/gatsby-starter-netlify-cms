@@ -12,6 +12,7 @@ description: >-
   CRWD Token in return!
 image: /img/bounty-post-pic.jpg
 ---
+<style>.blog__details--content img {width: 100%!important;max-width:100%!important;margin-right:0; }</style>
 **The crowd is the core of our business and once again, we address it while welcoming everyone to participate in our bounty program.
 **
 
