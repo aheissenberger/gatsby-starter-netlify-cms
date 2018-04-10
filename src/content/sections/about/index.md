@@ -6,8 +6,8 @@ title2: for Crowdfinancing
 facts:
   - description: >-
       CONDA launched its crowdinvesting platform in 2013. The blockchain
-      infrastructure presented is the logical step for bringing crowdfinancing
-      to the next level by utilizing the most efficient technology, supported by
+      infrastructure presented the logical step for bringing crowdfinancing to
+      the next level by utilizing the most efficient technology, supported by
       our experienced team and partners.
     heading: Experience
     image: /img/chart.png
