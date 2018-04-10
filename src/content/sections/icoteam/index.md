@@ -121,7 +121,7 @@ investors:
         "As an entrepreneur, the sound finance of ventures to strengthen the
         Central European business location is an important concern to me and to
         support this mission basis of my participation in the CONDA ICO."
-    - image: /img/nikoalm-1.jpg
+    - image: /img/niko alm kleiner.png
       name: Niko Alm
       quote: >-
         "Current corporate structures are too slow to reflect the demand for
