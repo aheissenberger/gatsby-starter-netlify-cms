@@ -99,7 +99,7 @@ investors:
       link: 'https://www.linkedin.com/in/hans-zavesky-ing-dkfm-kr-39525b92/'
       name: Hans Zavesky
     - description: 'Serial entrepreneuer, former CEO VICE CEE & active business angel'
-      image: /img/nikoalm-1.jpg
+      image: /img/niko alm kleiner.png
       link: 'https://www.linkedin.com/in/nikoalm/'
       name: Niko Alm
     - description: Biggest austrian business angel syndicate with more than 100 mentors
