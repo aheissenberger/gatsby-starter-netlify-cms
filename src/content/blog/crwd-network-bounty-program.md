@@ -13,8 +13,7 @@ description: >-
 image: /img/bounty-post-pic.jpg
 ---
 <style>.blog__details--content img {width: 100%!important;max-width:100%!important;margin-right:0; }</style>
-**The crowd is the core of our business and once again, we address it while welcoming everyone to participate in our bounty program.
-**
+**The crowd is the core of our business and once again, we address it while welcoming everyone to participate in our bounty program.**
 
 Spread the word and contribute to our efforts in developing a decentralized network protocol for issuing and managing tokenized equity offerings, and earn CRWD Token in return!
 
@@ -28,9 +27,7 @@ CONDA will create up-to 45,000,000 CRWD Tokens wherein 3% are reserved for the e
 * 40% for referral campaign - coming soon
 * 40% airdrop campaign - coming soon
 
-_
-CONDA reserves the right to change bounty campaign rules at any time - the changes will be shown on official ICO website and Bitcointalk.
-_
+_CONDA reserves the right to change bounty campaign rules at any time - the changes will be shown on official ICO website and Bitcointalk._
 
 ## Content Creation Campaign
 
