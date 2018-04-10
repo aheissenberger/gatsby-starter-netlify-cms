@@ -8,5 +8,8 @@ partners:
   - image: /img/icolist-small.png
     name: ICOLIST BY FXEMPIRE
     url: 'https://www.fxempire.com/crypto/ico/crwdtoken'
+  - image: /img/foundico.jpg
+    name: FOUND ICO
+    url: 'https://foundico.com/ico/crwd-network.html'
 ---
 
