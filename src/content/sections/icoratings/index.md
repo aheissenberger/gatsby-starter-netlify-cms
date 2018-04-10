@@ -11,5 +11,8 @@ partners:
   - image: /img/foundico.jpg
     name: FOUND ICO
     url: 'https://foundico.com/ico/crwd-network.html'
+  - image: /img/foxico.png
+    name: FOX ICO
+    url: 'https://foxico.io/project/crwdnetwork'
 ---
 
