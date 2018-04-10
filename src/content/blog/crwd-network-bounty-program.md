@@ -31,15 +31,11 @@ _
 CONDA reserves the right to change bounty campaign rules at any time - the changes will be shown on official ICO website and Bitcointalk.
 _
 
-
-
 ## Content Creation Campaign
 
 All participants will create content which will be scored. Based upon their relative participation in total score for the week they will receive **bounty share equal to the relative percentage of week's award**. 
 
 A bounty share is a part of the total bounty amount. Participants will get stakes on a weekly basis during the campaign. **The weekly score will be reset at the beginning of every week.** At the end of each week, posts are evaluated, the score is calculated and recorded. At the end of the campaign, each participants amount of bounty tokens will be calculated according to the amount of bounty stakes received. 
-
-
 
 ## General Terms & Conditions
 
@@ -52,11 +48,9 @@ All participants must
 * NO SPAM is allowed
 * restricted are: multiple accounts registrations, spam, abuse, insults
 
-
-
 ## Channels
 
-![](/img/facebook-banner.jpg)
+![null](/img/facebook-banner.jpg)
 
 ⇒ Follow and like the official [CRWD Network Facebook page](https://www.facebook.com/crwdnetwork/)
 
@@ -78,9 +72,7 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 
 [_Check status here._](http://goo.gl/GxNQNo)
 
-
-
-![](/img/twitter-banner.jpg)
+![null](/img/twitter-banner.jpg)
 
 ⇒ Follow and like the official [CONDA account](https://twitter.com/conda_austria) 
 
@@ -102,9 +94,7 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 
 [Check status here.](https://docs.google.com/spreadsheets/d/18OCx62nZ1Qsb_BhC6pLWgOdyPxlwh-wrVFwsDZz94J4/edit?usp=sharing)
 
-
-
-![](/img/linkedin-banner.jpg)
+![null](/img/linkedin-banner.jpg)
 
 **⇒ **Follow and like the official [CONDA LinkedIn profile](https://www.linkedin.com/company/conda-unternehmensberatungs-gmbh)
 
@@ -124,9 +114,7 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 
 [Check status here.](https://goo.gl/5jwgoH)
 
-
-
-![](/img/reddit-banner.jpg)
+![null](/img/reddit-banner.jpg)
 
 **⇒ **Fill out this form to make a request for the participation in the Reddit campaign: "[CRWD Network - Reddit Bounty Campaign](https://goo.gl/forms/736o1vSbI4S1be9B3)"
 
@@ -140,17 +128,13 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 
 [Check status here.](https://goo.gl/rjky2x)
 
-
-
-![](/img/youtube-banner.jpg)
+![null](/img/youtube-banner.jpg)
 
 Participants may create high quality YouTube videos about the CRWD Network - CONDa ICO (90 seconds up to 3 minutes) - starting from 50+ stakes. Additional stakes may be awarded depending on the video content quality and overall impression. 
 
 ⇒ Please contact us FIRST on [Telegram](https://t.me/crwd_network_bounty) or per E-Mail (<mailto:stojan.ivanisevic@conda.rs>) and attach link to your channel.
 
-
-
-![](/img/personal-blog-banner.jpg)
+![null](/img/personal-blog-banner.jpg)
 
 Posting to your own blog (adds to articles) - 4 stakes\
 Repost non-original article about CONDA in your blog - 4 stakes
@@ -164,9 +148,7 @@ Repost non-original article about CONDA in your blog - 4 stakes
 
 ⇒ Please FIRST contact us in [Telegram](https://t.me/crwd_network_bounty) or per E-Mail (<mailto:stojan.ivanisevic@conda.rs>) and attach link to your channel. 
 
-
-
-![](/img/bitcointalk-banner.jpg)
+![null](/img/bitcointalk-banner.jpg)
 
 **⇒ **Fill out this form to make a request for the participation in the BitcoinTalk campaign: "[CRWD Network - BitcoinTalk Bounty Sign-Up](https://goo.gl/forms/cCa3TydYc5uhtVv13)"
 
