@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Digital Tokens, Crypto-Assets and the CRWD Netwok'
+title: 'Digital Tokens, Crypto-Assets and the CRWD Network'
 path: digital-tokens
 date: '2018-04-09T12:28:10+02:00'
 author: Daniel Pichler
