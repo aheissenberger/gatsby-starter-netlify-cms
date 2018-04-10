@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 5 ways cryptocurrency knocks fiat out of the game
 path: 5-ways-cryptocurrency-knocks-fiat-out-of-the-game
-date: '2018-04-10T15:18:53+02:00'
+date: '2018-04-11T07:00:00+02:00'
 author: Vladana Donevski
 tags:
   - Uncategorized
