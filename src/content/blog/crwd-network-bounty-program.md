@@ -13,6 +13,7 @@ description: >-
 image: /img/bounty-post-pic.jpg
 ---
 <style>.blog__details--content img {width: 100%!important;max-width:100%!important;margin-right:0; }</style>
+
 **The crowd is the core of our business and once again, we address it while welcoming everyone to participate in our bounty program.**
 
 Spread the word and contribute to our efforts in developing a decentralized network protocol for issuing and managing tokenized equity offerings, and earn CRWD Token in return!
@@ -34,6 +35,10 @@ _CONDA reserves the right to change bounty campaign rules at any time - the chan
 All participants will create content which will be scored. Based upon their relative participation in total score for the week they will receive **bounty share equal to the relative percentage of week's award**. 
 
 A bounty share is a part of the total bounty amount. Participants will get stakes on a weekly basis during the campaign. **The weekly score will be reset at the beginning of every week.** At the end of each week, posts are evaluated, the score is calculated and recorded. At the end of the campaign, each participants amount of bounty tokens will be calculated according to the amount of bounty stakes received. 
+
+[Find example score calculation here.](<https://ico.conda.online/img/crwd network_bounty_examples for score.pdf>)
+
+
 
 ## General Terms & Conditions
 
@@ -74,7 +79,7 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 
 ⇒ Follow and like the official [CONDA account](https://twitter.com/conda_austria) 
 
-⇒ Fill out this form to make a request for the participation in the Twitter campaign: "[CRWD Network - Twitter Boutny Sign-Up](https://goo.gl/forms/vuJbGQ8joHTgGDV52)"
+⇒ Fill out this form to make a request for the participation in the Twitter campaign: "[CRWD Network - Twitter Bounty Sign-Up](https://goo.gl/forms/vuJbGQ8joHTgGDV52)"
 
 **Twitter bounty campaign rules:**
 
@@ -128,7 +133,7 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 
 ![null](/img/youtube-banner.jpg)
 
-Participants may create high quality YouTube videos about the CRWD Network - CONDa ICO (90 seconds up to 3 minutes) - starting from 50+ stakes. Additional stakes may be awarded depending on the video content quality and overall impression. 
+Participants may create high quality YouTube videos about the CRWD Network - CONDA ICO (90 seconds up to 3 minutes) - starting from 50+ stakes. Additional stakes may be awarded depending on the video content quality and overall impression. 
 
 ⇒ Please contact us FIRST on [Telegram](https://t.me/crwd_network_bounty) or per E-Mail (<mailto:stojan.ivanisevic@conda.rs>) and attach link to your channel.
 

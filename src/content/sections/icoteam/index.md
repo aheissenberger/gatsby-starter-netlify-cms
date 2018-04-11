@@ -99,7 +99,7 @@ investors:
       link: 'https://www.linkedin.com/in/hans-zavesky-ing-dkfm-kr-39525b92/'
       name: Hans Zavesky
     - description: 'Serial entrepreneuer, former CEO VICE CEE & active business angel'
-      image: /img/nikoalm-1.jpg
+      image: /img/niko alm kleiner.png
       link: 'https://www.linkedin.com/in/nikoalm/'
       name: Niko Alm
     - description: Biggest austrian business angel syndicate with more than 100 mentors
@@ -121,7 +121,7 @@ investors:
         "As an entrepreneur, the sound finance of ventures to strengthen the
         Central European business location is an important concern to me and to
         support this mission basis of my participation in the CONDA ICO."
-    - image: /img/nikoalm-1.jpg
+    - image: /img/niko alm kleiner.png
       name: Niko Alm
       quote: >-
         "Current corporate structures are too slow to reflect the demand for
@@ -147,16 +147,24 @@ advisoryboard:
   members:
     - description: Tokenization Expert & Advisor
       image: /img/jürgen hoebarth.jpg
+      link: 'https://www.linkedin.com/in/juergenhoebarth/'
       name: Jürgen Hoebarth
     - description: Audit & Research Advisor Research Institute for Future Cryptoeconomics
       image: /img/riat.png
+      link: 'https://riat.at/'
       name: RIAT
     - description: |
         Cryptoeconomics Researcher
       image: /img/daniel pichler.jpg
+      link: 'https://www.linkedin.com/in/dpichler/'
       name: Daniel Pichler
     - description: Technology Development Partner
       image: /img/evojam.png
+      link: 'https://evojam.com/'
       name: evojam
+    - description: 'Co-founder of Herocoin.io & Herosphere.gg, Advisor'
+      image: /img/a6541168_small.jpg
+      link: 'https://www.linkedin.com/in/bernhard-blaha-28a811147/'
+      name: Bernhard Blaha
 ---
 
