@@ -14,5 +14,8 @@ partners:
   - image: /img/foxico.png
     name: FOX ICO
     url: 'https://foxico.io/project/crwdnetwork'
+  - image: /img/icobench-logo.png
+    name: ICObench
+    url: 'https://icobench.com/ico/crwd-network'
 ---
 
