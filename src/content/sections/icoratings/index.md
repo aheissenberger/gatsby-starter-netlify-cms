@@ -17,5 +17,8 @@ partners:
   - image: /img/icobench-logo.png
     name: ICObench
     url: 'https://icobench.com/ico/crwd-network'
+  - image: /img/icomarks.png
+    name: ICO Marks
+    url: 'https://icomarks.com/ico/crwd-network'
 ---
 
