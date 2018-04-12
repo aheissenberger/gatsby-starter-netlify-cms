@@ -36,8 +36,6 @@ All participants will create content which will be scored. Based upon their rela
 
 A bounty share is a part of the total bounty amount. Participants will get stakes on a weekly basis during the campaign. **The weekly score will be reset at the beginning of every week.** At the end of each week, posts are evaluated, the score is calculated and recorded. At the end of the campaign, each participants amount of bounty tokens will be calculated according to the amount of bounty stakes received. 
 
-[Find example score calculation here.](<https://ico.conda.online/img/crwd network_bounty_examples for score.pdf>)
-
 
 
 ## General Terms & Conditions
