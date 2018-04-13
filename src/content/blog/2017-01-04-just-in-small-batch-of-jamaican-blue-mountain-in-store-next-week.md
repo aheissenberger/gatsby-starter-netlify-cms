@@ -42,4 +42,5 @@ Nach einem weiteren Networking-Abend, steht am nächsten Tag Abends die „ICO a
 * Nicht beantwortet Emails seit Start der Reise: 560
 * Dinge gegessen die nicht zu identifizieren waren: 6
 * Mit dem Taxi verfahren: 3 mal
-* Durchschnittliche Stunden an Schlaf: 5
+* Durchschnittliche Stunden an Schlaf: 5 Stunden
+
