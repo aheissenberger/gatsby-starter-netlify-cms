@@ -153,7 +153,7 @@ Repost non-original article about CONDA in your blog - 4 stakes
 
 **Terms and conditions:**
 
-* CONDA is looking for active BitcoinTalk users. All members need to post at least 10 posts containing CRWD Network - CONDA ICO relevant links per week in order to be eligible for a reward. 
+* CONDA is looking for active BitcoinTalk users. All members need to post at least 10 posts containing CRWD Network - CONDA ICO relevant links inbetween the 10 days in order to be eligible for a reward. 
 * Users with negative trust are not eligible for the participants in the bounty campaign.
 * Posts in alternate cryptocurrencies section are required. Posts in bounty (this) thread will not count.
 * Spam is strictly prohibited. Users found spamming will be immediately and permanently disqualified, reported to the moderators, and banned from any other bounty campaign.
