@@ -32,11 +32,9 @@ _CONDA reserves the right to change bounty campaign rules at any time - the chan
 
 ## Content Creation Campaign
 
-All participants will create content which will be scored. Based upon their relative participation in total score for the week they will receive **bounty share equal to the relative percentage of week's award**. 
+All participants will create content which will be scored. Based upon their relative participation in total score for a period of 10 days, they will receive **bounty share equal to the relative percentage of week's award**. 
 
-A bounty share is a part of the total bounty amount. Participants will get stakes on a weekly basis during the campaign. **The weekly score will be reset at the beginning of every week.** At the end of each week, posts are evaluated, the score is calculated and recorded. At the end of the campaign, each participants amount of bounty tokens will be calculated according to the amount of bounty stakes received. 
-
-
+A bounty share is a part of the total bounty amount. Participants will get stakes on a 10-day basis during the campaign. **The score for the 10 days will be reset at the beginning of every week.** At the end of each week, posts are evaluated, the score is calculated and recorded. At the end of the campaign, each participants amount of bounty tokens will be calculated according to the amount of bounty stakes received. 
 
 ## General Terms & Conditions
 
