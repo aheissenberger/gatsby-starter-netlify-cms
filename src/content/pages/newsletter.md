@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: 'Newsletter '
+title: Newsletter
 path: /newsletter-subscription-confirmed
 description: Newsletter subscription to our list has been confirmed
 ---
