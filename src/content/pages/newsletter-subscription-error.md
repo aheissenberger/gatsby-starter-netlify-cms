@@ -4,7 +4,6 @@ title: Newsletter Subscription Error
 path: /newsletter-subscription-error
 description: Newsletter Subscription Error
 ---
-# Subscription Error
 
 Please try again later.
 
