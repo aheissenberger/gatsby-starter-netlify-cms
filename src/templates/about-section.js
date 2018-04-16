@@ -51,7 +51,7 @@ export const AboutSectionTemplate = ({
                 <a
                   href="/img/conda-white-paper.pdf"
                   className="btn btn-default"
-                  target="_blank"s
+                  target="_blank"
                 >
                   Download our White paper
                 </a>

@@ -1,5 +1,6 @@
 import React from "react";
 import Content, { HTMLContent } from "../components/Content";
+import NewsletterSendgrid from "../components/NewsletterSendgrid";
 
 export const NewsletterSectionTemplate = ({
   title1,
@@ -16,7 +17,8 @@ export const NewsletterSectionTemplate = ({
               <p>{title1}</p>
               <h3>{title2}</h3>
               <div className="news-feild">
-                <form
+              <NewsletterSendgrid />
+                {/* <form
                   action="https://conda.us7.list-manage.com/subscribe/post?u=7756e216dd2606870dfb053c2&id=7c86d50a4e"
                   method="post"
                   id="mc-embedded-subscribe-form"
@@ -55,7 +57,7 @@ export const NewsletterSectionTemplate = ({
                       value=""
                     />
                   </div>
-                </form>
+                </form> */}
               </div>
             </div>
           </div>
