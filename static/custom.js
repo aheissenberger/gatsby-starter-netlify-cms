@@ -49,6 +49,10 @@ jQuery(document).ready(function($) {
       window.location = this.href;
     }
   });
+  jQuery("a[href^='http']:not([href*='"+window.location.host+"'])").click(function(){
+    window.open(this.href);
+    return false;
+   }).attr("title", "Opens in a new window");
 });
 
 function onScroll(event) {
@@ -144,3 +148,5 @@ function hasScrolled() {
 
   lastScrollTop = st;
 }
+
+
