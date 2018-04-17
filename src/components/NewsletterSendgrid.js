@@ -1,10 +1,11 @@
-import Raven from 'raven-js';
+import "regenerator-runtime/runtime";
+import Raven from "raven-js";
 import React, { Component } from "react";
 import PropTypes from "prop-types";
 import axios from "axios";
 import { ToastContainer, toast } from "react-toastify";
-import {validate as isemail} from 'isemail';
-import 'react-toastify/dist/ReactToastify.css';
+import { validate as isemail } from "email-validator";
+import "react-toastify/dist/ReactToastify.css";
 
 export default class NewsletterSendgridyar extends Component {
   constructor() {
@@ -19,7 +20,10 @@ export default class NewsletterSendgridyar extends Component {
     const { email } = this.state.formFields;
     return (
       <div>
-        <form onSubmit={this.onSubmit} className="c12 c6-lg mx-auto validate text-center">
+        <form
+          onSubmit={this.onSubmit}
+          className="c12 c6-lg mx-auto validate text-center"
+        >
           <input
             type="email"
             name="email"
@@ -42,11 +46,11 @@ export default class NewsletterSendgridyar extends Component {
       formFields
     });
   };
-  onSubmit = async e => {
+  onSubmit =  e => {
     e.preventDefault();
     if (!isemail(this.state.formFields.email)) {
       toast.error("Please provide a valid email.", {
-        position: toast.POSITION.TOP_CENTER,
+        position: toast.POSITION.TOP_CENTER
       });
       return false;
     }
@@ -56,22 +60,48 @@ export default class NewsletterSendgridyar extends Component {
       utm = JSON.parse(ld);
     }
     const data = { ...this.state.formFields, ...this.props.setup, ...utm };
-    try {
-      const result = await axios.post("/newsletter/subscribe", data);
-      this.setState({
-        formFields: { email: "" }
+
+    axios
+      .post("/newsletter/subscribe", data)
+      .then(function(reponse) {
+        this.setState({
+          formFields: { email: "" }
+        });
+        toast(
+          `We received your request and sent you a verification request to ${
+            data.email
+          }.`,
+          {
+            position: toast.POSITION.TOP_CENTER,
+            autoClose: 10000
+          }
+        );
+      })
+      .catch(function(error) {
+        window.console && console.log(error);
+        toast.error("Subscription failed! Please try again later.", {
+          position: toast.POSITION.TOP_CENTER,
+          autoClose: 10000
+        });
+        Raven.captureException(error);
       });
-      toast(`We received your request and sent you a verification request to ${data.email}.`, {
-        position: toast.POSITION.TOP_CENTER,
-        autoClose: 10000
-      });
-    } catch (error) {
-      window.console && console.log(error);
-      toast.error("Subscription failed! Please try again later.", {
-        position: toast.POSITION.TOP_CENTER,
-        autoClose: 10000
-      });
-      Raven.captureException(error);
-    }
+
+    // try {
+    //   const result = await axios.post("/newsletter/subscribe", data);
+    //   this.setState({
+    //     formFields: { email: "" }
+    //   });
+    //   toast(`We received your request and sent you a verification request to ${data.email}.`, {
+    //     position: toast.POSITION.TOP_CENTER,
+    //     autoClose: 10000
+    //   });
+    // } catch (error) {
+    //   window.console && console.log(error);
+    //   toast.error("Subscription failed! Please try again later.", {
+    //     position: toast.POSITION.TOP_CENTER,
+    //     autoClose: 10000
+    //   });
+    //   Raven.captureException(error);
+    // }
   };
 }
