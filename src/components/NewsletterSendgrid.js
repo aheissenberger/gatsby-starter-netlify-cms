@@ -1,8 +1,7 @@
-import "regenerator-runtime/runtime";
 import Raven from "raven-js";
 import React, { Component } from "react";
 import PropTypes from "prop-types";
-import axios from "axios";
+//import axios from "axios";
 import { ToastContainer, toast } from "react-toastify";
 import { validate as isemail } from "email-validator";
 import "react-toastify/dist/ReactToastify.css";
@@ -46,7 +45,7 @@ export default class NewsletterSendgridyar extends Component {
       formFields
     });
   };
-  onSubmit =  e => {
+  onSubmit = e => {
     e.preventDefault();
     if (!isemail(this.state.formFields.email)) {
       toast.error("Please provide a valid email.", {
@@ -61,8 +60,13 @@ export default class NewsletterSendgridyar extends Component {
     }
     const data = { ...this.state.formFields, ...this.props.setup, ...utm };
 
-    axios
-      .post("/newsletter/subscribe", data)
+    fetch("https://ico.conda.online/newsletter/subscribe", {
+      method: "POST",
+      body: JSON.stringify(data),
+      headers: new Headers({
+        "Content-Type": "application/json"
+      })
+    })
       .then(function(reponse) {
         this.setState({
           formFields: { email: "" }
@@ -85,6 +89,31 @@ export default class NewsletterSendgridyar extends Component {
         });
         Raven.captureException(error);
       });
+
+    // axios
+    //   .post("/newsletter/subscribe", data)
+    //   .then(function(reponse) {
+    //     this.setState({
+    //       formFields: { email: "" }
+    //     });
+    //     toast(
+    //       `We received your request and sent you a verification request to ${
+    //         data.email
+    //       }.`,
+    //       {
+    //         position: toast.POSITION.TOP_CENTER,
+    //         autoClose: 10000
+    //       }
+    //     );
+    //   })
+    //   .catch(function(error) {
+    //     window.console && console.log(error);
+    //     toast.error("Subscription failed! Please try again later.", {
+    //       position: toast.POSITION.TOP_CENTER,
+    //       autoClose: 10000
+    //     });
+    //     Raven.captureException(error);
+    //   });
 
     // try {
     //   const result = await axios.post("/newsletter/subscribe", data);
