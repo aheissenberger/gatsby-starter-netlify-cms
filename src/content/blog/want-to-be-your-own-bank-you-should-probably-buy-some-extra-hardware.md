@@ -52,8 +52,6 @@ There are a few prominent manufacturers in the space.
   Ledgerwallet](https://www.ledgerwallet.com/) is probably the biggest newcomer and competitor, being first to offer a bunch of bitcoin alternatives on their hardware. It’s a bit cheaper and a solid option.
 * [Keepkey](https://www.keepkey.com/) is another pretty well known option. 
 
-![](/img/ledger wallet.jpg)
-
 Ok I’ll likely buy one, anything to look out for?
 
 It’s generally recommended to buy directly from the manufacturer. Packages are usually well sealed but there have been some scam attempts with resold devices that were ‘pre-set up’. Once you have your wallet and are setting it up, know that it’s immensely important how you’ll keep your seed phrase safe for the long term. 
@@ -65,6 +63,3 @@ Write it down physically best twice, then split the phrases up and store them at
 A hardware wallet is probably the most secure setup given the effort employed. As the intent of holding tokens and cryptocurrencies is usually to have them over a long period of time, it is highly recommend using them instead of software wallets or exchange accounts.
 
 _Wait for part 2 on how to use your hardware wallets on the future conda platform soon._
-
-_
-_
