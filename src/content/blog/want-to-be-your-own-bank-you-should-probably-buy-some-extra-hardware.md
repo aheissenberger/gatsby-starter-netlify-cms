@@ -5,7 +5,7 @@ path: harwarewallet
 date: '2018-04-17T07:32:39+02:00'
 author: Daniel Pichler
 tags:
-  - Uncategorized
+  - cryptocurrency
 description: >-
   Be your own bank is not just a slogan, it’s a saying that could also be
   paraphrased as with power comes responsibility and the responsibility to hold
