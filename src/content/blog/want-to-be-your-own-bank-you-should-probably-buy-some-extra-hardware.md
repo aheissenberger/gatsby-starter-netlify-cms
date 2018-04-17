@@ -12,7 +12,7 @@ description: >-
   your cryptocurrencies secure lies on you alone.
 image: /img/daniel-pichler-post.jpg
 ---
-**Your assets might have gone up, down sideways for a long time or all over the place compared to their fiat valuations and that might make you nervous, relaxed freaked out or scared. 
+Your assets might have gone up, down sideways for a long time or all over the place compared to their fiat valuations and that might make you nervous, relaxed freaked out or scared. **
 **
 
 Now while people have gotten anxiety attacks over valuations, what’s worse than buying something that’s crashing in price... is losing it entirely. Something you bought that devalues might go back up, but cryptocurrencies you lost are gone forever. Malware, hackers and scammers are having a field day with the lack of security people employ to secure their fluctuating cryptocurrencies and tokens.
