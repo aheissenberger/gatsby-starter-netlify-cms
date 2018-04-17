@@ -18,4 +18,4 @@ Donau-City-Straße 6\
 Vienna 1220\
 Austria
 
-<button class="btn btn-primary">continue to our website</button>
+<a class="btn btn-primary" href="/">continue to our website</a>
