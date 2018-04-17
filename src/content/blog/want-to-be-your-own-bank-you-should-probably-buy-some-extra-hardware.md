@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Want to be your own bank? You should probably buy some extra hardware.
+title: Want to be your own bank? You should buy some extra hardware.
 path: harwarewallet
 date: '2018-04-17T07:32:39+02:00'
 author: Daniel Pichler
@@ -52,7 +52,7 @@ There are a few prominent manufacturers in the space.
   Ledgerwallet](https://www.ledgerwallet.com/) is probably the biggest newcomer and competitor, being first to offer a bunch of bitcoin alternatives on their hardware. It’s a bit cheaper and a solid option.
 * [Keepkey](https://www.keepkey.com/) is another pretty well known option. 
 
-## 
+![](/img/ledger wallet.jpg)
 
 Ok I’ll likely buy one, anything to look out for?
 
