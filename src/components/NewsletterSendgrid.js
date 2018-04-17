@@ -59,7 +59,7 @@ export default class NewsletterSendgridyar extends Component {
       utm = JSON.parse(ld);
     }
     const data = { ...this.state.formFields, ...this.props.setup, ...utm };
-
+    const self = this;
     fetch("https://ico.conda.online/newsletter/subscribe", {
       method: "POST",
       body: JSON.stringify(data),
@@ -68,7 +68,7 @@ export default class NewsletterSendgridyar extends Component {
       })
     })
       .then(function(reponse) {
-        this.setState({
+        self.setState({
           formFields: { email: "" }
         });
         toast(
