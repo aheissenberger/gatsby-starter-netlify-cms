@@ -211,6 +211,7 @@ query IndexQuery {
             members {
               image
               name
+              link
               description
               
             }
