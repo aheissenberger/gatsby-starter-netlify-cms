@@ -172,5 +172,9 @@ advisoryboard:
       image: /img/heinz grünwald.jpg
       link: 'https://www.linkedin.com/in/heinzgruenwald/'
       name: Heinz Grünwald
+    - description: Co-Founder Dash Embassy D-A-CH & Advisor
+      image: /img/klaus-hipfinger.jpg
+      link: 'https://www.linkedin.com/in/klaus-hipfinger-ba-510390150/'
+      name: Klaus Hipfinger
 ---
 
