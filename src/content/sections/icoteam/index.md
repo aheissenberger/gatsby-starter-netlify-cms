@@ -166,7 +166,9 @@ advisoryboard:
       image: /img/a6541168_small.jpg
       link: 'https://www.linkedin.com/in/bernhard-blaha-28a811147/'
       name: Bernhard Blaha
-    - description: 'No-bullshit Digital Marketer, Early Stage Crypto Investor & Advisor'
+    - description: |-
+        No-bullshit Digital Marketer, 
+        Early Stage Crypto Investor & Advisor
       image: /img/heinz grünwald.jpg
       link: 'https://www.linkedin.com/in/heinzgruenwald/'
       name: Heinz Grünwald
