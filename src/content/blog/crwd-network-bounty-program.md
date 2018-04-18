@@ -53,6 +53,8 @@ All participants must
 
 ⇒ Follow and like the official [CRWD Network Facebook page](https://www.facebook.com/crwdnetwork/)
 
+⇒ Share this [Bounty Program](https://ico.conda.online/crwd-network-bounty-program/)
+
 ⇒ Fill out this form to make a request for the participation in the Facebook campaign: "[CRWD Network - Facebook Bounty Sign-Up](https://goo.gl/forms/pZH5dtoj7Mq5QKMU2)"
 
 **Facebook bounty campaign rules:**
@@ -74,6 +76,8 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 ![null](/img/twitter-banner.jpg)
 
 ⇒ Follow and like the official [CONDA account](https://twitter.com/conda_austria) 
+
+⇒ Share this [Bounty Program](https://ico.conda.online/crwd-network-bounty-program/)
 
 ⇒ Fill out this form to make a request for the participation in the Twitter campaign: "[CRWD Network - Twitter Bounty Sign-Up](https://goo.gl/forms/vuJbGQ8joHTgGDV52)"
 
@@ -97,6 +101,8 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 
 **⇒ **Follow and like the official [CONDA LinkedIn profile](https://www.linkedin.com/company/conda-unternehmensberatungs-gmbh)
 
+⇒ Share this [Bounty Program](https://ico.conda.online/crwd-network-bounty-program/)
+
 ⇒ Fill out this form to make a request for the participation in the LinkedIn campaign: "[CRWD Network - LinkedIn Bounty Sign-Up](https://goo.gl/forms/f3NSgqqMDcLpHzZ53)"
 
 **LinkedIn bounty campaign rules:**
@@ -116,6 +122,8 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 ![null](/img/reddit-banner.jpg)
 
 **⇒ **Fill out this form to make a request for the participation in the Reddit campaign: "[CRWD Network - Reddit Bounty Campaign](https://goo.gl/forms/736o1vSbI4S1be9B3)"
+
+⇒ Share this [Bounty Program](https://ico.conda.online/crwd-network-bounty-program/)
 
 ⇒ Participants may post original content or post official content from other social media platforms
 
@@ -141,6 +149,7 @@ Repost non-original article about CONDA in your blog - 4 stakes
 **Terms and conditions:**
 
 * Article must be freely accessible
+* Article must link to this [Bounty Program](https://ico.conda.online/crwd-network-bounty-program/)
 * Article must at least contain 1-2 active links to our website and social media
 * Article must be original (please not just copy and paste existing articles)
 * Any type of content could be rejected without any explanation 
