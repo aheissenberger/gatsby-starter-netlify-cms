@@ -71,11 +71,11 @@ module.exports = {
         includeInDevelopment: false,
       },
     },
-    {
-      resolve: 'gatsby-plugin-sentry',
-      options: {
-        dsn: 'https://00760575e9ff4d47b657ab1fee143acb@sentry.io/1189825',
-      },
-    },
+    // {
+    //   resolve: 'gatsby-plugin-sentry',
+    //   options: {
+    //     dsn: 'https://00760575e9ff4d47b657ab1fee143acb@sentry.io/1189825',
+    //   },
+    // },
   ],
 }
