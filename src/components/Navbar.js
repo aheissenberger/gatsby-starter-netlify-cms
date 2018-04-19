@@ -74,6 +74,11 @@ const Navbar = () => (
                 Blog
               </Link>
             </li>
+            <li className="nav-item">
+              <Link className="nav-link" to="/crwd-network-bounty-program">
+                Bounty
+              </Link>
+            </li>
           </ul>
           <div className="textwidget custom-html-widget">
             <div className="header-btn">
