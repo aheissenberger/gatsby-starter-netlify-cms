@@ -150,3 +150,11 @@ function hasScrolled() {
 }
 
 
+//source: https://stackoverflow.com/a/19385791/828184
+$(document).ready(function collapseOnClickFix(){
+  $('.navbar .nav-item').on('click', function(){
+    setTimeout(function(){ 
+      $('.navbar-toggler').click();
+     }, 150);
+  });
+});
