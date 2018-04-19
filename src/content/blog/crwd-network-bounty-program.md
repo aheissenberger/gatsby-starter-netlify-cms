@@ -34,7 +34,7 @@ _CONDA reserves the right to change bounty campaign rules at any time - the chan
 
 All participants will create content which will be scored. 
 
-⇒ Please feel free to create your own unique content, the more creativ the better!
+⇒ Please feel free to create your own unique content, the more creative the better!
 
 Based upon their relative participation in total score for a period of 10 days, they will receive **bounty share equal to the relative percentage of week's award**. 
 
