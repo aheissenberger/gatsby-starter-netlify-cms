@@ -4,6 +4,15 @@ import CookieBanner from 'react-cookie-banner';
 
 import logo from "../img/logo.png";
 
+//source: https://stackoverflow.com/a/19385791/828184
+$(document).ready(function collapseOnClickFix(){
+  $('.navbar .nav-item').on('click', function(){
+    setTimeout(function(){ 
+      $('.navbar-toggler').click();
+     }, 150);
+  });
+});
+
 const Navbar = () => (
   <header className="header">
   {/* <CookieBanner
@@ -72,6 +81,11 @@ const Navbar = () => (
             <li className="nav-item">
               <Link className="nav-link" to="/blog">
                 Blog
+              </Link>
+            </li>
+            <li className="nav-item">
+              <Link className="nav-link" to="/crwd-network-bounty-program">
+                Bounty
               </Link>
             </li>
           </ul>
