@@ -32,7 +32,11 @@ _CONDA reserves the right to change bounty campaign rules at any time - the chan
 
 ## Content Creation Campaign
 
-All participants will create content which will be scored. Based upon their relative participation in total score for a period of 10 days, they will receive **bounty share equal to the relative percentage of week's award**. 
+All participants will create content which will be scored. 
+
+⇒ Please feel free to create your own unique content, the more creativ the better!
+
+Based upon their relative participation in total score for a period of 10 days, they will receive **bounty share equal to the relative percentage of week's award**. 
 
 A bounty share is a part of the total bounty amount. Participants will get stakes on a 10-day basis during the campaign. **The score for the 10 days will be reset at the beginning of every week.** At the end of each week, posts are evaluated, the score is calculated and recorded. At the end of the campaign, each participants amount of bounty tokens will be calculated according to the amount of bounty stakes received. 
 
@@ -41,7 +45,7 @@ A bounty share is a part of the total bounty amount. Participants will get stake
 All participants must
 
 * be whitelisted on ico.conda.online
-* need to share links to their contribution in the [Bounty Telegram channel](https://t.me/crwd_network_bounty) to be evaluated
+* need to share links to their contribution in the [Bounty Telegram channel](https://t.me/crwd_network_bounty) to be evaluated and/or post a link in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0)
 * the campaign starts on April 10, 2018 and ends on July 27, 2018
 * new posts have to be at least 50% different than posts evaluated in the previous weeks
 * NO SPAM is allowed
@@ -63,7 +67,7 @@ All participants must
 * participants need to have 200+ friends - from that 80% real friends
 * the official page mentioned above has to be used for shares, tags, links etc.
 * settings for posts must set to “public”
-* participants must post a  link to prove their activity every week in the Google Doc
+* participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
 
 _SCORE=_\
 _0.4* No. of posts +_\
@@ -87,7 +91,7 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 * participants need to have 200+ followers - from that 80% real followers
 * the official account mentioned above has to be used for retweets, tags, links etc.
 * the **\#crwdnetwork** has to be used for all activities
-* participants must post a  link to prove their activity every week in the Google Doc
+* participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
 
 _SCORE=_\
 _0.4* No. of posts +_\
@@ -110,7 +114,7 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 * participants have to follow the official CONDA Company Page
 * participants need to have 200+ connections
 * settings for posts must set to “public”
-* participants must post a link to prove their activity every week in the Google Doc
+* participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
 
 _SCORE=_\
 _0.4* No. of posts +_\
@@ -126,6 +130,8 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 ⇒ Share this [Bounty Program](https://ico.conda.online/crwd-network-bounty-program/)
 
 ⇒ Participants may post original content or post official content from other social media platforms
+
+⇒ participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
 
 _SCORE=_\
 _0.4* No. of posts +_\
@@ -153,6 +159,7 @@ Repost non-original article about CONDA in your blog - 4 stakes
 * Article must at least contain 1-2 active links to our website and social media
 * Article must be original (please not just copy and paste existing articles)
 * Any type of content could be rejected without any explanation 
+* Participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
 
 ⇒ Please FIRST contact us in [Telegram](https://t.me/crwd_network_bounty) or per E-Mail (<mailto:stojan.ivanisevic@conda.rs>) and attach link to your channel. 
 
@@ -167,6 +174,7 @@ Repost non-original article about CONDA in your blog - 4 stakes
 * Posts in alternate cryptocurrencies section are required. Posts in bounty (this) thread will not count.
 * Spam is strictly prohibited. Users found spamming will be immediately and permanently disqualified, reported to the moderators, and banned from any other bounty campaign.
 * You are not allowed to use another site's avatar.
+* Participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
 
 _SCORE_
 
