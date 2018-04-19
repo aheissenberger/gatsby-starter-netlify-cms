@@ -220,6 +220,7 @@ query IndexQuery {
             members {
               image
               name
+              link
               description
               
             }
@@ -233,6 +234,7 @@ query IndexQuery {
             members {
               image
               name
+              link
               description
               
             }
