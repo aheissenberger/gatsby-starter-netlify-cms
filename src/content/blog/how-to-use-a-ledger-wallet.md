@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: How to use a Ledger Wallet?
+title: How to use a ledger wallet within the CRWD network?
 path: ledger-wallet
 date: '2018-04-19T16:02:48+02:00'
 author: Daniel Pichler
