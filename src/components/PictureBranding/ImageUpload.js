@@ -24,15 +24,16 @@ export default class ImageUpload extends Component {
     let file = e.target.files[0];
 
     reader.onloadend = () => {
+      const readerResult = reader.result
       this.setState({
         file: file,
-        imagePreviewUrl: reader.result
+        imagePreviewUrl: readerResult
       });
+      
+      this.props.change(readerResult, this.props.previewId)
     }
 
     reader.readAsDataURL(file)
-
-    this.props.change()
   }
 
   render() {
