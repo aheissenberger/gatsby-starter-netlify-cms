@@ -1,4 +1,5 @@
 import React from 'react'
+import PictureBrandingComponent from '../components/PictureBranding'
 
 const PictureBranding = () => {
     return (
@@ -18,7 +19,7 @@ const PictureBranding = () => {
           </div>
           <div className="blog__element">
             <div className="row">
-              Hello World
+              <PictureBrandingComponent />
             </div>
           </div>
         </div>
