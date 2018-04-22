@@ -48,7 +48,7 @@ const PictureBrandingComponent = () => {
                 condaIcoLogoDone = true;
 
                 var dlLink = document.querySelector('#dlLink');
-                dlLink.setAttribute("href", document.querySelector('img').src);
+                dlLink.setAttribute("href", document.querySelector('#'+imgId).src);
                 dlLink.style.display = "block";
               });
             });
