@@ -2,6 +2,10 @@ import React from 'react'
 import PictureBrandingComponent from '../components/PictureBranding'
 
 const PictureBranding = () => {
+    const contentStyle = {
+      minHeight: '250px'
+    }
+
     return (
       <section
         className="blog wow fadeInUp"
@@ -18,7 +22,7 @@ const PictureBranding = () => {
             </h2>
           </div>
           <div className="blog__element">
-            <div className="row">
+            <div className="row" style={contentStyle}>
               <PictureBrandingComponent />
             </div>
           </div>
