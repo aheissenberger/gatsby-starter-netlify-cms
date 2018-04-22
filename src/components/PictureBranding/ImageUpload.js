@@ -31,6 +31,8 @@ export default class ImageUpload extends Component {
     }
 
     reader.readAsDataURL(file)
+
+    this.props.change()
   }
 
   render() {
