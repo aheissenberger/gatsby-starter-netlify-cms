@@ -6,7 +6,6 @@ export default class ImageUpload extends Component {
     this.state = {
       file: '',
       imagePreviewUrl: '',
-      previewId: props.previewId
     };
     this._handleImageChange = this._handleImageChange.bind(this);
     //this._handleSubmit = this._handleSubmit.bind(this);
@@ -40,7 +39,7 @@ export default class ImageUpload extends Component {
     let {imagePreviewUrl} = this.state;
     let $imagePreview = null;
     if (imagePreviewUrl) {
-      $imagePreview = (<img src={imagePreviewUrl} id={this.state.previewId} />);
+      $imagePreview = (<img src={imagePreviewUrl} id={this.props.previewId} />);
     }
 
     return (
