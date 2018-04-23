@@ -4,7 +4,7 @@ import mergeImages from './ImageMerge.js';
 
 const PictureBrandingComponent = () => {
     const imageChangeHandler = (base64img, imgId) => {
-        var waveOptions = {
+        const waveOptions = {
             format: 'image/png',
             quality: 0.92,
             width: undefined,
@@ -13,7 +13,7 @@ const PictureBrandingComponent = () => {
             customMode: 'wave'
           };
       
-          var icoTextOptions = {
+          const icoTextOptions = {
             format: 'image/png',
             quality: 0.92,
             width: undefined,
@@ -22,7 +22,7 @@ const PictureBrandingComponent = () => {
             customMode: 'icoText'
           };
       
-          var icoLogoOptions = {
+          const icoLogoOptions = {
             format: 'image/png',
             quality: 0.92,
             width: undefined,
@@ -31,9 +31,9 @@ const PictureBrandingComponent = () => {
             customMode: 'icoLogo'
           };
       
-          var waveDone = false;
-          var condaIcoTextDone = false;
-          var condaIcoLogoDone = false;
+          let waveDone = false;
+          let condaIcoTextDone = false;
+          let condaIcoLogoDone = false;
       
           mergeImages([document.querySelector('#'+imgId).src, '/wave.png'], waveOptions).then(b64 => document.querySelector('#'+imgId).src = b64)
           .then(function(){
@@ -47,7 +47,7 @@ const PictureBrandingComponent = () => {
               .then(function(){
                 condaIcoLogoDone = true;
 
-                var dlLink = document.querySelector('.dlLink');
+                const dlLink = document.querySelector('.dlLink');
                 dlLink.setAttribute("href", document.querySelector('#'+imgId).src);
                 dlLink.style.display = "block";
               });
