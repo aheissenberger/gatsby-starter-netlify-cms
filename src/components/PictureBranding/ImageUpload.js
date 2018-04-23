@@ -45,7 +45,10 @@ export default class ImageUpload extends Component {
     return (
       <div>
         <form onSubmit={this._handleSubmit}>
-          <input type="file" onChange={this._handleImageChange} />
+          <span className={this.props.uploadBtnClasses}>
+            Browse Profile Picture <input type="file" onChange={this._handleImageChange} accept="image/*" />
+          </span>
+
           {/*<button type="submit" onClick={this._handleSubmit}>Upload Image</button>*/}
         </form>
         {$imagePreview}

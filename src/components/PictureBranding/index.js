@@ -47,7 +47,7 @@ const PictureBrandingComponent = () => {
               .then(function(){
                 condaIcoLogoDone = true;
 
-                var dlLink = document.querySelector('#dlLink');
+                var dlLink = document.querySelector('.dlLink');
                 dlLink.setAttribute("href", document.querySelector('#'+imgId).src);
                 dlLink.style.display = "block";
               });
@@ -57,9 +57,11 @@ const PictureBrandingComponent = () => {
     }
 
     return (<div>
-                <ImageUpload previewId="profile-pic-preview" change={imageChangeHandler} />
-                <br/>
-                <a id="dlLink" style={{display:'none'}} className="btn btn-default" download="CondaIcoBranding.png" href="">Download</a>
+                <p>Show that you trust in CRWD tokens like we do and brand your profile picture. We do not permanently store your picture</p>
+                <p>&nbsp;</p>
+                <ImageUpload previewId="profile-pic-preview" change={imageChangeHandler} uploadBtnClasses="btn btn-primary btn-file" />
+                <a style={{display:'none'}} className="dlLink btn btn-primary" download="CondaIcoBranding.png" href="">Download</a>
+                <p>&nbsp;</p>
             </div>)
 }
 
