@@ -24,13 +24,13 @@ Spread the word and contribute to our efforts in developing a decentralized netw
 
 CONDA will create up-to 45,000,000 CRWD Tokens wherein 3% are reserved for the entire bounty program, which will be distributed between:
 
-* **20% content creation campaign**
+* **20% content creation & social media campaign**
 * 40% for referral campaign - coming soon
 * 40% airdrop campaign - coming soon
 
 _CONDA reserves the right to change bounty campaign rules at any time - the changes will be shown on official ICO website and Bitcointalk._
 
-## Content Creation Campaign
+## Content Creation & Social Media Campaign
 
 All participants will create content which will be scored. 
 
