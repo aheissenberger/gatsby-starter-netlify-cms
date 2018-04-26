@@ -127,17 +127,23 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 
 **⇒ **Fill out this form to make a request for the participation in the Reddit campaign: "[CRWD Network - Reddit Bounty Campaign](https://goo.gl/forms/736o1vSbI4S1be9B3)"
 
-⇒ Share this [Bounty Program](https://ico.conda.online/crwd-network-bounty-program/)
-
 ⇒ Participants may post original content or post official content from other social media platforms
-
-⇒ participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
 
 _SCORE=_\
 _0.4* No. of posts +_\
 _0.2 * No. of karma points (1=10-50; 2= above 50) +_\
 _0.1* No. of upvotes (1=from 1 to 50; 2= above 50) +_\
 _0.3 * quality of content (1=generic content; 2=personal insight)_
+
+**Reddit Bounty Campaign Rules:**
+
+* Participants must post a link to prove their activity every week in [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0)
+* Must befriend user [ICO_CONDA](https://www.reddit.com/user/ICO_CONDA/)
+* We reserve the right to not consider your reddit account eligible.
+* Your account should be at least 10 days old and have 10 posts or comment karma.
+* External posts should link to either [CRWD NETWORK ICO Website](https://ico.conda.online) or Official Announcement.
+* Posts and Comments with negative Karma will not be accepted. Any kind of spam will not be rewarded either.
+* For a post to be counted, it needs to be posted in one of the following subredits, or cryptocurrency related subreddits: r/bitcoin, r/ethereum, r/ethtrader, r/icocrypto, r/cryptocurrency
 
 [Check status here.](https://goo.gl/rjky2x)
 
@@ -149,8 +155,10 @@ Participants may create high quality YouTube videos about the CRWD Network - CON
 
 ![null](/img/personal-blog-banner.jpg)
 
+⇒ Fill out this form to make a request for the participation in the Personal Blog campaign: ["CRWD Network - Personal Blog Sign-Up"](https://goo.gl/forms/tUmcdMjnoIeJBQm43).
+
 Posting to your own blog (adds to articles) - 4 stakes\
-Repost non-original article about CONDA in your blog - 4 stakes
+Repost non-original article about CONDA in your blog - 10 to 50 stakes
 
 **Terms and conditions:**
 
@@ -161,7 +169,9 @@ Repost non-original article about CONDA in your blog - 4 stakes
 * Any type of content could be rejected without any explanation 
 * Participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
 
-⇒ Please FIRST contact us in [Telegram](https://t.me/crwd_network_bounty) or per E-Mail (<mailto:stojan.ivanisevic@conda.rs>) and attach link to your channel. 
+[Check status here.](https://docs.google.com/spreadsheets/d/1qBQVYEmYGKvRBz_2GB9C66_9beJcbpaIT2jVGQNhanI/edit?usp=sharing)
+
+
 
 ![null](/img/bitcointalk-banner.jpg)
 
