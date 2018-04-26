@@ -145,7 +145,7 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 
 Participants may create high quality YouTube videos about the CRWD Network - CONDA ICO (90 seconds up to 3 minutes) - starting from 50+ stakes. Additional stakes may be awarded depending on the video content quality and overall impression. 
 
-⇒ Please contact us FIRST on [Telegram](https://t.me/crwd_network_bounty) or per E-Mail (<mailto:stojan.ivanisevic@conda.rs>) and attach link to your channel.
+⇒ Fill out this form to make a request for the participation in the LinkedIn campaign: ["CRWD Network - Youtube Bounty Sign-Up"](https://goo.gl/forms/m4N6KM8UCrqIJq9s1)
 
 ![null](/img/personal-blog-banner.jpg)
 
@@ -169,7 +169,7 @@ Repost non-original article about CONDA in your blog - 4 stakes
 
 **Terms and conditions:**
 
-* CONDA is looking for active BitcoinTalk users. All members need to post at least 10 posts containing CRWD Network - CONDA ICO relevant links inbetween the 10 days in order to be eligible for a reward. 
+* CONDA is looking for active BitcoinTalk users. All members need to post at least 3 posts containing CRWD Network - CONDA ICO relevant links inbetween the 10 days in order to be eligible for a reward. 
 * Users with negative trust are not eligible for the participants in the bounty campaign.
 * Posts in alternate cryptocurrencies section are required. Posts in bounty (this) thread will not count.
 * Spam is strictly prohibited. Users found spamming will be immediately and permanently disqualified, reported to the moderators, and banned from any other bounty campaign.
