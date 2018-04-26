@@ -20,5 +20,8 @@ partners:
   - image: /img/icomarks.png
     name: ICO Marks
     url: 'https://icomarks.com/ico/crwd-network'
+  - image: /img/coinlauncher.jpg
+    name: coinlauncher
+    url: 'https://coinlauncher.io/conda-ico'
 ---
 
