@@ -1,4 +1,5 @@
-/whitelist  /f/payment-method
+/whitelist  /i/whitelist
+/dashboard  /i/dashboard
 /whitepaper /img/conda-white-paper.pdf
 /lightpaper /img/CONDA-Light-paper.pdf
 /pitchdeck /img/CONDA-pitchdeck.pdf
