@@ -1,4 +1,8 @@
 /whitelist  /i/whitelist
+/f/payment-method  /i/whitelist
+/f/ /i/whitelist
+/f/user/login /i/login
+/f/user/register /i/whitelist
 /dashboard  /i/dashboard
 /whitepaper /img/conda-white-paper.pdf
 /lightpaper /img/CONDA-Light-paper.pdf
