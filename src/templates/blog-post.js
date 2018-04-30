@@ -50,7 +50,10 @@ export default props => {
       helmet={
         <Helmet>
           <title>{`Blog | ${post.frontmatter.title}`}</title>
+          <meta property="og:type" content="article" />
           <meta name="description" content={post.frontmatter.description} />
+          <meta property="og:title" content={post.frontmatter.title} />
+          <meta property="og:description" content={post.frontmatter.description} />
         </Helmet>
         }
       title={post.frontmatter.title}
