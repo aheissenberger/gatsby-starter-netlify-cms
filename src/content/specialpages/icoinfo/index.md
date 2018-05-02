@@ -28,6 +28,8 @@ During the Private-, Pre- & Crowd-sale period, we are entitled to distribute CRW
 
 ## How to participate in CONDA ICO
 
+
+
 **Whitelist**
 
 All you need to do is visit the CRWD Token Whitelisting page, fill out the form, upload the required documents (ID Card / passport photos) and confirm your validation e-mail. 
@@ -38,11 +40,15 @@ All you need to do is visit the CRWD Token Whitelisting page, fill out the form,
 
 We are reviewing every submission manually and inform you, once you’re whitelisted. 
 
+
+
 **Pre-/Crowd-Sale**
 
 In order to be in the pole position for our ICO and therefore have a higher chance to get CRWD Tokens during the Pre-/Crowd-Sale, we strongly recommend to whitelist yourself BEFORE the sale starts.
 
 Once the Pre-/Crowd-Sale has started, you have to transfer ETH or Dash to our wallet-address or EUR to our bank account. After we have received your payment, you’ll get your CRWD Tokens immediately transferred to your ERC-20 wallet address.
+
+
 
 **Important to know:**
 
