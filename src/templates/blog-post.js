@@ -41,7 +41,6 @@ export const BlogPostTemplate = ({
 
 export default props => {
   const { markdownRemark: post } = props.data;
-
   return (
     <BlogPostTemplate
       content={post.html}
@@ -54,6 +53,7 @@ export default props => {
           <meta name="description" content={post.frontmatter.description} />
           <meta property="og:title" content={post.frontmatter.title} />
           <meta property="og:description" content={post.frontmatter.description} />
+          <meta property="og:image" content={'https://ico.conda.online'+post.frontmatter.image} />
         </Helmet>
         }
       title={post.frontmatter.title}
@@ -74,6 +74,7 @@ export const pageQuery = graphql`
         author
         title
         description
+        image
         tags
       }
     }
