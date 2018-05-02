@@ -31,4 +31,4 @@ We are equally excited about every new participant that joins the ecosystem, so 
 **We value our crowd, so do not miss our pre-sale! Grab your early bird bonus NOW!
 **
 
-Need more info? Check out our [white paper](/wp-content/uploads/sites/2/2018/01/CONDA-White-paper.pdf).
+Need more info? Check out our [white paper](https://ico.conda.online/img/conda-white-paper.pdf).
