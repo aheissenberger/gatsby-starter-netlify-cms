@@ -46,7 +46,7 @@ Figure 2: Gartner Hype Cycle
 
 On the negative side, some ICOs run on the hype of high expectations (See Figure 2). Cryptocurrency investors seem to partly understand product as well market risks, while the token’s economic aspects barely matter to them right now. In many cases it seems it is important to have a great vision for the technology rather than for the further development of the token, which might create long term problems for some projects. This is also reflected in the notation that we have seen valuations that would have been hard to achieve in traditional pre-product fundraising rounds. A prominent example is the Blockchain data storage network Filecoin, which [raised $257 million](https://www.coindesk.com/257-million-filecoin-breaks-time-record-ico-funding/) and set an ICO record in late 2017.
 
-There are and will be 4 forms of token deaths:
+There are and will be 5 forms of token deaths:
 
 **
 **Early failures
