@@ -30,7 +30,7 @@ Examples such as Request Network and Quantstamp (both of which are ICO startups 
 ![null](/img/grphic_funds_raised_by_icos.png)
 
 Figure 1: Funds raised by ICOs (end date) per month 
-vs. ETH price normalized  , data from icodata.io & cryptocompare.com
+vs. ETH price normalized, data from icodata.io & cryptocompare.com
 
 Through all these tokenization pressure we can see that market value of Ether and funds raised by ICOs also appear to be correlated. As Figure 1 shows when observing normalized Ether price data in comparison with ICO investments per month the trends seem very similar. This offers room for hypothesizing that the rise in ICOs subsequently helped the Ethereum price to develop and might lead us to believe that many Initial Coin Offering investors were prior Ethereum investors opting to diversify.  Besides the benefit of not having to convert to fiat currencies in between there are advantages and disadvantages for people to invest in utility ICOs compared to more traditional investments.
 
