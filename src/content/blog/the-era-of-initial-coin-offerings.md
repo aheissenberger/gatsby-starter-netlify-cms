@@ -49,12 +49,12 @@ On the negative side, some ICOs run on the hype of high expectations (See Figure
 There are and will be 4 forms of token deaths:
 
 **
-Early failures**
+**Early failures
 
 * ICO exit scams that never intended to build a product sadly often linked to mainstream celebrities.
 * Pyramid models (ponzi schemes) where participants ignore visible red flags.
 
-**And later stage failures**
+And later stage failures
 
 * Product Failures - Badly implemented startup ideas that claim they are not scams, but can’t deliver. 
 * Market Failures - Well implemented projects that innovate and do everything right, but fail without having long term cryptoeconomic effects behind their token.
