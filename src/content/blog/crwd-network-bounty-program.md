@@ -5,7 +5,7 @@ path: bounty
 date: '2018-04-10T11:44:16+02:00'
 author: Karin
 tags:
-  - Uncategorized
+  - CONDA ICO
 description: >-
   Spread the word and contribute to our efforts in developing a decentralized
   network protocol for issuing and managing tokenized equity offerings, and earn
@@ -25,7 +25,7 @@ Spread the word and contribute to our efforts in developing a decentralized netw
 CONDA will create up-to 45,000,000 CRWD Tokens wherein 3% are reserved for the entire bounty program, which will be distributed between:
 
 * **20% content creation & social media campaign**
-* 40% for referral campaign - coming soon
+* 40% for [referral program](https://ico.conda.online/crwd-network-referral-program/)
 * 40% airdrop campaign - coming soon
 
 _CONDA reserves the right to change bounty campaign rules at any time - the changes will be shown on official ICO website and Bitcointalk._
@@ -140,7 +140,8 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 * Participants must post a link to prove their activity every week in [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0)
 * Must befriend user [ICO_CONDA](https://www.reddit.com/user/ICO_CONDA/)
 * We reserve the right to not consider your reddit account eligible.
-* Your account should be at least 10 days old and have 10 posts or comment karma.
+* Your account should be at least 10 days old and have 10 posts or comment karma
+  .
 * External posts should link to either [CRWD NETWORK ICO Website](https://ico.conda.online) or Official Announcement.
 * Posts and Comments with negative Karma will not be accepted. Any kind of spam will not be rewarded either.
 * For a post to be counted, it needs to be posted in one of the following subredits, or cryptocurrency related subreddits: r/bitcoin, r/ethereum, r/ethtrader, r/icocrypto, r/cryptocurrency
@@ -170,8 +171,6 @@ Repost non-original article about CONDA in your blog - 10 to 50 stakes
 * Participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
 
 [Check status here.](https://docs.google.com/spreadsheets/d/1qBQVYEmYGKvRBz_2GB9C66_9beJcbpaIT2jVGQNhanI/edit?usp=sharing)
-
-
 
 ![null](/img/bitcointalk-banner.jpg)
 
