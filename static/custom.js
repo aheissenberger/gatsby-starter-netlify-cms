@@ -173,6 +173,6 @@ $(document).ready(function collapseOnClickFix(){
 
   var AFFID = getParameterByName('AFFID');
   if (AFFID && typeof AFFID === 'string' && AFFID.length >=67 && AFFID.substr(0,3) === 'AFF' && window.localStorage) {
-    window.localStorage.setItem('AFFID',AFFID)
+    window.localStorage.setItem('AFFID',JSON.stringify({id:AFFID,createdat:new Date().toISOformt(),url:window.location.href}))
   }
 })();
