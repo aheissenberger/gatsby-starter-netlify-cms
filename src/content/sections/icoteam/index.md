@@ -7,7 +7,7 @@ team:
       link: 'https://www.linkedin.com/in/danielhorak/'
       name: Daniel Horak
     - description: Co-Founder and Managing Partner Finance & Business Development
-      image: /img/paul_pöltner2.png
+      image: /img/paul_poeltner2.png
       link: 'https://www.linkedin.com/in/poeltner/'
       name: Paul Pöltner
     - description: Chief Marketing Officer

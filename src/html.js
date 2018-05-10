@@ -12,22 +12,22 @@ if (process.env.NODE_ENV === `production`) {
 module.exports = class HTML extends React.Component {
   render() {
     const jquery = (
-      <script src="https://code.jquery.com/jquery-3.2.1.min.js"  crossOrigin="anonymous"></script>
+      <script src="/jquery-3.3.2.min.js"  ></script>
     );
     const popper = (
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossOrigin="anonymous"></script>
+      <script src="/popper.min.js" ></script>
     );
     const modernizr = (
       <script
-        src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"
+        src="/modernizr.min.js"
         type="text/javascript"
       />
     );
     const tether = (
-      <script src="https://npmcdn.com/tether@1.3.3/dist/js/tether.min.js" />
+      <script src="/tether.min.js" />
     );
     const bootstrap = (
-      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossOrigin="anonymous"></script>
+      <script src="/bootstrap.min.js" ></script>
     );
     const customjs = (<script src="/custom.js" />  );
 
