@@ -1,0 +1,39 @@
+version: 0.2
+
+phases:
+    install:
+        commands:
+            # Yarn installation
+            - curl -sS https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+            - echo "deb http://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+            - sudo apt-get -y update
+            - node --version
+            - apt-get install -y yarn
+            # Installing serverless globally
+            # - yarn global add serverless
+            - yarn -v
+            # Installing react and serverless dependencies
+            # - yarn install
+            # - cd serverless && yarn install
+    pre_build:
+        commands:
+            - pwd && ls -al
+            - yarn install
+            # CloudFront configuration
+            - aws configure set preview.cloudfront true
+    build:
+        commands:
+            # Building the react app and deploying to S3 bucket, invalidating the CloudFront
+            # - cd ../ && ls -al
+            - pwd && ls -al
+            - yarn build
+    post_build:
+        commands:
+            – aws s3 sync public s3://conda-ico-website-stage
+            - aws cloudfront create-invalidation --distribution-id $CF_ID --paths /index.html
+
+#artifacts:
+#    files:
+#        - server/serverless.yml
+#    base-directory: 'serverless'
+#    discard-paths: yes
