@@ -9,23 +9,18 @@ tags:
 description: CONDA is dropping CRWD Tokens for supporting us on our social media channels!
 image: /img/post-airdrop.jpg
 ---
-## Welcome to CRWD Network Airdrop! 
+## Welcome to CRWD Network Airdrop!
 
 CONDA is dropping CRWD Tokens for supporting us on our social media channels!
-
- 
 
 ## How does it work?
 
 If you participate in our CRWD Network Airdrop campaign, you receive stakes for the following activities:
 
-
-
 \>> 2 stakes
 
-* for a successful whitelisting on [ico.conda.online](https://ico.conda.online/i/whitelist)
-
-
+* for a successful whitelisting on [ico.conda.online
+  ](https://ico.conda.online/i/whitelist)
 
 \>> 6 stakes
 
@@ -33,19 +28,13 @@ If you participate in our CRWD Network Airdrop campaign, you receive stakes for 
 * inviting 2 additional users, who also sign-up
 * Attention: all users must stay until Oct. 31st, 2018
 
-
-
 \>> 8 stakes
 
-* for posting 10 links public (on Facebook, Twitter, LinkedIn, Reddit or BitcoinTalk) related to the CRWD Network PLUS
-* following us on [Facebook](https://www.facebook.com/crwdnetwork/), [Twitter](https://twitter.com/conda_austria), [LinkedIn](https://www.linkedin.com/company/2832940/), [Reddit](https://github.com/conda-ag)
-* Attention: please provide us with the links to your posts per e-mail to: team@conda.eu
-
-
+* following us on [Facebook](https://www.facebook.com/crwdnetwork/), [Twitter](https://twitter.com/conda_austria), [LinkedIn](https://www.linkedin.com/company/2832940/), [Reddit](https://github.com/conda-ag)
 
 The maximum of possible stakes per participant are therefore 16.
 
- 
+
 
 ## How do I join?
 
@@ -54,14 +43,14 @@ The maximum of possible stakes per participant are therefore 16.
 (2) Follow all our channels:
 
 * [Telegram](https://t.me/conda_ico)
-* [Facebook](https://www.facebook.com/crwdnetwork/)
-* [Twitter](https://twitter.com/conda_austria)
-* [Reddit](https://github.com/conda-ag)
-* [LinkedIn](https://www.linkedin.com/company/2832940/)
+* [Facebook](https://www.facebook.com/crwdnetwork/)
+* [Twitter](https://twitter.com/conda_austria)
+* [Reddit](https://github.com/conda-ag)
+* [LinkedIn](https://www.linkedin.com/company/2832940/)
 
 (3) Don´t forget to [whitelist here](https://ico.conda.online/i/whitelist)!
 
- 
+
 
 ## Terms & Conditions
 
@@ -73,11 +62,11 @@ CRWD Tokens will only be airdropped to participants who are successfully whiteli
 
 Any Telegram usernames containing advertisements or website addresses will be kicked-out from the group and will not be eligible for airdrop payout, in order to maintain integrity of the community.
 
- 
-
 Our airdrop campaign is tied to the milestones of our ICO:
 
-* hard cap (22.000.000 USD) reached: 1.2% of all token supply will be distributed proportionally via CRWD Network Airdrop to a max. of 160.000 stakes
-* hard cap (22.000.000 USD) not reached: 1.2% of all token supply will be distributed proportionally via CRWD Network Airdrop to its participant not exceeding 5 Tokens per stake (= max. 80 CRWD Tokens/participant)
+* hard cap (22.000.000 USD) reached: 
+  1.2% of all token supply will be distributed proportionally via CRWD Network Airdrop to a max. of 160.000 stakes
+* hard cap (22.000.000 USD) not reached: 
+  1.2% of all token supply will be distributed proportionally via CRWD Network Airdrop to its participant not exceeding 5 Tokens per stake (= max. 80 CRWD Tokens/participant)
 
 If hard cap is not reached and CRWD Tokens allocated for this campaign are left, we are going to announce a 2nd airdrop campaign after the ICO.
