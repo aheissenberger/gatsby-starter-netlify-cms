@@ -26,7 +26,7 @@ CONDA will create up-to 45,000,000 CRWD Tokens wherein 3% are reserved for the e
 
 * **20% content creation & social media campaign**
 * 40% for [referral program](https://ico.conda.online/crwd-network-referral-program/)
-* 40% airdrop campaign - coming soon
+* 40% [airdrop campaign](https://ico.conda.online/crwd-network-airdrop/)
 
 _CONDA reserves the right to change bounty campaign rules at any time - the changes will be shown on official ICO website and Bitcointalk._
 
