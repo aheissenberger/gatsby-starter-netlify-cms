@@ -30,11 +30,9 @@ If you participate in our CRWD Network Airdrop campaign, you receive stakes for 
 
 \>> 8 stakes
 
-* following us on [Facebook](https://www.facebook.com/crwdnetwork/), [Twitter](https://twitter.com/conda_austria), [LinkedIn](https://www.linkedin.com/company/2832940/), [Reddit](https://github.com/conda-ag)
+* following us on [Facebook](https://www.facebook.com/crwdnetwork/), [Twitter](https://twitter.com/conda_austria), [LinkedIn](https://www.linkedin.com/company/2832940/), [Reddit](https://www.reddit.com/user/ICO_CONDA/)
 
 The maximum of possible stakes per participant are therefore 16.
-
-
 
 ## How do I join?
 
@@ -45,12 +43,10 @@ The maximum of possible stakes per participant are therefore 16.
 * [Telegram](https://t.me/conda_ico)
 * [Facebook](https://www.facebook.com/crwdnetwork/)
 * [Twitter](https://twitter.com/conda_austria)
-* [Reddit](https://github.com/conda-ag)
+* [Reddit](https://www.reddit.com/user/ICO_CONDA/)
 * [LinkedIn](https://www.linkedin.com/company/2832940/)
 
 (3) Don´t forget to [whitelist here](https://ico.conda.online/i/whitelist)!
-
-
 
 ## Terms & Conditions
 
