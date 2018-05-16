@@ -15,4 +15,5 @@ As a reward to our earliest ICO investors, we have developed a [Private Sale Bon
 
 **We value our crowd – so do not miss our private sale, and grab your early bird bonus!
 **
-[Get all info in our whitepaper…](https://ico.conda.online/wp-content/uploads/sites/2/2018/01/CONDA-White-paper.pdf)
+
+[Get all info in our whitepaper…](https://ico.conda.online/img/conda-white-paper.pdf)
