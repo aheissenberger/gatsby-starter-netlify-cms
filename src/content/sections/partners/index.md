@@ -23,5 +23,7 @@ partners:
   - image: /img/dash-grey-partner-logo.png
     name: DASH
     url: 'https://www.dash-embassy.org/'
+  - image: /img/notakey_logo_partner-section.png
+    url: 'https://www.notakey.com/'
 ---
 
