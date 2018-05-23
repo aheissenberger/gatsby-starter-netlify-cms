@@ -12,8 +12,6 @@ description: >-
   interested (crypto) investors.
 image: /img/ico-pitch-supported-by.jpg
 ---
-![](/img/ico pitch night.jpg)
-
 Join our [ICO PITCH NIGHT](https://www.eventbrite.com/edit?eid=46103358386) - an official side event of Pioneers'18 - to get insights, ask your questions directly to the team and mingle with other interested (crypto) investors.
 <br>
 <br>
