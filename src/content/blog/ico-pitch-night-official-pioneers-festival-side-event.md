@@ -12,12 +12,14 @@ description: >-
   interested (crypto) investors.
 image: /img/ico-pitch-supported-by.jpg
 ---
+![](/img/ico pitch night.jpg)
+
 Join our [ICO PITCH NIGHT](https://www.eventbrite.com/edit?eid=46103358386) - an official side event of Pioneers'18 - to get insights, ask your questions directly to the team and mingle with other interested (crypto) investors.
 <br>
 <br>
 <br>
 
-When: May 24th 2018, 19:00
+When: May 24th 2018, 19:00
 
 Location: Graben30, Graben 30, 1010 Wien
 
@@ -27,30 +29,35 @@ Location: Graben30, Graben 30, 1010 Wien
 
 Program:
 
-\- Keynote "Dash - digitaler Cash" - Klaus Hipfinger, [Dash Embassy DACH](https://www.dash-embassy.org/)
+\- Keynote "Dash - digitaler Cash" - Klaus Hipfinger, [Dash Embassy DACH
+](https://www.dash-embassy.org/)
 
-\- Keynote, Daniel Pichler, [RIAT - Institute for Future Cryptoeconomics](https://riat.at/)
+\- Keynote, Daniel Pichler, [RIAT - Institute for Future Cryptoeconomics
+](https://riat.at/)
 
 \- 5 ICO pitches & FAQs
 
-\* [Finnoq](https://www.finnoq.com/en/)
+\* [Finnoq
+](https://www.finnoq.com/en/)
 
-\* [Blockpit](https://www.blockpit.io/)
+\* [Blockpit
+](https://www.blockpit.io/)
 
-\* [Gledos](https://gledos.io/)
+\* [Gledos
+](https://gledos.io/)
 
-\* [Qravity](https://qravity.com/en/)
+\* [Qravity
+](https://qravity.com/en/)
 
-\* [CRWD Network](https://ico.conda.online/)
+\* [CRWD Network
+](https://ico.conda.online/)
 
 \- welcome drinks supported by Dash Embassy DACH
 
 \- networking
 
-
 <br>
 <br>
-
 
 [Please get your free-ticket here.](https://bit.ly/2x7vDlb)
 
