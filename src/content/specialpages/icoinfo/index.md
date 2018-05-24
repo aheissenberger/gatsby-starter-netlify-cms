@@ -58,7 +58,7 @@ Once the Pre-/Crowd-Sale has started, you have to transfer ETH or Dash to our wa
 
 **Important to know:**
 
-* Always check if you are on the official CRWD Token Website https://ico.conda.online.
+* **Always** check if you are on the official CRWD Token Website https://ico.conda.online.
 * Transfer your ETH/Dash ONLY to our wallet address you see after you [logged in to your account](https://oci.conda.online/user/login)
 * Make sure to double-check the details you provide, especially your ERC-20 wallt address. This address will receive the CRWD Tokens – if it’s not correct or the wrong address, CRWD Tokens may be lost!
 * Only upload high-qualitiy images of your government-issued ID or passport for the KYC check.
