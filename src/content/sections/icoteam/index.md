@@ -180,5 +180,9 @@ advisoryboard:
       image: /img/robby-2017-5_klein.jpg
       link: 'https://www.linkedin.com/in/robby-schwertner/'
       name: Robby Schwertner
+    - description: Blockchain Strategy & Advocacy Advisor
+      image: /img/foubw4ou_400x400.jpg
+      link: 'https://www.linkedin.com/in/brianheinen/'
+      name: Brian Heinen
 ---
 

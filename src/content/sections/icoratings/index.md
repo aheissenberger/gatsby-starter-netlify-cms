@@ -23,5 +23,8 @@ partners:
   - image: /img/coinlauncher.jpg
     name: coinlauncher
     url: 'https://coinlauncher.io/conda-ico'
+  - image: /img/trackico.png
+    name: trackICO
+    url: 'https://www.trackico.io/ico/crwd-network/'
 ---
 
