@@ -17,6 +17,9 @@ phases:
             # - cd serverless && yarn install
     pre_build:
         commands:
+            - export LC_ALL="en_US.UTF-8"
+            - locale-gen en_US en_US.UTF-8
+            - dpkg-reconfigure locales
             - pwd && ls -al
             - yarn install
             # CloudFront configuration
@@ -26,12 +29,12 @@ phases:
             # Building the react app and deploying to S3 bucket, invalidating the CloudFront
             # - cd ../ && ls -al
             - pwd && ls -al
-            - export LC_ALL=en_US.UTF-8
+            - export LC_ALL="en_US.UTF-8"
             - yarn build
     post_build:
         commands:
-            - export LC_ALL=en_US.UTF-8
-            - aws --debug s3 sync public s3://conda-ico-website-stage
+            - export LC_ALL="en_US.UTF-8"
+            - aws s3 sync public s3://conda-ico-website-stage; echo "DONE"
 #            - aws cloudfront create-invalidation --distribution-id ELH2U9ZACG598 --paths /index.html
 
 #artifacts:
