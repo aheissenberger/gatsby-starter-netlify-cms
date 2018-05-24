@@ -29,7 +29,7 @@ phases:
             - yarn build
     post_build:
         commands:
-            – aws s3 sync public s3://conda-ico-website-stage
+            - aws s3 sync public s3://conda-ico-website-stage
             - aws cloudfront create-invalidation --distribution-id ELH2U9ZACG598 --paths /index.html
 
 #artifacts:
