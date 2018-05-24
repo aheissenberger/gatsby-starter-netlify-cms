@@ -27,7 +27,7 @@ phases:
             # - cd ../ && ls -al
             - pwd && ls -al
             - yarn build
-            - aws s3 sync public s3://conda-ico-website-stage
+            - aws --debug s3 sync public s3://conda-ico-website-stage
     # post_build:
     #     commands:
     #         - aws s3 sync public s3://conda-ico-website-stage
