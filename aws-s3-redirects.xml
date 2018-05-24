@@ -1,17 +1,35 @@
 <RoutingRules>
-<RoutingRule><Condition><KeyPrefixEquals>whitelist</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>i/whitelist</ReplaceKeyPrefixWith></Redirect></RoutingRule>
+<RoutingRule><Condition>
+      <HttpErrorCodeReturnedEquals>404</HttpErrorCodeReturnedEquals >
+<KeyPrefixEquals>whitelist</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>i/whitelist</ReplaceKeyPrefixWith></Redirect></RoutingRule>
 <RoutingRule><Condition><KeyPrefixEquals>f/payment-method</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>i/whitelist</ReplaceKeyPrefixWith></Redirect></RoutingRule>
 <RoutingRule><Condition><KeyPrefixEquals>f/</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>i/whitelist</ReplaceKeyPrefixWith></Redirect></RoutingRule>
 <RoutingRule><Condition><KeyPrefixEquals>f/user/login</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>i/login</ReplaceKeyPrefixWith></Redirect></RoutingRule>
 <RoutingRule><Condition><KeyPrefixEquals>f/user/register</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>i/whitelist</ReplaceKeyPrefixWith></Redirect></RoutingRule>
-<RoutingRule><Condition><KeyPrefixEquals>dashboard</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>i/dashboard</ReplaceKeyPrefixWith></Redirect></RoutingRule>
-<RoutingRule><Condition><KeyPrefixEquals>whitepaper</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>img/conda-white-paper.pdf</ReplaceKeyPrefixWith></Redirect></RoutingRule>
-<RoutingRule><Condition><KeyPrefixEquals>lightpaper</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>img/CONDA-Light-paper.pdf</ReplaceKeyPrefixWith></Redirect></RoutingRule>
-<RoutingRule><Condition><KeyPrefixEquals>pitchdeck</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>img/CONDA-pitchdeck.pdf</ReplaceKeyPrefixWith></Redirect></RoutingRule>
-<RoutingRule><Condition><KeyPrefixEquals>exchangerate</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>icoinfo</ReplaceKeyPrefixWith></Redirect></RoutingRule>
-<RoutingRule><Condition><KeyPrefixEquals>join-pre-sale</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>icoinfo</ReplaceKeyPrefixWith></Redirect></RoutingRule>
-<RoutingRule><Condition><KeyPrefixEquals>bounty</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>crwd-network-bounty-program/</ReplaceKeyPrefixWith></Redirect></RoutingRule>
-<RoutingRule><Condition><KeyPrefixEquals>referral</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>crwd-network-referral-program/</ReplaceKeyPrefixWith></Redirect></RoutingRule>
+<RoutingRule><Condition>
+<HttpErrorCodeReturnedEquals>404</HttpErrorCodeReturnedEquals >
+<KeyPrefixEquals>dashboard</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>i/dashboard</ReplaceKeyPrefixWith></Redirect></RoutingRule>
+<RoutingRule><Condition>
+<HttpErrorCodeReturnedEquals>404</HttpErrorCodeReturnedEquals >
+<KeyPrefixEquals>whitepaper</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>img/conda-white-paper.pdf</ReplaceKeyPrefixWith></Redirect></RoutingRule>
+<RoutingRule><Condition>
+<HttpErrorCodeReturnedEquals>404</HttpErrorCodeReturnedEquals >
+<KeyPrefixEquals>lightpaper</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>img/conda-light-paper.pdf</ReplaceKeyPrefixWith></Redirect></RoutingRule>
+<RoutingRule><Condition>
+<HttpErrorCodeReturnedEquals>404</HttpErrorCodeReturnedEquals >
+<KeyPrefixEquals>pitchdeck</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>img/conda_crwd network_pitchdeck.pdf</ReplaceKeyPrefixWith></Redirect></RoutingRule>
+<RoutingRule><Condition>
+<HttpErrorCodeReturnedEquals>404</HttpErrorCodeReturnedEquals >
+<KeyPrefixEquals>exchangerate</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>icoinfo/</ReplaceKeyPrefixWith></Redirect></RoutingRule>
+<RoutingRule><Condition>
+<HttpErrorCodeReturnedEquals>404</HttpErrorCodeReturnedEquals >
+<KeyPrefixEquals>join-pre-sale</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>icoinfo/</ReplaceKeyPrefixWith></Redirect></RoutingRule>
+<RoutingRule><Condition>
+<HttpErrorCodeReturnedEquals>404</HttpErrorCodeReturnedEquals >
+<KeyPrefixEquals>bounty</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>crwd-network-bounty-program/</ReplaceKeyPrefixWith></Redirect></RoutingRule>
+<RoutingRule><Condition>
+<HttpErrorCodeReturnedEquals>404</HttpErrorCodeReturnedEquals >
+<KeyPrefixEquals>referral</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>crwd-network-referral-program/</ReplaceKeyPrefixWith></Redirect></RoutingRule>
 <RoutingRule><Condition><KeyPrefixEquals>download-legal/presale_orderform_legalperson.pdf</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>img/pre_sale_crowdsale_order_form_legal_persons_20180330.pdf</ReplaceKeyPrefixWith></Redirect></RoutingRule>
 <RoutingRule><Condition><KeyPrefixEquals>download-legal/presale_crwd_token_distribution_agreement_crowd.pdf</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>img/[final]_crwd_token_distribution_agreement_crowd_presale__20180329.pdf</ReplaceKeyPrefixWith></Redirect></RoutingRule>
 <RoutingRule><Condition><KeyPrefixEquals>download-legal/crwd_token_general_terms.pdf</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>img/[final]_crwd_token_general_terms_20180328.pdf</ReplaceKeyPrefixWith></Redirect></RoutingRule>
