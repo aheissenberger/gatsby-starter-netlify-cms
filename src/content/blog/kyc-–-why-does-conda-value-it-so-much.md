@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: KYC – Why does CONDA value it so much?
-path: kyc-why-does-conda-value-it-so-much
+path: kyc-–-why-does-conda-value-it-so-much
 date: '2018-01-11T12:00:52+01:00'
 author: Karin
 tags:
@@ -13,7 +13,7 @@ image: /img/blogpost_header_kyc-670x257.jpg
 
 ## KYC matters.
 
-Regardless of how daunting they may be for first-time investors, „Know Your Customer“ ([KYC](/the-crypto-guide-for-beginners-what-is-kyc/)) requirements are incredibly important for numerous reasons.
+Regardless of how daunting they may be for first-time investors, „Know Your Customer“ ([KYC](/the-crypto-guide-for-beginners-–-what-is-kyc/)) requirements are incredibly important for numerous reasons.
 
 
 
@@ -33,4 +33,4 @@ CONDA is committed to remaining legally compliant with current and possible futu
 
 
 
-For more information about KYC, click [here](/the-crypto-guide-for-beginners-what-is-kyc/).
+For more information about KYC, click [here](/the-crypto-guide-for-beginners-–-what-is-kyc/).

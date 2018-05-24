@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The Crypto Guide for Beginners – What to know before investing in an ICO?
-path: the-crypto-guide-for-beginners-what-to-know-before-investing-in-an-ico
+path: the-crypto-guide-for-beginners-–-what-to-know-before-investing-in-an-ico
 date: '2018-01-03T15:51:47+01:00'
 author: Karin
 tags:
@@ -76,8 +76,10 @@ If you want more opinions regarding these questions, check out the following art
 
 
 
-* [5 Things You Must Know Before Investing in an ICO on steemit.com](https://steemit.com/cryptocurrency/@gamerveda/5-things-you-must-know-before-investing-in-an-ico)
-* [How to Invest in ICO? How to Know Which ICO Is Worth Investing? on managingyourfinance.com](https://managingyourfinance.com/how-to-invest-in-ico-how-to-know-which-ico-is-worth-investing)
+* [5 Things You Must Know Before Investing in an ICO on steemit.com
+](https://steemit.com/cryptocurrency/@gamerveda/5-things-you-must-know-before-investing-in-an-ico)
+* [How to Invest in ICO? How to Know Which ICO Is Worth Investing? on managingyourfinance.com
+](https://managingyourfinance.com/how-to-invest-in-ico-how-to-know-which-ico-is-worth-investing)
 * [How to make sure you don’t get swindled in an ICO on mashable.com](http://mashable.com/2017/10/25/survive-ico/#WLNapvFREiqu)
 
 ICOs are highly speculative, so be sure to properly check the company behind each one, and only invest as much as you can afford to lose.

@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: The Crypto Guide for Beginners – What is KYC?
-path: the-crypto-guide-for-beginners-what-is-kyc
+path: the-crypto-guide-for-beginners-–-what-is-kyc
 date: '2018-01-02T15:55:41+01:00'
 author: Karin
 tags:
