@@ -35,7 +35,7 @@ phases:
         commands:
             - export LC_ALL="en_US.UTF-8"
             - aws s3 sync public s3://conda-ico-website-${STAGE}; echo "DONE"
-            - aws cloudfront create-invalidation --distribution-id ${CFID} --paths /index.html
+            - aws cloudfront create-invalidation --distribution-id ${CFID} --paths "/*"
 
 #artifacts:
 #    files:
