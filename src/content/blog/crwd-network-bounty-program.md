@@ -131,20 +131,21 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 
 _SCORE=_\
 _0.4* No. of posts +_\
-_0.2 * No. of karma points (1=10-50; 2= above 50) +_\
-_0.1* No. of upvotes (1=from 1 to 50; 2= above 50) +_\
+_0.2 * No. of comments +_\
+_0.2* No. karma points (1=10-50; 2=above 50) +_\
 _0.3 * quality of content (1=generic content; 2=personal insight)_
 
 **Reddit Bounty Campaign Rules:**
 
-* Participants must post a link to prove their activity every week in [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0)
-* Must befriend user [ICO_CONDA](https://www.reddit.com/user/ICO_CONDA/)
+* You must post report for every period with your activity. 
+* You MUST subscribe to our subreddit: [CRWD Network on Reddit.](https://www.reddit.com/r/CRWDNetwork/) 
+* You MUST make at least 3 high quality comments  or posts per week in our subreddit. 
+* Must befriend user: [ICO_CONDA](https://www.reddit.com/user/ICO_CONDA/)
 * We reserve the right to not consider your reddit account eligible.
-* Your account should be at least 10 days old and have 10 posts or comment karma
-  .
-* External posts should link to either [CRWD NETWORK ICO Website](https://ico.conda.online) or Official Announcement.
+* External posts should link to either CRWD NETWORK ICO Website or Official Announcement.
 * Posts and Comments with negative Karma will not be accepted. Any kind of spam will not be rewarded either.
-* For a post to be counted, it needs to be posted in one of the following subredits, or cryptocurrency related subreddits: r/bitcoin, r/ethereum, r/ethtrader, r/icocrypto, r/cryptocurrency
+* For a post to be counted, it needs to be posted in our subreddit r/CRWDNetwork/, or one of the following subredits or cryptocurrency related subreddits:  r/bitcoin, r/ethereum, r/ethtrader, r/icocrypto, r/cryptocurrency
+
 
 [Check status here.](https://goo.gl/rjky2x)
 
