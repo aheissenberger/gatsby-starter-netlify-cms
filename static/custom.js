@@ -69,7 +69,7 @@ function onScroll(event) {
   });
 }
 
-pre_sale_end = "jun 6, 2018 18:00:00 UTC";
+pre_sale_end = "jun 4, 2018 18:00:00 UTC";
 // Set the date we're counting down to
 var countDownDate = new Date(pre_sale_end).getTime();
 

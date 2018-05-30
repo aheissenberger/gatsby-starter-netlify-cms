@@ -3,7 +3,7 @@
       <HttpErrorCodeReturnedEquals>404</HttpErrorCodeReturnedEquals >
 <KeyPrefixEquals>whitelist</KeyPrefixEquals></Condition>
 <Redirect>
-<HostName>ico.conda.online</HostName>
+<HostName>d71z42a560a2e.cloudfront.net</HostName>
 <ReplaceKeyWith>/i/whitelist</ReplaceKeyPrefixWith>
 </Redirect>
 </RoutingRule>
@@ -11,7 +11,7 @@
 <HttpErrorCodeReturnedEquals>404</HttpErrorCodeReturnedEquals >
 <KeyPrefixEquals>dashboard</KeyPrefixEquals></Condition>
 <Redirect>
-<HostName>ico.conda.online</HostName>
+<HostName>d71z42a560a2e.cloudfront.net</HostName>
 <ReplaceKeyWith>/i/dashboard</ReplaceKeyPrefixWith></Redirect></RoutingRule>
 <RoutingRule><Condition><KeyPrefixEquals>f/payment-method</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>whitelist</ReplaceKeyPrefixWith></Redirect></RoutingRule>
 <RoutingRule><Condition><KeyPrefixEquals>f/</KeyPrefixEquals></Condition><Redirect><ReplaceKeyPrefixWith>whitelist</ReplaceKeyPrefixWith></Redirect></RoutingRule>
