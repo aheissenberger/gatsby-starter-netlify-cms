@@ -9,7 +9,6 @@
 }
 
 .blog__details--content {
-  
   h1 {
     font-size: 40px;
     font-weight: 300;
@@ -42,7 +41,7 @@
       max-width: 50%;
     }
   }
-  em { 
+  em {
     font-style: italic;
   }
 
@@ -76,7 +75,7 @@
 .banner {
   .button-pane {
     @media only screen and (max-width: 767px) {
-      flex-wrap: wrap!important;
+      flex-wrap: wrap !important;
     }
     .btn-inner {
       margin-bottom: 1.5rem;
@@ -96,13 +95,16 @@
     text-align: center;
     text-transform: uppercase;
 
-    //display: none;
+    &.hideToken {
+      display: none;
+    }
     @media only screen and (min-width: 768px) {
-    // display: block;
-    // visibility: hidden;
+      &.hideToken {
+        display: block;
+        visibility: hidden;
+      }
+    }
   }
-  }
-  
 }
 
 #newsletter {
@@ -115,27 +117,26 @@
   a {
     text-decoration: none;
     color: rgb(46, 48, 66);
-    ;
   }
 }
 
 .btn-file {
-    position: relative;
-    overflow: hidden;
+  position: relative;
+  overflow: hidden;
 }
 
-.btn-file input[type=file] {
-    position: absolute;
-    top: 0;
-    right: 0;
-    min-width: 100%;
-    min-height: 100%;
-    font-size: 100px;
-    text-align: right;
-    filter: alpha(opacity=0);
-    opacity: 0;
-    outline: none;
-    background: white;
-    cursor: inherit;
-    display: block;
+.btn-file input[type="file"] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  min-width: 100%;
+  min-height: 100%;
+  font-size: 100px;
+  text-align: right;
+  filter: alpha(opacity=0);
+  opacity: 0;
+  outline: none;
+  background: white;
+  cursor: inherit;
+  display: block;
 }

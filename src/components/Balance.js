@@ -1,58 +1,65 @@
-import React, { Component } from "react";
+import React, { PureComponent } from "react";
 import AnimatedNumber from "react-animated-number";
 import axios from "axios";
 
-export default class Balance extends Component {
+export default class Balance extends PureComponent {
   constructor(props) {
     super();
 
     this.state = {
-      balance: 0
+      tokens: 0
     };
   }
   componentDidMount() {
     this.updateBalance();
-    this.timer = setInterval(this.updateBalance.bind(this), 30*1000);
+    this.timer = setInterval(this.updateBalance.bind(this), 30 * 1000);
   }
-  componentWillUnmount(){
-
-    clearInterval(this.updateBalance);
-}
+  componentWillUnmount() {
+    clearInterval(this.timer);
+  }
   updateBalance() {
     const defaultBalance =
-    typeof window !== "undefined" &&
-    window.localStorage &&
-    localStorage.getItem("balance")
-      ? parseInt(localStorage.getItem("balance"))
-      : 0;
-  this.setState({ balance: defaultBalance });
-  //this.updateBalance();
-  let baseurl = 'https://5tlybomgll.execute-api.eu-west-1.amazonaws.com/prod';
-  if (typeof window !== "undefined") {
-     const host = window.location.hostname
-    baseurl = (host === 'localhost'?'http://localhost:4000':host==='d71z42a560a2e.cloudfront.net'?'https://d71z42a560a2e.cloudfront.net/stag':baseurl)
-  }
- console.log(baseurl+"/p/balance")
-  axios
-    .get(baseurl+"/p/balance")
-    .then(response => {
-      //console.log(response);
       typeof window !== "undefined" &&
-        window.localStorage &&
-        localStorage.setItem("balance", response.data.balance);
-      this.setState(response.data);
-    })
-    .catch(function(error) {
-      console.log(error);
-    });
+      window.localStorage &&
+      localStorage.getItem("tokens")
+        ? parseInt(localStorage.getItem("tokens"))
+        : 0;
+    this.setState({ tokens: defaultBalance });
+    //this.updateBalance();
+    let baseurl = "https://5tlybomgll.execute-api.eu-west-1.amazonaws.com/prod";
+    if (typeof window !== "undefined") {
+      const host = window.location.hostname;
+      baseurl =
+        host === "localhost"
+          ? "http://localhost:4000"
+          : host === "d71z42a560a2e.cloudfront.net"
+            ? "https://d71z42a560a2e.cloudfront.net/stag"
+            : baseurl;
+    }
+    //console.log(baseurl+"/p/balance")
+    axios
+      .get(baseurl + "/p/balance")
+      .then(response => {
+        //console.log(response);
+        const tokens = parseInt(response.data.tokens);
+        typeof window !== "undefined" &&
+          window.localStorage &&
+          localStorage.setItem("tokens", tokens);
+        this.setState({tokens});
+      })
+      .catch(function(error) {
+        console.log(error);
+      });
   }
   render() {
     //console.log(this.state.balance);
+    if (typeof this.state.tokens !== "number" || this.state.tokens < 1)
+      return null;
     return (
       <div>
         <AnimatedNumber
           //component="text"
-          value={this.state.balance}
+          value={this.state.tokens}
           style={{
             color: "#1759ab",
             transition: "0.8s ease-out",
@@ -63,9 +70,10 @@ export default class Balance extends Component {
           //     perc === 100 ? {} : { backgroundColor: "#ffeb3b" }
           //   }
           duration={600}
+          stepPrecision={0}
           formatValue={n => n.toLocaleString()}
         />
-        <div class="legend">Token Sold</div>
+        <div className="legend">Token Sold</div>
       </div>
     );
   }
