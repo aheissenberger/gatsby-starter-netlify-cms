@@ -27,6 +27,7 @@
     "prop-types": "^15.6.1",
     "raven-js": "^3.24.1",
     "react": "^16.2.0",
+    "react-animated-number": "^0.4.4",
     "react-cookie-banner": "^3.0.0",
     "react-helmet": "^5.2.0",
     "react-toastify": "^4.0.0-rc.4",
