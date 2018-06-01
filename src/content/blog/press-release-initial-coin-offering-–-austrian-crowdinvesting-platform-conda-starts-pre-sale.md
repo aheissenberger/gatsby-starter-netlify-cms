@@ -40,9 +40,9 @@ The minimum amount to purchase is 1 CRWD. During the pre-sale, 1 CRWD equals 1 e
 
 ## Hard facts:
 
-• Pre-Sale start date: December 20th 2017
+• Private-Sale start date: December 20th 2017
 
-• CRWD sale start date: Q1 2018
+• Pre-Sale start: June 4th 2018
 
 • Token Activation: Q2 2018
 
