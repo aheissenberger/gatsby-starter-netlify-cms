@@ -5,18 +5,9 @@ description: >-
   Information about the CRWD Token Distribution and the steps to participate in
   the CONDA ICO
 ---
-
-
 ## CRWD Token
 
-The CRWD Token Distribution will take place over 58 days, starting on June 4, 2018 and ends on July 31, 2018. Our ERC-20 compatible CRWD Tokens will be sold according to the schedule below:
-
-| Schedule                                                 | Contribution  |
-| -------------------------------------------------------- | ------------- |
-| Pre-Sale, starting on June 4, 2018, until June 6, 2018   | Min. 5 ETH*   |
-| Crowd-Sale, starting on June 6, 2018 until July 31, 2018 | Min. 0.1 ETH* |
-
-<div style="text-align: right">* (EUR and Dash accordingly to ETH price)</div>
+The CRWD Token Distribution is starting on June 4, 2018 with a max. of 60 days or until the Pre-Sale hardcap of 6 mio. Euro is reached followed by the Crowd-Sale, which is going to last up to 40 days or until the total hardcap of 18 mio. Euro is reached. 
 
 
 
@@ -28,13 +19,9 @@ All CRWD tokens will be issued exclusively during the ICO. This is coded in the 
 
 The ETH / CRWD Token exchange rate will be fixed, and the EUR/CRWD Token and Dash/CRWD Token exchange rate will be floating and presented on the webpage at 9 a.m. daily. 
 
-During the Private-, Pre- & Crowd-sale period, we are entitled to distribute CRWD Token (including Bonus Tokens) of up to 50 % of the total CRWD Token Number (including Bonus Tokens). If by the end of the Offer Period, the actual number of Tokens distributed by CONDA (including Bonus Tokens) is less than 50 % of the Total Token Number, the total Token number shall be adjusted, and CONDA will burn Tokens accordingly, so that the number of Tokens distributed by the end of the Offer Period (including any Bonus Tokens) corresponds to 50 % of the then adjusted Total Token Number. CONDA will then retain any Tokens that were neither distributed nor burned and shall be entitled to distribute them at a later stage, if and when required or desirable by CONDA.  
-
-
+During the Private-, Pre- & Crowd-Sale, we are entitled to distribute CRWD Tokens (including Bonus Tokens) of up to 50 % of the total CRWD Token Number (including Bonus Tokens). If by the end of the offer period, the actual number of tokens distributed by CONDA (including Bonus Tokens) is less than 50 % of the total token amount, the total token amount shall be adjusted, and CONDA will burn tokens accordingly, so that the number of tokens distributed by the end of the offer period (including any bonus tokens) corresponds to 50 % of the then adjusted total token amount. CONDA will then retain any tokens that were neither distributed nor burned and shall be entitled to distribute them at a later stage, if and when required or desirable by CONDA.  
 
 ## How to participate in CONDA ICO
-
-
 
 **Whitelist**
 
@@ -46,15 +33,11 @@ All you need to do is visit the CRWD Token Whitelisting page, fill out the form,
 
 We are reviewing every submission manually and inform you, once you’re whitelisted. 
 
-
-
 **Pre-/Crowd-Sale**
 
 In order to be in the pole position for our ICO and therefore have a higher chance to get CRWD Tokens during the Pre-/Crowd-Sale, we strongly recommend to whitelist yourself BEFORE the sale starts.
 
 Once the Pre-/Crowd-Sale has started, you have to transfer ETH or Dash to our wallet-address or EUR to our bank account. After we have received your payment, you’ll get your CRWD Tokens immediately transferred to your ERC-20 wallet address.
-
-
 
 **Important to know:**
 
