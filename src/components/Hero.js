@@ -11,8 +11,8 @@ import Balance from "./Balance";
 const phases_endtime = [
   //new Date("May 30, 2018 20:12:00 UTC").getTime(), // TEST DATE
   new Date("jun 4, 2018 18:00:00 UTC").getTime(), // whitelisting
-  new Date("jun 6, 2018 18:00:00 UTC").getTime(), // Pre Sale end
-  new Date("jul 31, 2018 18:00:00 UTC").getTime() // Sale closed
+  new Date("aug 3, 2018 18:00:00 UTC").getTime(), // Pre Sale end
+  new Date("sep 12, 2018 18:00:00 UTC").getTime() // Sale closed
 ];
 
 const getPhaseText = {
