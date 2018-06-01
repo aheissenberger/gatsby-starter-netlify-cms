@@ -8,3 +8,5 @@
 
 # Resources
  * s3 redirect XML generator http://sukharevd.net/static/files/blog/s3routes/index.html
+
+xx
