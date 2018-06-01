@@ -63,7 +63,7 @@ export const TokenSectionTemplate = ({
             <h1>
               <span>ICO</span> DETAILS
             </h1>
-            <p>Initial coin offering for Ether/FIAT.</p>
+            <p>Initial coin offering for Ether/DASH/FIAT.</p>
           </div>
           <div className="ico-top">
             <div className="ico-btn__pane">
