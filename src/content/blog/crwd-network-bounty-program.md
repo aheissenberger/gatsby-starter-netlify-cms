@@ -46,7 +46,7 @@ All participants must
 
 * be whitelisted on ico.conda.online
 * need to share links to their contribution in the [Bounty Telegram channel](https://t.me/crwd_network_bounty) to be evaluated and/or post a link in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0)
-* the campaign starts on April 10, 2018 and ends on July 27, 2018
+* the campaign starts on April 10, 2018 and ends max. on September 12, 2018 or any day until the hardcap is reached
 * new posts have to be at least 50% different than posts evaluated in the previous weeks
 * NO SPAM is allowed
 * restricted are: multiple accounts registrations, spam, abuse, insults
@@ -140,12 +140,12 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 * You must post report for every period with your activity. 
 * You MUST subscribe to our subreddit: [CRWD Network on Reddit.](https://www.reddit.com/r/CRWDNetwork/) 
 * You MUST make at least 3 high quality comments  or posts per week in our subreddit. 
-* Must befriend user: [ICO_CONDA](https://www.reddit.com/user/ICO_CONDA/)
+* Must befriend user: [ICO_CONDA
+  ](https://www.reddit.com/user/ICO_CONDA/)
 * We reserve the right to not consider your reddit account eligible.
 * External posts should link to either CRWD NETWORK ICO Website or Official Announcement.
 * Posts and Comments with negative Karma will not be accepted. Any kind of spam will not be rewarded either.
 * For a post to be counted, it needs to be posted in our subreddit r/CRWDNetwork/, or one of the following subredits or cryptocurrency related subreddits:  r/bitcoin, r/ethereum, r/ethtrader, r/icocrypto, r/cryptocurrency
-
 
 [Check status here.](https://goo.gl/rjky2x)
 
