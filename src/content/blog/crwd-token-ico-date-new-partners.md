@@ -17,7 +17,7 @@ Vienna, March 14, 2018 | Under the guidance of its two Managing Directors, Danie
 
 ## New schedule released
 
-Currently, CONDA has entered its private sale phase with a hard cap goal of 1 million Euros. During this stage (until April 1st), early birds can capture a 30 percent bonus! On April 1st CONDA is officially starting the so-called “whitelisting” stage for its pre- and crowd-sale investors. During that stage, investors’ wallets will be registered to enable future transactions. The public crowd-sale finally starts on June 6th and is open for two weeks until June 20th.
+Currently, CONDA has entered its private sale phase with a hard cap goal of 1 million Euros. During this stage (until April 1st), early birds can capture a 30 percent bonus! On April 1st CONDA is officially starting the so-called “whitelisting” stage for its pre- and crowd-sale investors. During that stage, investors’ wallets will be registered to enable future transactions. The pre-sale then finally starts on June 4th and is open for a max. of 60 days or until the hardcap of 6 mio EUR reached, followed by the crowd-sale for up to 40 days or until the total hardcap is reached.
 
 ## New experts on board
 
