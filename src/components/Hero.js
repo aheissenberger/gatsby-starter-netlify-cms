@@ -150,7 +150,7 @@ const Hero = class extends React.Component {
                 <p>&amp; grab 30% bonus!</p>
               </div> */}
               <div className="btn-inner">
-                <a href="/whitelist" className="btn btn-primary">
+                <a href={this.state.phase > 0 ? "/i/order" : "/whitelist"} className="btn btn-primary">
                   {this.state.phase > 0 ? "Buy Now" : "Whitelist Wallet"}
                 </a>
                 {/* <p>&amp; grab 30% bonus!</p> */}
