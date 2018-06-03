@@ -26,14 +26,14 @@ export default class Balance extends PureComponent {
         : 0;
     this.setState({ tokens: defaultBalance });
     //this.updateBalance();
-    let baseurl = "https://5tlybomgll.execute-api.eu-west-1.amazonaws.com/prod";
+    let baseurl = "https://ico.conda.online";
     if (typeof window !== "undefined") {
       const host = window.location.hostname;
       baseurl =
         host === "localhost"
           ? "http://localhost:4000"
           : host === "d71z42a560a2e.cloudfront.net"
-            ? "https://d71z42a560a2e.cloudfront.net/stag"
+            ? "https://d71z42a560a2e.cloudfront.net"
             : baseurl;
     }
     //console.log(baseurl+"/p/balance")
