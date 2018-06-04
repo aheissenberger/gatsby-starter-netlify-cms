@@ -19,8 +19,8 @@ whitepaper: /img/conda-white-paper.pdf
 icodetails:
   buttoncalltoaction:
     info: ' '
-    label: Whitelist now
-    url: /whitelist
+    label: Buy Now
+    url: /i/order
   description: >-
     In total, 50% of the tokens will be distributed in the initial coin
     offering, which includes the tokens sold and bonus tokens distributed. After
@@ -28,8 +28,8 @@ icodetails:
 reasonswhy:
   buttoncalltoaction:
     info: ' '
-    label: Whitelist now
-    url: /whitelist
+    label: Buy Now
+    url: /i/order
   reasons:
     - icon: /img/offer.png
       title: Limited Offer
@@ -67,7 +67,7 @@ reasonswhy:
 foursteps:
   buttoncalltoaction:
     info: ' '
-    label: Whitelist now
-    url: /whitelist
+    label: Buy Now
+    url: /i/order
 ---
 

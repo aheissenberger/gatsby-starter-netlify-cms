@@ -83,8 +83,8 @@ const Navbar = () => (
           <div className="textwidget custom-html-widget">
             <div className="header-btn">
               <a href="/img/conda-white-paper.pdf" className="btn btn-default" target="_blank">White Paper</a>
-              <a href="/whitelist" className="btn btn-primary">
-                Whitelist now
+              <a href="/i/order" className="btn btn-primary">
+                Buy Now
               </a>
             </div>
             <div className="papper-plain">
