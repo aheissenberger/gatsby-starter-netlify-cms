@@ -34,8 +34,8 @@ export const AboutSectionTemplate = ({
 
             <div className="button-pane">
               <div className="btn-inner">
-                <a href="/whitelist" className="btn btn-primary">
-                Whitelist now
+                <a href="/i/order" className="btn btn-primary">
+                Buy Now
                 </a>
                 <p>
                   {/* &amp; grab 30% bonus! */}
