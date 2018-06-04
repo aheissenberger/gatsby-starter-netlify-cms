@@ -70,12 +70,12 @@ PS: Did we forget something? Shoot us a quick e-mail, so we can ensure the most 
   <tr>
   <td style=min-width:50px>Bitpocket</td>
   <td style=min-width:50px>Blockchain Startup</td>
-  <td style=min-width:50px><a href="https://bitpocket.at/">Link</a></td>
+  <td style=min-width:50px><a href="http://bitpocket.at/">Link</a></td>
   </tr>
   <tr>
   <td style=min-width:50px>Bittex</td>
   <td style=min-width:50px>Mining / Consulting</td>
-  <td style=min-width:50px><a href="https://www.bittex.at/">Link</a></td>
+  <td style=min-width:50px><a href="www.bittex.at/">Link</a></td>
   </tr>
   <tr>
   <td style=min-width:50px>Blockchain Austria</td>
@@ -90,7 +90,7 @@ PS: Did we forget something? Shoot us a quick e-mail, so we can ensure the most 
   <tr>
   <td style=min-width:50px>Blockchainers.at</td>
   <td style=min-width:50px>Education</td>
-  <td style=min-width:50px><a href="https://blockchainers.at/">Link</a></td>
+  <td style=min-width:50px><a href="http://blockchainers.at/">Link</a></td>
   </tr>
   <tr>
   <td style=min-width:50px>Blocklancer</td>
@@ -125,7 +125,7 @@ PS: Did we forget something? Shoot us a quick e-mail, so we can ensure the most 
   <tr>
   <td style=min-width:50px>Coins 2 Go</td>
   <td style=min-width:50px>Bitcoin ATMs</td>
-  <td style=min-width:50px><a href="https://www.coins-2-go.com/">Link</a></td>
+  <td style=min-width:50px><a href="http://www.coins-2-go.com/">Link</a></td>
   </tr>
   <tr>
   <td style=min-width:50px>Cointed</td>
@@ -155,12 +155,12 @@ PS: Did we forget something? Shoot us a quick e-mail, so we can ensure the most 
   <tr>
   <td style=min-width:50px>Cryptofuture</td>
   <td style=min-width:50px>ICO Startup</td>
-  <td style=min-width:50px><a href="https://www.cryptofuture.com/en/">Link</a></td>
+  <td style=min-width:50px><a href="http://www.cryptofuture.com/en/">Link</a></td>
   </tr>
   <tr>
   <td style=min-width:50px>Cryptounity</td>
   <td style=min-width:50px>Mining</td>
-  <td style=min-width:50px><a href="https://cryptounity.at/home/">Link</a></td>
+  <td style=min-width:50px><a href="http://cryptounity.at/home/">Link</a></td>
   </tr>
   <tr>
   <td style=min-width:50px>Cryptouniverse</td>
@@ -175,7 +175,7 @@ PS: Did we forget something? Shoot us a quick e-mail, so we can ensure the most 
   <tr>
   <td style=min-width:50px>Difacturo</td>
   <td style=min-width:50px>Blockchain Startup</td>
-  <td style=min-width:50px><a href="https://difacturo.com/">Link</a></td>
+  <td style=min-width:50px><a href="http://difacturo.com/">Link</a></td>
   </tr>
   <tr>
   <td style=min-width:50px>E-Charge</td>
@@ -220,17 +220,17 @@ PS: Did we forget something? Shoot us a quick e-mail, so we can ensure the most 
   <tr>
   <td style=min-width:50px>Graphsense</td>
   <td style=min-width:50px>Blockchain Startup</td>
-  <td style=min-width:50px><a href="https://graphsense.info/">Link</a></td>
+  <td style=min-width:50px><a href="http://graphsense.info/">Link</a></td>
   </tr>
   <tr>
   <td style=min-width:50px>Herosphere</td>
   <td style=min-width:50px>ICO Startup</td>
-  <td style=min-width:50px><a href="https://www.herosphere.gg/login">Link</a></td>
+  <td style=min-width:50px><a href="https://www.herosphere.gg">Link</a></td>
   </tr>
   <tr>
   <td style=min-width:50px>House of Nakamoto</td>
   <td style=min-width:50px>Store</td>
-  <td style=min-width:50px><a href="https://www.thehouseofnakamoto.com/de">Link</a></td>
+  <td style=min-width:50px><a href="http://www.thehouseofnakamoto.com/de">Link</a></td>
   </tr>
   <tr>
   <td style=min-width:50px>Hydrominer</td>
@@ -285,7 +285,7 @@ PS: Did we forget something? Shoot us a quick e-mail, so we can ensure the most 
   <tr>
   <td style=min-width:50px>Rocket Chain</td>
   <td style=min-width:50px>ICO Startup</td>
-  <td style=min-width:50px><a href="https://www.rocket-chain.com/">Link</a></td>
+  <td style=min-width:50px><a href="http://www.rocket-chain.com/">Link</a></td>
   </tr>
   <tr>
   <td style=min-width:50px>Rotharium</td>
@@ -295,11 +295,11 @@ PS: Did we forget something? Shoot us a quick e-mail, so we can ensure the most 
   <tr>
   <td style=min-width:50px>Smart Blockchain</td>
   <td style=min-width:50px>Lobbying</td>
-  <td style=min-width:50px><a href="https://smartblockchain.at/">Link</a></td>
+  <td style=min-width:50px><a href="http://smartblockchain.at/">Link</a></td>
   </tr>
   <tr>
   <td style=min-width:50px>WachsendeWerte</td>
   <td style=min-width:50px>Mining</td>
-  <td style=min-width:50px><a href="https://www.wachsendewerte.com">Link</a></td>
+  <td style=min-width:50px><a href="https://www.wachsendewerte.at">Link</a></td>
   </tr>
  </table>
