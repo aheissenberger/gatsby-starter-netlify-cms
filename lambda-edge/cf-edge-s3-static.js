@@ -1,8 +1,8 @@
-const util = require("util");
+//const util = require("util");
 
 exports.handler = (event, context, callback) => {
-  console.log(util.inspect(event, false, null));
-  console.log(util.inspect(context, false, null));
+  //console.log(util.inspect(event, false, null));
+  //console.log(util.inspect(context, false, null));
 
   const request = event.Records[0].cf.request;
   const uri = request.uri;
@@ -10,6 +10,7 @@ exports.handler = (event, context, callback) => {
   // Redirect some popular search results to their new pages
   const redirects = [
     { test: /^\/whitelist\/?$/g, targetURI: "/i/whitelist" },
+    { test: /^\/order\/?$/g, targetURI: "/i/order" },
     { test: /^\/f\/payment-method$/g, targetURI: "/i/whitelist" },
     { test: /^\/f\/?$/g, targetURI: "/i/whitelist" },
     { test: /^\/f\/user\/login$/g, targetURI: "/i/login" },
@@ -29,7 +30,7 @@ exports.handler = (event, context, callback) => {
     {
       test: /^\/download-legal\/presale_crwd_token_distribution_agreement_crowd.pdf$/g,
       targetURI:
-        "/img/[final]_crwd_token_distribution_agreement_crowd_presale__20180329.pdf"
+        "/img/CRWD_Token_Distribution_Agreement_20180604.pdf"
     },
     {
       test: /^\/download-legal\/crwd_token_general_terms.pdf$/g,
