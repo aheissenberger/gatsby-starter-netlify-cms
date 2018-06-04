@@ -15,8 +15,6 @@ Check out the demo video explaining the very first version of the CRWD Network.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aCqFSLWieOc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<br>
-<br>
-If you want to try it out yourself: [install Metamask](https://metamask.io/) and [follow this link](https://d1m5xkrtoysamf.cloudfront.net).
+If you want to try it yourself: install [Metamask](<Daniel Pichler [5:57 PM] https://metamask.io/>) frist and then [follow this link](https://d1m5xkrtoysamf.cloudfront.net).
 <br>
 <br>
