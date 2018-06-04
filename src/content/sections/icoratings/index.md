@@ -26,5 +26,8 @@ partners:
   - image: /img/trackico.png
     name: trackICO
     url: 'https://www.trackico.io/ico/crwd-network/'
+  - image: /img/icostock24_web.png
+    name: icostock24
+    url: 'https://icostock24.com/projects/crwd-network/'
 ---
 
