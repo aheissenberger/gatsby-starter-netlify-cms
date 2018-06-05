@@ -1,6 +1,6 @@
 ---
 templateKey: icoinfo-page
-title: How to participate in CONDA ICO
+title: How to participate in CRWD Network
 description: >-
   Information about the CRWD Token Distribution and the steps to participate in
   the CONDA ICO
@@ -15,11 +15,11 @@ All CRWD tokens will be issued exclusively during the ICO. This is coded in the 
 
 > CONDA will create up to **45,000,000 CRWD Tokens** CONDA intends to exchange up to 22,500,000 CRWD Tokens (or 50% of the total token amount), including bonus tokens. 
 
-The ETH / CRWD Token exchange rate will be fixed, and the EUR/CRWD Token and Dash/CRWD Token exchange rate will be floating and presented on the webpage at 9 a.m. daily. 
+The ETH / CRWD Token exchange rate will be fixed, and the EUR/CRWD Token and Dash/CRWD Token exchange rate will be floating and presented on the webpage at 12 a.m. daily (see table below). 
 
 During the Private-, Pre- & Crowd-Sale, we are entitled to distribute CRWD Tokens (including Bonus Tokens) of up to 50 % of the total CRWD Token Number (including Bonus Tokens). If by the end of the offer period, the actual number of tokens distributed by CONDA (including Bonus Tokens) is less than 50 % of the total token amount, the total token amount shall be adjusted, and CONDA will burn tokens accordingly, so that the number of tokens distributed by the end of the offer period (including any bonus tokens) corresponds to 50 % of the then adjusted total token amount. CONDA will then retain any tokens that were neither distributed nor burned and shall be entitled to distribute them at a later stage, if and when required or desirable by CONDA.  
 
-## How to participate in CONDA ICO
+## How to participate in the ICO
 
 **Whitelist**
 
