@@ -184,5 +184,8 @@ advisoryboard:
       image: /img/foubw4ou_400x400.jpg
       link: 'https://www.linkedin.com/in/brianheinen/'
       name: Brian Heinen
+    - description: 'Cryptocurrency Analyst, Blockchain Enthusiast & Advisor '
+      image: /img/chatu.jpg
+      name: Chaturange Sirimalwatta
 ---
 
