@@ -9,8 +9,6 @@ description: >-
 
 The CRWD Token Distribution is starting on June 4, 2018 with a max. of 60 days or until the Pre-Sale hardcap of 6 mio. Euro is reached followed by the Crowd-Sale, which is going to last up to 40 days or until the total hardcap of 18 mio. Euro is reached. 
 
-
-
 ## CRWD Token Distribution
 
 All CRWD tokens will be issued exclusively during the ICO. This is coded in the CONDA's Smart Contracts, so it is 100% guaranteed by the blockchain protocol. 
@@ -45,3 +43,31 @@ Once the Pre-/Crowd-Sale has started, you have to transfer ETH or Dash to our wa
 * Transfer your ETH/Dash ONLY to our wallet address you see after you [logged in to your account](https://oci.conda.online/user/login)
 * Make sure to double-check the details you provide, especially your ERC-20 wallt address. This address will receive the CRWD Tokens – if it’s not correct or the wrong address, CRWD Tokens may be lost!
 * Only upload high-qualitiy images of your government-issued ID or passport for the KYC check.
+
+\
+**Exchange rate of the day:**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#ccc;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#fff;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#ccc;color:#333;background-color:#f0f0f0;}
+.tg .tg-yw4l{vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+
+<div class="tg-wrap"><table class="tg">
+  <tr>
+    <th class="tg-yw4l">DATE</th>
+    <th class="tg-yw4l">AVG ETH PRICE</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l">Jun 4, 2018</td>
+    <td class="tg-yw4l">€ 515,305</td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+</table></div>
+
+\
+\*\*The exchange rate of the day will be calculated based on the data from [investing.com](https://www.investing.com/crypto/ethereum/eth-eur-historical-data) ((highest value + lowest value of the day)/2)\*\*
