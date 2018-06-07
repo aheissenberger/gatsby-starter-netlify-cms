@@ -85,7 +85,7 @@ team:
       image: /img/hannes.jpg
       name: Hannes Reithuber
     - image: /img/plus-1727487_1280.png
-      link: 'https://ico.conda.online/img/crwd_network_ico_team.pdf'
+      link: 'https://ico.conda.online/img/icoteam.pdf'
       name: more Info
 investors:
   members:
