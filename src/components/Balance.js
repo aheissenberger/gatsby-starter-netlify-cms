@@ -73,7 +73,7 @@ export default class Balance extends PureComponent {
           stepPrecision={0}
           formatValue={n => n.toLocaleString()}
         />
-        <div className="legend">Token Sold</div>
+        <div className="legend">Tokens Sold</div>
       </div>
     );
   }
