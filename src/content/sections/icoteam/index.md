@@ -84,6 +84,9 @@ team:
     - description: Business Analyst
       image: /img/hannes.jpg
       name: Hannes Reithuber
+    - image: /img/plus-1727487_1280.png
+      link: 'https://ico.conda.online/img/crwd_network_ico_team.pdf'
+      name: more Info
 investors:
   members:
     - description: >-
