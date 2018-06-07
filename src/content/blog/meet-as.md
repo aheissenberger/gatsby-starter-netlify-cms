@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Meet as @...
+title: Meet us @...
 path: meet-us
 date: '2018-06-07T16:04:52+02:00'
 author: Karin Turki
@@ -13,10 +13,6 @@ image: /img/fb_meet_us.jpg
 ---
 Meet us or one of our partners and advisors at the following events and get in touch with us, have a short chat, catch-up or simply say "Hi":
 
-
-
-
-
 June 6, 2018: Money20/20 in Amsterdam - [Brian Heinen](https://www.linkedin.com/in/brianheinen/), Advisor
 
 June 11, 2018: MoneyConf in Dublin - [Matthias Tarasiewicz](https://www.linkedin.com/in/parasew/), RIAT
@@ -28,3 +24,5 @@ June 13, 2018: Blockchain 360 in Londin - [Brian Heinen](https://www.linkedin.co
 June 20, 2018: CryptoValley in Zug - [Jürgen Habichler](https://www.linkedin.com/in/juergenhabichler/), CONDA Partner
 
 June 27, 2018: Blockchain Expto in Amsterdam - [Paul Pöltner](https://www.linkedin.com/in/poeltner/), CONDA Co-Founder
+
+more events coming soon...
