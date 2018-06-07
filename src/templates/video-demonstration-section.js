@@ -1,10 +1,10 @@
 import React from "react";
 import VideoDemonstration from "../components/VideoDemonstration";
 
-export const VideoDemonstrationSection = ({}) => {
+export const VideoDemonstrationSection = ({url, title, description}) => {
   return (
     <section className="video-demonstration">
-      <VideoDemonstration url="https://www.youtube-nocookie.com/embed/aCqFSLWieOc" title="Demonstration Prototype" description="In this video you can see a short showcase of the platform we are inventing" />
+      <VideoDemonstration url={url} title={title} description={description} />
     </section>
   );
 };

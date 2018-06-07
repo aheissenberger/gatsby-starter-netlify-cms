@@ -1,6 +1,6 @@
 import React from 'react'
 
-const VideoDemonstration = ({ title, url, description }) => {
+const VideoDemonstration = ({ url, title, description }) => {
     return (
       <div className="video-demonstration">
         <div className="container">

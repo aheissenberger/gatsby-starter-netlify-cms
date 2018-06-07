@@ -14,6 +14,7 @@ import { IcoRatingsSectionTemplate } from '../templates/icoratings-section';
 export default class IndexPage extends React.Component {
   render() {
     const { data } = this.props
+    const { edges: demoVideoData }  = data.demoVideo;
     const { edges: aboutData }  = data.about;
     const { edges: solutionData }  = data.solution;
     const { edges: tokenData }  = data.token;
@@ -27,7 +28,10 @@ export default class IndexPage extends React.Component {
     return (
       <React.Fragment>
         <Hero />
-        <VideoDemonstrationSection />
+        <VideoDemonstrationSection 
+          url={demoVideoData[0].node.frontmatter.videoUrl} 
+          title={demoVideoData[0].node.frontmatter.title} 
+          description={demoVideoData[0].node.frontmatter.description} />
         <AboutSectionTemplate title={aboutData[0].node.frontmatter.title}
       title1={aboutData[0].node.frontmatter.title1}
       title2={aboutData[0].node.frontmatter.title2}
@@ -80,6 +84,17 @@ export default class IndexPage extends React.Component {
 
 export const pageQuery = graphql`
 query IndexQuery {
+  demoVideo: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(/sections/demo)/.*\\.md$/"}}) {
+    edges {
+      node {
+        frontmatter {
+          videoUrl
+          title
+          description
+        }
+      }
+    }
+  }
   about: allMarkdownRemark(filter: {fileAbsolutePath: {regex: "/(/sections/about)/.*\\.md$/"}}) {
     edges {
       node {
