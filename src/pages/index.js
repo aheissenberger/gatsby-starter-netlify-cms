@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'gatsby-link'
 import Hero from '../components/Hero';
+import { VideoDemonstrationSection } from '../templates/video-demonstration-section';
 import { AboutSectionTemplate } from '../templates/about-section'
 import { SolutionSectionTemplate } from '../templates/solution-section';
 import { TokenSectionTemplate } from '../templates/token-section';
@@ -26,6 +27,7 @@ export default class IndexPage extends React.Component {
     return (
       <React.Fragment>
         <Hero />
+        <VideoDemonstrationSection />
         <AboutSectionTemplate title={aboutData[0].node.frontmatter.title}
       title1={aboutData[0].node.frontmatter.title1}
       title2={aboutData[0].node.frontmatter.title2}
