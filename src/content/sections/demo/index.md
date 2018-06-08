@@ -1,6 +1,7 @@
 ---
 templateKey: video-demonstration-section
 videoUrl: https://www.youtube-nocookie.com/embed/aCqFSLWieOc
-title: Demonstration Prototype
-description: CONDA launched its crowdinvesting platform in 2013. The blockchain
+title: Demonstration of Prototype
+description: >-
+    In this video you can see a demonstration of the CRWD platform CONDA is inventing
 ---
