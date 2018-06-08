@@ -11,7 +11,7 @@ description: >-
   us!
 image: /img/fb_meet_us.jpg
 ---
-Meet us or one of our partners and advisors at the following events and get in touch with us, have a short chat, catch-up or simply say "Hi":
+Meet us or one of our partners and advisors at the following events, and get in touch with us, have a short chat, catch-up or simply say "Hi":
 
 June 6, 2018: Money20/20 in Amsterdam - [Brian Heinen](https://www.linkedin.com/in/brianheinen/), Advisor
 
@@ -19,7 +19,7 @@ June 11, 2018: MoneyConf in Dublin - [Matthias Tarasiewicz](https://www.linkedin
 
 June 18, 2018: ICO Festival in Frankfurt - [Daniel Horak](https://www.linkedin.com/in/danielhorak/), CONDA Co-Founder
 
-June 13, 2018: Blockchain 360 in Londin - [Brian Heinen](https://www.linkedin.com/in/brianheinen/), Advisor
+June 13, 2018: Blockchain 360 in London - [Brian Heinen](https://www.linkedin.com/in/brianheinen/), Advisor
 
 June 20, 2018: CryptoValley in Zug - [Jürgen Habichler](https://www.linkedin.com/in/juergenhabichler/), CONDA Partner
 
