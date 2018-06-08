@@ -983,6 +983,22 @@ h2 {
       -moz-flex-wrap: nowrap;
       -ms-flex-wrap: nowrap;
       flex-wrap: nowrap; }
+
+.video-demonstration {
+  background-color: #DEEDF4; }
+  .video-demonstration h2 {
+    font-size: 24px;
+    color: #616bc4;
+    font-weight: 300;
+    line-height: 40px; }
+  .video-demonstration .video-demonstration-inner-text {
+    padding-top: 50px;
+  }
+  .video-demonstration .video-demonstration-inner-text p {
+    font-size: 14px;
+    padding-bottom: 20px;
+    margin: 0; }
+
 .crowdfinancing {
   background: #d4e6f0;
   background: -webkit-linear-gradient(top, #d4e6f0 0%, #fff 17%);
