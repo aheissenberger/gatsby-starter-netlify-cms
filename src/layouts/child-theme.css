@@ -874,8 +874,7 @@ h2 {
           .banner .hero-banner .hero-block .time-block .minutes span,
           .banner .hero-banner .hero-block .time-block .seconds span {
             display: block;
-            text-align: center;
-            color: #1759ab; }
+            text-align: center; }
             .banner .hero-banner .hero-block .time-block .days span:first-child,
             .banner .hero-banner .hero-block .time-block .hours span:first-child,
             .banner .hero-banner .hero-block .time-block .minutes span:first-child,
@@ -896,7 +895,6 @@ h2 {
             position: absolute;
             right: -5px;
             top: 8px;
-            color: #1759ab;
             font-size: 26px;
             font-weight: 700; }
         .banner .hero-banner .hero-block .time-block .seconds {

@@ -63,7 +63,6 @@ export default class Balance extends PureComponent {
           //component="text"
           value={this.state.tokens}
           style={{
-            color: "#1759ab",
             transition: "0.8s ease-out",
             fontSize: 62,
             transitionProperty: "background-color, color, opacity"

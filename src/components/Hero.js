@@ -119,7 +119,7 @@ const Hero = class extends React.Component {
                 <h2 style={{ textTransform: "uppercase" }}>
                 </h2>
                 <h1>Tokenized Equity Offerings</h1>
-                <p>
+                <p className="slogan-explain">
                   A decentralized network protocol for issuing and managing
                   tokenized equity offerings of SMEs, Start-ups and Real Estate
                   Projects.

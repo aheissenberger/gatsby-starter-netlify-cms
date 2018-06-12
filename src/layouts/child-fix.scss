@@ -88,21 +88,50 @@
   }
 }
 
-.hero-banner {
-  .progress-block {
-    padding-top: 1rem;
-    color: #1759ab;
-    text-align: center;
-    text-transform: uppercase;
-
-    &.hideToken {
-      display: none;
-    }
-    @media only screen and (min-width: 768px) {
+.banner {
+  .hero-banner {
+    .progress-block {
+      padding-top: 1rem;
+      text-align: center;
+      text-transform: uppercase;
+  
       &.hideToken {
-        display: block;
-        visibility: hidden;
+        display: none;
       }
+      @media only screen and (min-width: 768px) {
+        &.hideToken {
+          display: block;
+          visibility: hidden;
+        }
+      }
+    }
+    .btn-group {
+      margin:10px;
+    }
+    
+    .intro-quicklinks {
+      margin-top:15px;
+      margin-bottom:35px;
+      font-size: 14px;
+    }
+    
+    .hero-right {
+      background-color: #213262;
+      color:white;
+      padding-right:30px;
+      padding-left: 30px;
+    
+      h1, p, span {
+        color: white;
+      }
+    }
+    
+    .slogan-explain {
+      width: 430px;
+    }
+
+    .logo {
+      height: 7ex;
     }
   }
 }
@@ -144,16 +173,3 @@
 .banner .hero-banner .hero-block .time-block {
   justify-content: center;
 }
-
-.logo {
-  height: 7ex;
-}
-
-.hero-banner .btn-group {
-  margin:10px;
-}
-
-.hero-banner .intro-quicklinks {
-  margin-top:15px;
-  margin-bottom:35px;
-  font-size: 14px;}
