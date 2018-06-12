@@ -87,6 +87,10 @@ team:
     - image: /img/plus-1727487_1280.png
       link: 'https://ico.conda.online/img/icoteam.pdf'
       name: more Info
+    - description: Blockchain Developer
+      image: /img/0.jpg
+      link: 'https://www.linkedin.com/in/johannes-mayer-409958b7/'
+      name: Johannes Mayer
 investors:
   members:
     - description: >-
