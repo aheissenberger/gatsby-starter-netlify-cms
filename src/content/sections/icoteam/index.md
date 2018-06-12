@@ -53,7 +53,11 @@ team:
       image: /img/Vladana-Donevski-img-150x150.jpg
       link: 'https://www.linkedin.com/in/vladana-donevski-30a244152/'
       name: Vladana Donevski
-    - description: Content Writer
+    - description: Blockchain Developer
+      image: /img/0.jpg
+      link: 'https://www.linkedin.com/in/johannes-mayer-409958b7/'
+      name: Johannes Mayer
+    - description: Customer Relationship Manager
       image: /img/julie sufana.jpg
       link: 'https://www.linkedin.com/in/julie-sufana-14b3b217/'
       name: Julie Sufana
@@ -87,10 +91,6 @@ team:
     - image: /img/plus-1727487_1280.png
       link: 'https://ico.conda.online/img/icoteam.pdf'
       name: more Info
-    - description: Blockchain Developer
-      image: /img/0.jpg
-      link: 'https://www.linkedin.com/in/johannes-mayer-409958b7/'
-      name: Johannes Mayer
 investors:
   members:
     - description: >-
