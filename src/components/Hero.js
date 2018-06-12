@@ -160,7 +160,7 @@ const Hero = class extends React.Component {
             
             <div className="hero-block col-md-6">
               <div className="hero-right text-center">
-                <h1>Pre-Sale Live: +30% Bonus *</h1>
+                <h1>Pre-Sale Live: +30% Bonus*</h1>
                 
                 <div className="btn-inner">
                   <p>
@@ -188,7 +188,7 @@ const Hero = class extends React.Component {
                   </div>
                 )}
 
-                <p>* Check white paper for bonus scheme</p>
+                <p>*Check white paper for bonus scheme</p>
                 <div className="intro-quicklinks">
                   <a href="/img/conda-white-paper.pdf" target="_blank">White Paper</a>
                   {" "}|{" "}
