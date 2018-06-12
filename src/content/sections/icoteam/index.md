@@ -26,37 +26,26 @@ team:
       image: /img/igor-velickovic.jpg
       link: 'https://www.linkedin.com/in/igor-velickovic-29a2a24/'
       name: Igor Veličković
-    - description: Head of Operations
-      image: /img/Predrag-Mijatovic-img-150x150.jpg
-      name: Predrag Mijatovic
     - description: |-
         Blockchain Enabler & Technical Advisor
         Capacity Blockchain Solutions GmbH
       image: /img/andreas petersson.jpg
       link: 'https://www.linkedin.com/in/andreas-petersson-202293b5/'
       name: Andreas Petersson
-    - description: Legal Advisor
-      image: /img/Blaz-Jamsek-img-150x150.jpg
-      link: 'https://www.linkedin.com/in/blazjamsek/'
-      name: Blaž Jamšek
-    - description: Developer
-      image: /img/Radojica-Radivojevic-img-150x150.jpg
-      name: Radojica Radivojević
-    - description: Developer
-      image: /img/Nebojsa-Nikolic-img-150x150.jpg
-      link: 'https://www.linkedin.com/in/nebojsa-nikolic-ab9193122/'
-      name: Nebojsa Nikolic
-    - description: Investor Relations Manager
-      image: /img/maria_kopp.png
-      name: Maria Kopp
-    - description: Content Writer
-      image: /img/Vladana-Donevski-img-150x150.jpg
-      link: 'https://www.linkedin.com/in/vladana-donevski-30a244152/'
-      name: Vladana Donevski
     - description: Blockchain Developer
       image: /img/0.jpg
       link: 'https://www.linkedin.com/in/johannes-mayer-409958b7/'
       name: Johannes Mayer
+    - description: Developer
+      image: /img/Radojica-Radivojevic-img-150x150.jpg
+      name: Radojica Radivojević
+    - description: Head of Operations
+      image: /img/Predrag-Mijatovic-img-150x150.jpg
+      name: Predrag Mijatovic
+    - description: Developer
+      image: /img/Nebojsa-Nikolic-img-150x150.jpg
+      link: 'https://www.linkedin.com/in/nebojsa-nikolic-ab9193122/'
+      name: Nebojsa Nikolic
     - description: Customer Relationship Manager
       image: /img/julie sufana.jpg
       link: 'https://www.linkedin.com/in/julie-sufana-14b3b217/'
@@ -65,14 +54,14 @@ team:
       image: /img/stojan.jpg
       link: 'https://www.linkedin.com/in/stojanivanisevic/'
       name: ' Stojan Ivanišević'
-    - description: White Label Partner Manager
-      image: /img/Erika-Boon-Neu-150x150.png
-      link: 'https://www.linkedin.com/in/erika-boon-97b96238/'
-      name: Erika Boon
-    - description: Head of Campaign Management
-      image: /img/hannah_sturm.png
-      link: 'https://www.linkedin.com/in/hannah-sturm/'
-      name: Hannah Sturm
+    - description: Content Writer
+      image: /img/Vladana-Donevski-img-150x150.jpg
+      link: 'https://www.linkedin.com/in/vladana-donevski-30a244152/'
+      name: Vladana Donevski
+    - description: Legal Advisor
+      image: /img/Blaz-Jamsek-img-150x150.jpg
+      link: 'https://www.linkedin.com/in/blazjamsek/'
+      name: Blaž Jamšek
     - description: Chief Executive Officer Austria
       image: /img/katharina_ehrenfellner.png
       link: 'https://www.linkedin.com/in/katharina-ehrenfellner-10236018/'
@@ -81,6 +70,17 @@ team:
       image: /img/michael_lipper2.png
       link: 'https://www.linkedin.com/in/michaellipper/'
       name: Michael Lipper
+    - description: White Label Partner Manager
+      image: /img/Erika-Boon-Neu-150x150.png
+      link: 'https://www.linkedin.com/in/erika-boon-97b96238/'
+      name: Erika Boon
+    - description: Investor Relations Manager
+      image: /img/maria_kopp.png
+      name: Maria Kopp
+    - description: Head of Campaign Management
+      image: /img/hannah_sturm.png
+      link: 'https://www.linkedin.com/in/hannah-sturm/'
+      name: Hannah Sturm
     - description: Marketing Assistant
       image: /img/lara_scheibner.png
       link: 'https://www.linkedin.com/in/lara-scheibner-956862120/'
