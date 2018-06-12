@@ -1,6 +1,6 @@
 import React from "react";
 import progressImage from "../img/progress.png";
-import logo from "../img/CRWD Network Logo_square.png";
+import logo from "../img/Logo_2_B.png";
 import Balance from "./Balance";
 
 /*
@@ -104,19 +104,19 @@ const Hero = class extends React.Component {
       <section className="banner">
         <div className="hero-banner container">
           <div className="row">
-            <div className="col-md-6">
+            <div className="col-md-6 text-center">
+                <img
+                  src={logo}
+                  className="logo"
+                  alt="CRWD" />
+            </div>
+          </div>
+
+          <div className="row">
+            <div className="col-md-6 order-sm-last order-md-first">
             
               <div className="hero-block hero-left">
                 <h2 style={{ textTransform: "uppercase" }}>
-                  <img
-                    src={logo}
-                    style={{
-                      width: "auto",
-                      height: "1.9ex",
-                      marginBottom: "-0,1ex"
-                    }}
-                    alt="CRWD"
-                  />{" "}Network
                 </h2>
                 <h1>Tokenized Equity Offerings</h1>
                 <p>
@@ -158,7 +158,7 @@ const Hero = class extends React.Component {
             </div>
             </div>
             
-            <div className="hero-block col-md-6">
+            <div className="hero-block col-md-6 order-sm-first order-md-last">
               <div className="hero-right text-center">
                 <h1>Pre-Sale Live: +30% Bonus*</h1>
                 
