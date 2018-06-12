@@ -190,5 +190,9 @@ advisoryboard:
     - description: 'Cryptocurrency Analyst, Blockchain Enthusiast & Advisor '
       image: /img/chatu.jpg
       name: Chaturange Sirimalwatta
+    - description: Fintech Expert & Advisor
+      image: /img/dusica-lukac.jpg
+      link: 'https://www.linkedin.com/in/dusicalukac/'
+      name: Dusica Lukac
 ---
 
