@@ -155,6 +155,13 @@ const Hero = class extends React.Component {
                 </div>*/}
 
                 <iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/UAGYPwIPIs4" frameBorder="0" allow="encrypted-media" allowFullScreen></iframe>
+                <div className="btn-group">
+                  <div className="btn-inner">
+                    <a href="/icoinfo" className="btn btn-default">
+                      How to Participate
+                    </a>
+                  </div>
+                </div>
             </div>
             </div>
             
@@ -162,10 +169,10 @@ const Hero = class extends React.Component {
               <div className="hero-right text-center">
                 <h1>Pre-Sale Live: +30% Bonus*</h1>
                 
-                <div className="btn-inner">
-                  <p>
-                    <a href="/i/order" className="btn btn-primary">Buy Now + Bonus</a>
-                  </p>
+                <div className="btn-group">
+                  <div className="btn-inner">
+                      <a href="/i/order" className="btn btn-primary">Buy Now + Bonus</a>
+                  </div>
                 </div>
 
                 <div
