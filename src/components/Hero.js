@@ -124,7 +124,8 @@ const Hero = class extends React.Component {
                   tokenized equity offerings of SMEs, Start-ups and Real Estate
                   Projects.
                 </p>
-                
+                <p>{" "}</p>
+
                 {/*<div className="button-pane">
                   {/* <div className="btn-inner">
                     <a href="/privatesale" className="btn btn-primary">
@@ -153,9 +154,7 @@ const Hero = class extends React.Component {
                   </div>
                 </div>*/}
 
-                <p>
-                  <iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/UAGYPwIPIs4" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-                </p>
+                <iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/UAGYPwIPIs4" frameBorder="0" allow="encrypted-media" allowFullScreen></iframe>
             </div>
             </div>
             
@@ -163,9 +162,11 @@ const Hero = class extends React.Component {
               <div className="hero-right text-center">
                 <h1>Pre-Sale Live: +30% Bonus *</h1>
                 
-                <p>
-                  <div class="btn-inner"><a href="/i/order" class="btn btn-primary">Buy Now + Bonus</a></div>
-                </p>
+                <div className="btn-inner">
+                  <p>
+                    <a href="/i/order" className="btn btn-primary">Buy Now + Bonus</a>
+                  </p>
+                </div>
 
                 <div
                   className={
