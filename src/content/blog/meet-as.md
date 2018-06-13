@@ -21,7 +21,7 @@ June 18, 2018: ICO Festival in Frankfurt - [Daniel Horak](https://www.linkedin.c
 
 June 13, 2018: Blockchain 360 in London - [Brian Heinen](https://www.linkedin.com/in/brianheinen/), Advisor
 
-June 20, 2018: CryptoValley in Zug - [Jürgen Habichler](https://www.linkedin.com/in/juergenhabichler/), CONDA Partner
+June 20, 2018: CryptoValley in Zug - [Jürgen Habichler](https://www.linkedin.com/in/juergenhabichler/), CONDA Partner / [Klaus Hipfinger](https://www.linkedin.com/in/klaus-hipfinger-ba-510390150/), Advisor & Dash Embassy D-A-CH
 
 June 27, 2018: Blockchain Expto in Amsterdam - [Paul Pöltner](https://www.linkedin.com/in/poeltner/), CONDA Co-Founder
 
