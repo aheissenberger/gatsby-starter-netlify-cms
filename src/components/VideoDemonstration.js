@@ -10,7 +10,7 @@ const VideoDemonstration = ({ url, title, description }) => {
               <Video url={url} />
             </div>
 
-            <div className="col-md-6 col-lg-6 d-none d-lg-block d-md-block">
+            <div className="col-md-6 col-lg-6">
               <div className="video-demonstration-inner-text">
                 <h2>{title}</h2>
                 <p>{description}</p>
