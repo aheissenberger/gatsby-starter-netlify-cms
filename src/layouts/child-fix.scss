@@ -202,8 +202,10 @@
 }
 
 .no-padding-lr {
-  padding-left:0;
-  padding-right:0;
+  @media only screen and (min-width: 768px) {
+    padding-left:0;
+    padding-right:0;
+  }
 }
 
 .crowdfinancing .crowdfinancing-inner {
