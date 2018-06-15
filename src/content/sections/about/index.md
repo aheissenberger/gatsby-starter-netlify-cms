@@ -18,7 +18,7 @@ facts:
       and the knowledge to handle projects all over Europe, from €100,000 up to
       several million euros.
     heading: Success
-    image: /img/invest.png
+    image: /img/invest_kleiner.png
     subheading: ' '
   - description: >-
       Our mission is to create the financial market of the future. We are
