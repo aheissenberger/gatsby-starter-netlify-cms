@@ -2,6 +2,7 @@ import React from "react";
 import progressImage from "../img/progress.png";
 import logo from "../img/Logo_2_B.png";
 import Balance from "./Balance";
+import Video from './Video.js'
 
 /*
 * for testing the phases you can set a localStorage variable "phase" with the phase to test (0 - 3)
@@ -156,7 +157,7 @@ const Hero = class extends React.Component {
                 </div>
               </div>
 
-              <div className="col-md-6 order-sm-last order-md-first">
+              <div className="col-md-6 order-sm-last order-md-first text-center">
               
                 <div className="hero-block hero-left">
                   <h2 style={{ textTransform: "uppercase" }}>
@@ -197,7 +198,8 @@ const Hero = class extends React.Component {
                     </div>
                   </div>*/}
 
-                  <iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/UAGYPwIPIs4" frameBorder="0" allow="encrypted-media" allowFullScreen></iframe>
+                  <Video url={"https://www.youtube-nocookie.com/embed/UAGYPwIPIs4"} />
+
                   <div className="btn-group">
                     <div className="btn-inner">
                       <a href="/icoinfo" className="btn btn-default">

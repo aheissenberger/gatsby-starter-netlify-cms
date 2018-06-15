@@ -1,14 +1,16 @@
 import React from 'react'
+import Video from './Video.js'
 
 const VideoDemonstration = ({ url, title, description }) => {
     return (
       <div className="video-demonstration">
-        <div className="container">
+        <div className="container no-padding-lr">
           <div className="row">
-            <div className="col-xs-12 col-sm-12 col-md-12 col-lg-6">
-              <iframe width="400" height="225" src={url} frameBorder="0" allow="encrypted-media" allowFullScreen></iframe>
+            <div className="col-xs-12 col-sm-12 col-md-6 col-lg-6 text-center">
+              <Video url={url} />
             </div>
-            <div className="d-none d-lg-block col-lg-6">
+
+            <div className="col-md-6 col-lg-6 d-none d-lg-block d-md-block">
               <div className="video-demonstration-inner-text">
                 <h2>{title}</h2>
                 <p>{description}</p>

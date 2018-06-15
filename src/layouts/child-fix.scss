@@ -110,17 +110,21 @@
     }
     
     .intro-quicklinks {
-      margin-top:15px;
-      margin-bottom:35px;
+      padding-top:15px;
+      padding-bottom:30px;
       font-size: 14px;
     }
     
+    h1 {
+      padding-top:30px;   
+    }
+
     .hero-right {
       background-color: #213262;
       color:white;
       padding-right:30px;
       padding-left: 30px;
-    
+
       h1, p, span {
         color: white;
       }
@@ -170,6 +174,49 @@
   display: block;
 }
 
-.banner .hero-banner .hero-block .time-block {
-  justify-content: center;
+.banner .hero-banner {
+  padding: 100px 0 0 0;
+
+  .hero-block .time-block {
+    justify-content: center;
+  }
+  
+  .hero-block {
+    display:block;
+    text-align:center;
+  }
+}
+
+.video-wrapper { /*https://andrew.hedges.name/experiments/aspect_ratio/*/
+  max-width: 400px;
+  max-height: 300px;
+
+  min-width: 50px;
+  min-height: 50px;
+}
+
+.text-center .video-wrapper {
+  margin: 0 auto;
+}
+
+.no-padding-lr {
+  padding-left:0;
+  padding-right:0;
+}
+
+.crowdfinancing .crowdfinancing-inner {
+  padding-top:0;
+
+  .section-header h2 {
+    padding-top:30px;
+  }
+}
+
+.video-demonstration .video-wrapper {
+  padding-top:30px;
+  padding-bottom:30px;
+}
+
+.crowdfinancing .crowdfinancing-inner .row .about-content {
+  padding-top: 0;
 }
