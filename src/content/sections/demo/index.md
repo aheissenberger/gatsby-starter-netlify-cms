@@ -3,5 +3,5 @@ templateKey: video-demonstration-section
 videoUrl: https://www.youtube-nocookie.com/embed/aCqFSLWieOc
 title: Demonstration of Prototype
 description: >-
-    In this video you can see a demonstration of the CRWD platform CONDA is inventing
+    This demo video explains the concept of the CRWD Network we are currently developing. Have a look and make your first trials with our ptotocol
 ---
