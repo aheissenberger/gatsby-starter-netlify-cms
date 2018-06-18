@@ -60,6 +60,22 @@ Once the Pre-/Crowd-Sale has started, you have to transfer ETH or Dash to our wa
     <th class="tg-yw4l">AVG ETH PRICE</th>
   </tr>
  <tr>
+    <td class="tg-yw4l">Jun 17, 2018</td>
+    <td class="tg-yw4l">€ 431,06</td>
+  </tr>
+ <tr>
+    <td class="tg-yw4l">Jun 16, 2018</td>
+    <td class="tg-yw4l">€ 425,4</td>
+  </tr>
+ <tr>
+    <td class="tg-yw4l">Jun 15, 2018</td>
+    <td class="tg-yw4l">€ 434,08</td>
+  </tr>
+ <tr>
+    <td class="tg-yw4l">Jun 14, 2018</td>
+    <td class="tg-yw4l">€ 425,33</td>
+  </tr>
+ <tr>
     <td class="tg-yw4l">Jun 13, 2018</td>
     <td class="tg-yw4l">€ 404,585</td>
   </tr>
