@@ -12,6 +12,8 @@ description: >-
 image: /img/fb_meet_us.jpg
 ---
 Meet us or one of our partners and advisors at the following events, and get in touch with us, have a short chat, catch-up or simply say "Hi":
+<br>
+<br>
 
 June 6, 2018: Money20/20 in Amsterdam - [Brian Heinen](https://www.linkedin.com/in/brianheinen/), Advisor
 
@@ -32,3 +34,5 @@ June 26/27, 2018: Blockchain Summit London - [Dusica Lukac](https://www.linkedin
 June 27, 2018: Blockchain Expto in Amsterdam - [Paul Pöltner](https://www.linkedin.com/in/poeltner/), CONDA Co-Founder
 
 more events coming soon...
+<br>
+<br>
