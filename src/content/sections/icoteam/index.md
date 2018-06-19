@@ -207,5 +207,9 @@ advisoryboard:
       image: /img/dusica-lukac.jpg
       link: 'https://www.linkedin.com/in/dusicalukac/'
       name: Dusica Lukac
+    - description: Cooperation Partner
+      image: /img/jadeberg-partners-logo-square.jpg
+      link: 'https://www.jadeberg-partners.ch/'
+      name: Jadeberg Partners
 ---
 
