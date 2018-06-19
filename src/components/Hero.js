@@ -1,7 +1,8 @@
 import React from "react";
 import progressImage from "../img/progress.png";
-import logo from "../img/CRWD Network Logo_square.png";
+import logo from "../img/Logo_2_B.png";
 import Balance from "./Balance";
+import Video from './Video.js'
 
 /*
 * for testing the phases you can set a localStorage variable "phase" with the phase to test (0 - 3)
@@ -104,101 +105,110 @@ const Hero = class extends React.Component {
       <section className="banner">
         <div className="hero-banner container">
           <div className="row">
-            <div className="col-md-6">
-            
-              <div className="hero-block hero-left">
-                <h2 style={{ textTransform: "uppercase" }}>
-                  <img
-                    src={logo}
-                    style={{
-                      width: "auto",
-                      height: "1.9ex",
-                      marginBottom: "-0,1ex"
-                    }}
-                    alt="CRWD"
-                  />{" "}Network
-                </h2>
-                <h1>Tokenized Equity Offerings</h1>
-                <p>
-                  A decentralized network protocol for issuing and managing
-                  tokenized equity offerings of SMEs, Start-ups and Real Estate
-                  Projects.
-                </p>
-                
-                {/*<div className="button-pane">
-                  {/* <div className="btn-inner">
-                    <a href="/privatesale" className="btn btn-primary">
-                    Apply for Private-Sale
-                    </a>
-                    <p>&amp; grab 30% bonus!</p>
-                  </div> *}
-                  <div className="btn-inner">
-                    <a href={this.state.phase > 0 ? "/i/order" : "/whitelist"} className="btn btn-primary">
-                      {this.state.phase > 0 ? "Buy Now" : "Whitelist Wallet"}
-                    </a>
-                    {/* <p>&amp; grab 30% bonus!</p> *}
-                  </div>
-                  <div className="btn-inner">
-                    <a href="/icoinfo" className="btn btn-default">
-                      How to Participate
-                    </a>
-                    {/* <p>
-                      or watch the&nbsp;<a
-                        href="https://www.youtube.com/channel/UCvnUfzByoiX-R26GqmD0y0A/feed"
-                        target="_blank"
-                      >
-                        video
-                      </a>
-                    </p> *}
-                  </div>
-                </div>*/}
-
-                <p>
-                  <iframe width="400" height="225" src="https://www.youtube-nocookie.com/embed/UAGYPwIPIs4" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-                </p>
+            <div className="col-md-6 text-center">
+                <img
+                  src={logo}
+                  className="logo"
+                  alt="CRWD" />
             </div>
-            </div>
-            
-            <div className="hero-block col-md-6">
-              <div className="hero-right text-center">
-                <h1>Pre-Sale Live: +30% Bonus *</h1>
-                
-                <p>
-                  <div class="btn-inner"><a href="/i/order" class="btn btn-primary">Buy Now + Bonus</a></div>
-                </p>
+          </div>
 
-                <div
-                  className={
-                    this.state.phase < 1
-                      ? "progress-block hideToken"
-                      : "progress-block"
-                  }
-                >
-                  {this.state.phase > 0 ? (
-                    <Balance />
-                  ) : (
-                    <div style={{ height: "70px" }} />
+          <div className="row">
+            <div className="col-md-6 order-sm-first order-md-last">
+                <div className="hero-block hero-right text-center">
+                  <h1>Pre-Sale&nbsp;Live: +30%&nbsp;Bonus*</h1>
+                  
+                  <div className="btn-group">
+                    <div className="btn-inner">
+                        <a href="/i/order" className="btn btn-primary">Buy&nbsp;Now + Bonus</a>
+                    </div>
+                  </div>
+
+                  <div
+                    className={
+                      this.state.phase < 1
+                        ? "progress-block hideToken"
+                        : "progress-block"
+                    }
+                  >
+                    {this.state.phase > 0 ? (
+                      <Balance />
+                    ) : (
+                      <div style={{ height: "70px" }} />
+                    )}
+                  </div>
+                  {this.state.phase < 3 && (
+                    <div>
+                      <p>{this.state.phaseText}</p>
+                      <Timecounter {...this.state.tcounter} />
+                    </div>
                   )}
-                </div>
-                {this.state.phase < 3 && (
-                  <div>
-                    <p>{this.state.phaseText}</p>
-                    <Timecounter {...this.state.tcounter} />
-                  </div>
-                )}
 
-                <p>* Check white paper for bonus scheme</p>
-                <div className="intro-quicklinks">
-                  <a href="/img/conda-white-paper.pdf" target="_blank">White Paper</a>
-                  {" "}|{" "}
-                  <a href="/img/conda-light-paper.pdf" target="_blank">Light Paper</a>
-                  {" "}|{" "}
-                  <a href="/img/pitchdeck.pdf" target="_blank">Pitch Deck</a>
-                  {" "}|{" "}
-                  <a href="/img/technical_whitepaper._v1.21.pdf" target="_blank">Tech Paper</a>
+                  <p style={{'fontSize':'smaller', fontWeight:'normal'}}>*Check White Paper for bonus scheme</p>
+                  <div className="intro-quicklinks">
+                    <a href="/img/conda-white-paper.pdf" target="_blank">White Paper</a>
+                    {" "}|{" "}
+                    <a href="/img/conda-light-paper.pdf" target="_blank">Light Paper</a>
+                    {" "}|{" "}
+                    <a href="/img/pitchdeck.pdf" target="_blank">Pitch Deck</a>
+                    {" "}|{" "}
+                    <a href="/img/technical_whitepaper._v1.21.pdf" target="_blank">Tech Paper</a>
+                  </div>
                 </div>
               </div>
-            </div>
+
+              <div className="col-md-6 order-sm-last order-md-first text-center">
+              
+                <div className="hero-block hero-left">
+                  <h2 style={{ textTransform: "uppercase" }}>
+                  </h2>
+                  <h1>Tokenized Equity Offerings</h1>
+                  <p className="slogan-explain">
+                    A decentralized network protocol for issuing and managing
+                    tokenized equity offerings of SMEs, Start-ups and Real Estate
+                    Projects.
+                  </p>
+                  <p>{" "}</p>
+
+                  {/*<div className="button-pane">
+                    {/* <div className="btn-inner">
+                      <a href="/privatesale" className="btn btn-primary">
+                      Apply for Private-Sale
+                      </a>
+                      <p>&amp; grab 30% bonus!</p>
+                    </div> *}
+                    <div className="btn-inner">
+                      <a href={this.state.phase > 0 ? "/i/order" : "/whitelist"} className="btn btn-primary">
+                        {this.state.phase > 0 ? "Buy Now" : "Whitelist Wallet"}
+                      </a>
+                      {/* <p>&amp; grab 30% bonus!</p> *}
+                    </div>
+                    <div className="btn-inner">
+                      <a href="/icoinfo" className="btn btn-default">
+                        How to Participate
+                      </a>
+                      {/* <p>
+                        or watch the&nbsp;<a
+                          href="https://www.youtube.com/channel/UCvnUfzByoiX-R26GqmD0y0A/feed"
+                          target="_blank"
+                        >
+                          video
+                        </a>
+                      </p> *}
+                    </div>
+                  </div>*/}
+
+                  <Video url={"https://www.youtube-nocookie.com/embed/UAGYPwIPIs4"} />
+
+                  <div className="btn-group">
+                    <div className="btn-inner">
+                      <a href="/icoinfo" className="btn btn-default">
+                        How to Participate
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
           </div>
         </div>
       </section>

@@ -757,7 +757,7 @@ h2 {
   background: url(../img/banner-bg.jpg) no-repeat bottom center; }
   .banner .hero-banner {
     display: block;
-    padding: 150px 0 0 0;
+    /* padding: 150px 0 0 0; */
     min-height: 692px; }
     .banner .hero-banner .hero-block {
       display: -webkit-box;
@@ -785,18 +785,7 @@ h2 {
       -moz-flex-wrap: nowrap;
       -ms-flex-wrap: nowrap;
       flex-wrap: nowrap; }
-      .banner .hero-banner .hero-block .intro-quicklinks {
-        margin-top:15px;
-        margin-bottom:15px;
-        font-size: 14px;}
-      .banner .hero-banner .hero-block .hero-right h1 {
-        margin-top:63px; }
-      @media only screen and (max-width: 767px) {
-        .banner .hero-banner .hero-block .hero-right {
-          padding: 0px 20px; } }
-      @media only screen and (min-width: 768px) and (max-width: 992px) {
-        .banner .hero-banner .hero-block {
-          padding: 0px 20px; } }
+
       .banner .hero-banner .hero-block h1 {
         font-size: 35px;
         font-weight: 700;
@@ -880,8 +869,7 @@ h2 {
           .banner .hero-banner .hero-block .time-block .minutes span,
           .banner .hero-banner .hero-block .time-block .seconds span {
             display: block;
-            text-align: center;
-            color: #1759ab; }
+            text-align: center; }
             .banner .hero-banner .hero-block .time-block .days span:first-child,
             .banner .hero-banner .hero-block .time-block .hours span:first-child,
             .banner .hero-banner .hero-block .time-block .minutes span:first-child,
@@ -902,7 +890,6 @@ h2 {
             position: absolute;
             right: -5px;
             top: 8px;
-            color: #1759ab;
             font-size: 26px;
             font-weight: 700; }
         .banner .hero-banner .hero-block .time-block .seconds {
