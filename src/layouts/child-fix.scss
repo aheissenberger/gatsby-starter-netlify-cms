@@ -154,12 +154,27 @@
     
     .hero-block {
       .slogan-explain {
-        max-width: 41rem;
+        padding-left: 1rem;
+        padding-right: 1rem;
       }
     }
 
     .logo {
       height: 7ex;
+    }
+    @media only screen and (max-width: 500px) {
+      padding-right:0;
+      padding-left: 0;
+        .row {
+          margin-right: 0;
+          margin-left: 0;
+        
+          > .col,
+          > [class*="col-"] {
+            padding-right: 0;
+            padding-left: 0;
+          }
+        }
     }
   }
 }
@@ -250,9 +265,16 @@
 
 .video-demonstration {
   padding-top:1rem;
-  padding-bottom:10px;
+  padding-bottom:1rem;
 }
 
 .crowdfinancing .crowdfinancing-inner .row .about-content {
   padding-top: 0;
+}
+
+
+@media only screen and (max-width: 700px) {
+  .sale-investors .invesrer-review .review-slide .review-content .carousel .carousel-indicators {
+    display: none;
+  }
 }

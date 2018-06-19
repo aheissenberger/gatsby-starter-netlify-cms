@@ -116,7 +116,7 @@ const Hero = class extends React.Component {
           <div className="row">
             <div className="col-md-6 order-sm-first order-md-last">
                 <div className="hero-block hero-right text-center">
-                  <h1>Pre-Sale Live: +30% Bonus*</h1>
+                  <h1>Pre-Sale Live: +30%&nbsp;Bonus*</h1>
                   
                   <div className="btn-group">
                     <div className="btn-inner">
