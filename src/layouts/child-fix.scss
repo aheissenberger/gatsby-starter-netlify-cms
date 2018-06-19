@@ -62,7 +62,7 @@
   }
   blockquote {
     background-color: #e0eff6;
-    border-left: 30px solid #cbe3ef;
+    border-left: 1rem solid #cbe3ef;
     margin: 0 0 1rem 0;
     padding: 1rem;
     line-height: 1.1;
@@ -88,21 +88,93 @@
   }
 }
 
-.hero-banner {
-  .progress-block {
-    padding-top: 1rem;
-    color: #1759ab;
-    text-align: center;
-    text-transform: uppercase;
-
-    &.hideToken {
-      display: none;
-    }
-    @media only screen and (min-width: 768px) {
+.banner {
+  .hero-banner {
+    .progress-block {
+      padding-top: 1rem;
+      text-align: center;
+      text-transform: uppercase;
+  
       &.hideToken {
-        display: block;
-        visibility: hidden;
+        display: none;
       }
+      @media only screen and (min-width: 768px) {
+        &.hideToken {
+          display: block;
+          visibility: hidden;
+        }
+      }
+    }
+    .hero-left {
+      .btn-group {
+        margin:2rem;
+        a {
+          color: black;
+        }
+      }
+    }
+    .hero-right {
+      .btn-group {
+        margin:1rem;
+        a {
+          border-color:#c7c8cd;
+        }
+      }
+    }
+    
+    .intro-quicklinks {
+      padding-top:15px;
+      padding-bottom:2rem;
+      font-size: 14px;
+    }
+    
+    h1 {
+      padding-top:1rem;   
+    }
+    .hero-left {
+      h1 {
+        padding-top:2rem;  
+        @media only screen and (min-width: 768px) {
+          padding-top:1rem;  
+        } 
+      }
+      
+    }
+
+    .hero-right {
+      background-color: #213262;
+      color:white;
+      padding-right:1rem;
+      padding-left: 1rem;
+
+      h1, p, span {
+        color: white;
+      }
+    }
+    
+    .hero-block {
+      .slogan-explain {
+        padding-left: 1rem;
+        padding-right: 1rem;
+      }
+    }
+
+    .logo {
+      height: 7ex;
+    }
+    @media only screen and (max-width: 500px) {
+      padding-right:0;
+      padding-left: 0;
+        .row {
+          margin-right: 0;
+          margin-left: 0;
+        
+          > .col,
+          > [class*="col-"] {
+            padding-right: 0;
+            padding-left: 0;
+          }
+        }
     }
   }
 }
@@ -139,4 +211,70 @@
   background: white;
   cursor: inherit;
   display: block;
+}
+
+.banner .hero-banner {
+  //padding: 100px 0 0 0;
+  margin-top: 100px;
+
+  .hero-block .time-block {
+    justify-content: center;
+  }
+  
+  .hero-block {
+    display:block;
+    text-align:center;
+  }
+  .logo {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    @media only screen and (min-width: 768px) {
+      margin-top: 3rem;
+      margin-bottom: 0rem;
+    }
+  }
+}
+
+.video-wrapper { /*https://andrew.hedges.name/experiments/aspect_ratio/*/
+  max-width: 400px;
+  max-height: 300px;
+
+  min-width: 50px;
+  min-height: 50px;
+  
+}
+
+.text-center .video-wrapper {
+  margin: 0 auto;
+}
+
+.no-padding-lr {
+  @media only screen and (min-width: 768px) {
+    padding-left:0;
+    padding-right:0;
+  }
+}
+
+.crowdfinancing .crowdfinancing-inner {
+  padding-top:0;
+
+  .section-header h2 {
+    padding-top:1rem;
+  }
+}
+
+.video-demonstration {
+  padding-top:1rem;
+  padding-bottom:1rem;
+}
+
+.crowdfinancing .crowdfinancing-inner .row .about-content {
+  padding-top: 0;
+}
+
+
+@media only screen and (max-width: 700px) {
+  .sale-investors .invesrer-review .review-slide .review-content .carousel .carousel-indicators {
+    display: none;
+  }
 }

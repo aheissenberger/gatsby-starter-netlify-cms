@@ -175,39 +175,8 @@ Repost non-original article about CONDA in your blog - 10 to 50 stakes
 
 ![null](/img/bitcointalk-banner.jpg)
 
-**⇒ **Fill out this form to make a request for the participation in the BitcoinTalk campaign: "[CRWD Network - BitcoinTalk Bounty Sign-Up](https://goo.gl/forms/cCa3TydYc5uhtVv13)"
+Please follow this [LINK to our BitcoinTalk SIGNATURE Campaign](https://bitcointalk.org/index.php?topic=3350625.msg35072610#msg35072610) to get all information, terms & conditions and the signatures!
 
-**Terms and conditions:**
-
-* CONDA is looking for active BitcoinTalk users. All members need to post at least 3 posts containing CRWD Network - CONDA ICO relevant links inbetween the 10 days in order to be eligible for a reward. 
-* Users with negative trust are not eligible for the participants in the bounty campaign.
-* Posts in alternate cryptocurrencies section are required. Posts in bounty (this) thread will not count.
-* Spam is strictly prohibited. Users found spamming will be immediately and permanently disqualified, reported to the moderators, and banned from any other bounty campaign.
-* You are not allowed to use another site's avatar.
-* Participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
-
-_SCORE_
-
-1. _Junior. Member: 1 stake / Week_
-2. _Member: 2 stakes / Week_
-3. _Full Member: 3 stakes / Week_
-4. _Sr. Member: 4 stakes / Week_
-5. _Hero Member: 6 stakes / Week_
-6. _Legendary: 8 stakes / Week_
-
-_Bonus: 1 stake per week, if participants use CONDA avatar + CONDA bounty text_
-
-[CONDA avatar link.](https://i.imgur.com/zcCJWew.png)
-
-Please set this personal text:
-
-🌟  CONDA CRWD ICO 🌟
-
-**Terms and conditions:**
-
-* Article must be freely accessible
-* Article must at least contain 1-2 active links to our website and social media
-* Article must be original (please not just copy and paste existing articles)
-* Any type of content could be rejected without any explanation 
+**⇒ **Fill out this form to make a request for the participation in the BitcoinTalk Signature campaign: "[CRWD Network - BitcoinTalk Bounty Sign-Up](https://goo.gl/forms/cCa3TydYc5uhtVv13)"
 
 [Check status here.](https://goo.gl/osTKAL)

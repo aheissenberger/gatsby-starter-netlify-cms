@@ -213,6 +213,11 @@ PS: Did we forget something? Shoot us a quick e-mail, so we can ensure the most 
   <td style=min-width:50px><a href="https://fintechaustria.org/">Link</a></td>
   </tr>
   <tr>
+  <td style=min-width:50px>Fintech Academy</td>
+  <td style=min-width:50px>Education</td>
+  <td style=min-width:50px><a href="http://fintech.academy/">Link</a></td>
+  </tr>
+  <tr>
   <td style=min-width:50px>Grapevine</td>
   <td style=min-width:50px>ICO Startup</td>
   <td style=min-width:50px><a href="https://www.grapevineworldtoken.io/">Link</a></td>

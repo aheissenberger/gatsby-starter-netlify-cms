@@ -1,10 +1,15 @@
 ---
 templateKey: content-page
-title: press
+title: Press
 path: /press
-description: CONDA ICO in the news
+description: CRWD Network in the news
 ---
 # CONDA ICO in the news
+
+## April 2018
+
+[CONDA ICO: Whitelisting phase started as of April 1st](https://www.trendingtopics.at/conda-ico-whitelisting-phase-started-as-of-april-1st/)\
+April 6, 2018 - Trending Topics
 
 ## January 2018
 
