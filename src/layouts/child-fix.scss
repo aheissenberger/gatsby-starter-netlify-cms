@@ -62,7 +62,7 @@
   }
   blockquote {
     background-color: #e0eff6;
-    border-left: 30px solid #cbe3ef;
+    border-left: 1rem solid #cbe3ef;
     margin: 0 0 1rem 0;
     padding: 1rem;
     line-height: 1.1;
@@ -105,25 +105,47 @@
         }
       }
     }
-    .btn-group {
-      margin:10px;
+    .hero-left {
+      .btn-group {
+        margin:2rem;
+        a {
+          color: black;
+        }
+      }
+    }
+    .hero-right {
+      .btn-group {
+        margin:1rem;
+        a {
+          border-color:#c7c8cd;
+        }
+      }
     }
     
     .intro-quicklinks {
       padding-top:15px;
-      padding-bottom:30px;
+      padding-bottom:2rem;
       font-size: 14px;
     }
     
     h1 {
-      padding-top:30px;   
+      padding-top:1rem;   
+    }
+    .hero-left {
+      h1 {
+        padding-top:2rem;  
+        @media only screen and (min-width: 768px) {
+          padding-top:1rem;  
+        } 
+      }
+      
     }
 
     .hero-right {
       background-color: #213262;
       color:white;
-      padding-right:30px;
-      padding-left: 30px;
+      padding-right:1rem;
+      padding-left: 1rem;
 
       h1, p, span {
         color: white;
@@ -132,7 +154,7 @@
     
     .hero-block {
       .slogan-explain {
-        max-width: 430px;
+        max-width: 41rem;
       }
     }
 
@@ -177,7 +199,8 @@
 }
 
 .banner .hero-banner {
-  padding: 100px 0 0 0;
+  //padding: 100px 0 0 0;
+  margin-top: 100px;
 
   .hero-block .time-block {
     justify-content: center;
@@ -187,6 +210,14 @@
     display:block;
     text-align:center;
   }
+  .logo {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    @media only screen and (min-width: 768px) {
+      margin-top: 3rem;
+      margin-bottom: 0rem;
+    }
+  }
 }
 
 .video-wrapper { /*https://andrew.hedges.name/experiments/aspect_ratio/*/
@@ -195,6 +226,7 @@
 
   min-width: 50px;
   min-height: 50px;
+  
 }
 
 .text-center .video-wrapper {
@@ -212,12 +244,12 @@
   padding-top:0;
 
   .section-header h2 {
-    padding-top:30px;
+    padding-top:1rem;
   }
 }
 
 .video-demonstration {
-  padding-top:30px;
+  padding-top:1rem;
   padding-bottom:10px;
 }
 

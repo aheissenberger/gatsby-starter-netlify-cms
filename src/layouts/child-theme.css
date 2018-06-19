@@ -757,7 +757,7 @@ h2 {
   background: url(../img/banner-bg.jpg) no-repeat bottom center; }
   .banner .hero-banner {
     display: block;
-    padding: 150px 0 0 0;
+    /* padding: 150px 0 0 0; */
     min-height: 692px; }
     .banner .hero-banner .hero-block {
       display: -webkit-box;

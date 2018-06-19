@@ -144,7 +144,7 @@ const Hero = class extends React.Component {
                     </div>
                   )}
 
-                  <p>*Check white paper for bonus scheme</p>
+                  <p style={{'fontSize':'smaller', fontWeight:'normal'}}>*Check White Paper for bonus scheme</p>
                   <div className="intro-quicklinks">
                     <a href="/img/conda-white-paper.pdf" target="_blank">White Paper</a>
                     {" "}|{" "}

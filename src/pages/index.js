@@ -53,11 +53,11 @@ export default class IndexPage extends React.Component {
         reasonswhy={tokenData[0].node.frontmatter.reasonswhy}
         foursteps={tokenData[0].node.frontmatter.foursteps}
       />
-      <ICOTeamSectionTemplate 
+      {/* <ICOTeamSectionTemplate 
         team={icoteamData[0].node.frontmatter.team}
         investors={icoteamData[0].node.frontmatter.investors}
         advisoryboard={icoteamData[0].node.frontmatter.advisoryboard}
-      />
+      /> */}
       <NewsletterSectionTemplate
         title1={newsletterData[0].node.frontmatter.title1}
         title2={newsletterData[0].node.frontmatter.title2}
