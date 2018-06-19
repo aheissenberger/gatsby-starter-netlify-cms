@@ -23,6 +23,12 @@ June 13, 2018: Blockchain 360 in London - [Brian Heinen](https://www.linkedin.co
 
 June 20, 2018: CryptoValley in Zug - [Jürgen Habichler](https://www.linkedin.com/in/juergenhabichler/), CONDA Partner / [Klaus Hipfinger](https://www.linkedin.com/in/klaus-hipfinger-ba-510390150/), Advisor & Dash Embassy D-A-CH
 
+June 21, 2018: The Fourt Interenet of Afreements Conference in London - [Dusica Lukac](https://www.linkedin.com/in/dusicalukac/), Advisor
+
+June 21, 2018: Let’s Talk About: ICOs at Rise London - [Dusica Lukac](https://www.linkedin.com/in/dusicalukac/), Advisor
+
+June 26/27, 2018: Blockchain Summit London - [Dusica Lukac](https://www.linkedin.com/in/dusicalukac/), Advisor
+
 June 27, 2018: Blockchain Expto in Amsterdam - [Paul Pöltner](https://www.linkedin.com/in/poeltner/), CONDA Co-Founder
 
 more events coming soon...
