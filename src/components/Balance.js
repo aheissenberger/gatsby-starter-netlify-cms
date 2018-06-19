@@ -27,6 +27,7 @@ export default class Balance extends PureComponent {
     this.setState({ tokens: defaultBalance });
     //this.updateBalance();
     let baseurl = "https://ico.conda.online";
+    /* //test locally
     if (typeof window !== "undefined") {
       const host = window.location.hostname;
       baseurl =
@@ -35,7 +36,8 @@ export default class Balance extends PureComponent {
           : host === "d71z42a560a2e.cloudfront.net"
             ? "https://d71z42a560a2e.cloudfront.net"
             : baseurl;
-    }
+    }*/
+
     //console.log(baseurl+"/p/balance")
     axios
       .get(baseurl + "/p/balance")
@@ -61,7 +63,6 @@ export default class Balance extends PureComponent {
           //component="text"
           value={this.state.tokens}
           style={{
-            color: "#1759ab",
             transition: "0.8s ease-out",
             fontSize: 62,
             transitionProperty: "background-color, color, opacity"

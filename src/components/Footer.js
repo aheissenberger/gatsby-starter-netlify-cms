@@ -47,6 +47,9 @@ const Footer = () => (
               <a href="https://github.com/conda-ag" title="github CONDA AG" target="_blank"><i className="fa fa-github-alt" aria-hidden="true" /></a>
             </li>
             <li>
+              <a href="https://www.reddit.com/user/ICO_CONDA/" title="reddit" target="_blank"><i className="fa fa-reddit" aria-hidden="true" /></a>
+            </li>
+            <li>
               <a href="mailto:team@conda.eu" title="team@conda.eu"><i className="fa fa-envelope" aria-hidden="true" /></a>
             </li>
           </ul>
