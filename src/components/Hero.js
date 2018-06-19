@@ -150,7 +150,7 @@ const Hero = class extends React.Component {
                     {" "}|{" "}
                     <a href="/img/conda-light-paper.pdf" target="_blank">Light Paper</a>
                     {" "}|{" "}
-                    <a href="/img/pitchdeck.pdf" target="_blank">Pitch Deck</a>
+                    <a href="/img/conda_crwd network_pitchdeck.pdf" target="_blank">Pitch Deck</a>
                     {" "}|{" "}
                     <a href="/img/technical_whitepaper._v1.21.pdf" target="_blank">Tech Paper</a>
                   </div>
