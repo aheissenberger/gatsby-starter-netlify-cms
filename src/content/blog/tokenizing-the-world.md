@@ -12,11 +12,10 @@ description: >-
   through blockchain technology. 
 image: /img/blog-post_bitcoin_world.jpg
 ---
-**Blockchain Tech is allowing us to tokenize the world. From real estate to ownership in all public equities, private equities and debt. 
+Blockchain Tech is allowing us to tokenize the world. From real estate to ownership in all public equities, private equities and debt. **
 **
 
 First let's take a quick look at the figures of [actual market sizes](http://money.visualcapitalist.com/worlds-money-markets-one-visualization-2017/). There is a strong argument to be made around tokenization of assets.
-
 
 Tokenization will greatly reduce administrative costs in their industries. Possibly more than banking and money transfers for BTC.
 
@@ -39,7 +38,7 @@ Lets take another look at the numbers:
 
 We can conclude that the size of asset ownership is much larger than the global money supply. We are now in the beginning of tokenizing asset ownership with blockchain technology. 
 
-**The benefits of such technology are: 24/7/365 worldwide markets, fractional ownership, rapid settlement, reduction in direct costs, increased liquidity and market depth, automated compliance, asset interoperability and expansion of the design space of security contracts.
+The benefits of such technology are: 24/7/365 worldwide markets, fractional ownership, rapid settlement, reduction in direct costs, increased liquidity and market depth, automated compliance, asset interoperability and expansion of the design space of security contracts.**
 **
 
 ## New financing tool: Digital Security Offerings
