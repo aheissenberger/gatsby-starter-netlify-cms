@@ -3,7 +3,7 @@ templateKey: blog-post
 title: 'CRWD Network use case #1: Woodworks'
 path: CRWD-Network-Use-Cases-one
 date: '2018-07-04T16:26:07+02:00'
-author: Karin Turki
+author: Daniel Horak
 tags:
   - CRWD Network
 description: >-
