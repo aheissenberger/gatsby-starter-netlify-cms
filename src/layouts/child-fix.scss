@@ -8,6 +8,12 @@
   height: 40px;
 }
 
+ol, ul {
+  list-style-type: disc;
+  list-style-position: inside;
+  margin-bottom: 1rem;
+}
+
 .blog__details--content {
   h1 {
     font-size: 40px;
