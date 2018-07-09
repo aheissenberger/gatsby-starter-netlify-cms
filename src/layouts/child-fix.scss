@@ -8,8 +8,13 @@
   height: 40px;
 }
 
-ol, ul {
+ol {
+  list-style-type: decimal;
+}
+ul {
   list-style-type: disc;
+}
+ol, ul {
   list-style-position: inside;
   margin-bottom: 1rem;
 }
