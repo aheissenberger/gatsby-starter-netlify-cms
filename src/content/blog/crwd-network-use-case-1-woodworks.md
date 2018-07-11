@@ -11,7 +11,15 @@ description: >-
   cases.
 image: /img/crwd-network-use-case-1.jpg
 ---
-We are going to give you some use cases of the CRWD Network, so that you get a better understanding of its entire capability and its unique features. And here we start with our first fictional use case, "Woodworks".
+We are going to give you some use cases of the CRWD Network, so that you get a better understanding of its entire capability and its unique features:
+
+\- use case #1: a (fictional) SME in the B2B sector, which needs fundings for further growth and therefore runs a crowdinvesting campaign on different local platforms (in Germany) in the CRWD Network
+
+\- use case #2: a (fictional) SME selling consumer products, which needs fundings as well as promotion to enter new markets. Therefore the company runs an international crowdinvesting campaign on various platforms in the CRWD Network - to get the required equity plus the marketing effect which come along with the campaign.
+
+
+
+## CRWD Network use case #1: "Woodworks"
 
 ## Company Profile
 
