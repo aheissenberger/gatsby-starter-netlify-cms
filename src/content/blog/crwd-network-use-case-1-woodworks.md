@@ -17,7 +17,7 @@ We are going to give you some use cases of the CRWD Network, so that you get a b
 
 \- use case #2: a (fictional) SME selling consumer products, which needs fundings as well as promotion to enter new markets. Therefore the company runs an international crowdinvesting campaign on various platforms in the CRWD Network - to get the required equity plus the marketing effect which come along with the campaign.
 
-
+![](/img/crwd-network-use-case-1.jpg)
 
 ## CRWD Network use case #1: "Woodworks"
 
