@@ -7,7 +7,7 @@ author: Daniel Horak
 tags:
   - CRWD Network
 description: >-
-  Get a better picture of the features of the CRWD Network with our simple uses
+  Get a better picture of the features of the CRWD Network with our simple use
   cases.
 image: /img/crwd-network-use-case-1.jpg
 ---
