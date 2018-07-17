@@ -11,7 +11,7 @@ description: >
   Want to know what the other types of keys can do for you?
 image: /img/investor-key-post.png
 ---
-
+<style>.blog__details--content img {width: 100%!important;max-width:100%!important;margin-right:0; }</style>
 
 ![CRWD Network - investor key contracts](/img/investor_key_contraxts.png)
 
