@@ -45,7 +45,8 @@ A bounty share is a part of the total bounty amount. Participants will get stake
 All participants must
 
 * be whitelisted on ico.conda.online
-* need to share links to their contribution in the [Bounty Telegram channel](https://t.me/crwd_network_bounty) to be evaluated and/or post a link in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0)
+* join official [Bounty Telegram Channel](https://t.me/crwd_network_bounty)
+* post reports as a reply to [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.msg35072610#msg35072610) to receive the reward
 * the campaign starts on April 10, 2018 and ends max. on September 12, 2018 or any day the hardcap is reached
 * new posts have to be at least 50% different than posts evaluated in the previous weeks
 * NO SPAM is allowed
@@ -114,7 +115,7 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 * participants have to follow the official CONDA Company Page
 * participants need to have 200+ connections
 * settings for posts must set to “public”
-* participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
+* post reports as a reply to [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.msg35072610#msg35072610) to receive the reward
 
 _SCORE=_\
 _0.4* No. of posts +_\
@@ -169,7 +170,7 @@ Repost non-original article about CONDA in your blog - 10 to 50 stakes
 * Article must at least contain 1-2 active links to our website and social media
 * Article must be original (please not just copy and paste existing articles)
 * Any type of content could be rejected without any explanation 
-* Participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
+* post reports as a reply to [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.msg35072610#msg35072610) to receive the reward
 
 [Check status here.](https://docs.google.com/spreadsheets/d/1qBQVYEmYGKvRBz_2GB9C66_9beJcbpaIT2jVGQNhanI/edit?usp=sharing)
 
