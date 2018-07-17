@@ -68,7 +68,7 @@ All participants must
 * participants need to have 200+ friends - from that 80% real friends
 * the official page mentioned above has to be used for shares, tags, links etc.
 * settings for posts must set to “public”
-* participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
+* post reports as a reply to [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.msg35072610#msg35072610) to receive the reward
 
 _SCORE=_\
 _0.4* No. of posts +_\
@@ -92,7 +92,7 @@ _0.3 * quality of content (1=generic content; 2=personal insight)_
 * participants need to have 200+ followers - from that 80% real followers
 * the official account mentioned above has to be used for retweets, tags, links etc.
 * the **\#crwdnetwork** has to be used for all activities
-* participants must post a link to prove their activity every week in this [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.0) or the [CRWD Network Bounty Program Telegram channel](https://t.me/crwd_network_bounty)
+* post reports as a reply to [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.msg35072610#msg35072610) to receive the reward
 
 _SCORE=_\
 _0.4* No. of posts +_\
