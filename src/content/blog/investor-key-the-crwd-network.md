@@ -78,3 +78,5 @@ Before a new project can access your personal information, you have to approve t
 
 
 Want to learn more about the investor key? Find all the information in the [CRWD Network technical whitepaper](https://ico.conda.online/img/technical_whitepaper._v1.21.pdf).
+<br>
+<br>
