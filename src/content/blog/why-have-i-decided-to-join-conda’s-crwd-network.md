@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Why have I decided to join Conda’s CRWD Network?
+title: Why have I decided to join CONDA’s CRWD Network?
 path: Why-have-I-decided-to-join-Condas-CRWD-Network?
 date: '2018-07-18T15:43:07+02:00'
 author: Dusica Lucac
