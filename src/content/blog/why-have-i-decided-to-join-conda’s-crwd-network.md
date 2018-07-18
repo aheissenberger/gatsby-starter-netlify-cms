@@ -11,7 +11,7 @@ description: >-
   Investment Strategist and joined the CRWD Network as advisor.
 image: /img/fb-post_dusica.jpg
 ---
-![](/img/dusica-lukic_round.png)
+![null](/img/dusica-lukic_round.png)
 
 I have spent most of my career in financial services. I rode the banking wave of the 90s and 2000s. I also saw the same industry slowly die in our hands by becoming a huge, inefficient system of bureaucrats.  Well, it was good while it lasted, but that also taught me a valuable lesson. If market players do not develop and evolve with the market, they will become obsolete.  Market change and progress cannot be stopped, ever.  Only those who recognize change and add value will, in the long run, survive and thrive.
 
@@ -25,8 +25,14 @@ And then, I met Daniel Hordak from [CONDA](https://www.conda.eu).  CONDA is a su
 
 CONDA has already developed a protocol that will enable the teams with great ideas to issue security tokens in an absolutely regulated and friendly environment. To add to the value, the CRWD Network also developed an ecosystem that will validate all participants: from token issuers, service providers to investors. It will be easy to reach good, quality service providers of all forms to power your ICO. And on top of everything, while the crowd sale of [CRWD Network](https://ico.conda.online) is in preparation, Daniel and his cofounder, Paul —  together with the whole team – are getting all relevant licenses and regulatory approvals which may be needed. 
 
-CRWD Network is your gateway to fundraising at your own speed, and with all the help you might need, to make that great idea come true.  You will do all that in a regulated and compliant-friendly environment with vetted peer projects and an approved investor’s network.  To me, this seems attractive, not just to the companies, but also the investors.  It removes many problems blockchain ventures are facing with the cacophony existing in the market now.  
+[CRWD Network](https://ico.conda.online) is your gateway to fundraising at your own speed, and with all the help you might need, to make that great idea come true.  You will do all that in a regulated and compliant-friendly environment with vetted peer projects and an approved investor’s network.  To me, this seems attractive, not just to the companies, but also the investors.  It removes many problems blockchain ventures are facing with the cacophony existing in the market now.  
 
 Now, you can see why I could not wait to join the team that is bringing something so needed to this new world. Going back to my start, CONDA team has recognised the trend and decided to move, grow and develop while helping others do the same. I have no doubt they will thrive!
 <br>
+<br>
+
+I support Conda CRWD Network token sale. If you want to benefit from the pre-sale favorable conditions be so kind to [purchase tokens directly by clicking on this LINK](https://ico.conda.online/p/a/AFF03a6e78774500973100a52faf6dc6327d76e584990bd116f616e4428d3e9a9ea) or send me an [E-Mail](mailto:dusica.lukac@stizzbuzz.com) for more details.
+
+<br>
+
 <br>
