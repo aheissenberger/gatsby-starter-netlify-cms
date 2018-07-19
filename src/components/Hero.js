@@ -3,6 +3,7 @@ import progressImage from "../img/progress.png";
 import logo from "../img/Logo_2_B.png";
 import Balance from "./Balance";
 import Video from './Video.js'
+import Helmet from "react-helmet";
 
 /*
 * for testing the phases you can set a localStorage variable "phase" with the phase to test (0 - 3)
@@ -103,6 +104,17 @@ const Hero = class extends React.Component {
     //console.log(this.state.phase, this.state.phaseText);
     return (
       <section className="banner">
+
+        <Helmet>
+          <title>THE CRWD NETWORK | CONDA ICO</title>
+          <meta property="og:url" content="http://ico.conda.online/" />
+          <meta property="og:type" content="website" />
+          <meta name="description" content="A decentralized network protocol for issuing and managing tokenized equity offerings of SMEs, Start-ups and Real Estate Projects." />
+          <meta property="og:title" content="THE CRWD NETWORK | CONDA ICO" />
+          <meta property="og:description" content="A decentralized network protocol for issuing and managing tokenized equity offerings of SMEs, Start-ups and Real Estate Projects." />
+          <meta property="og:image" content={'https://ico.conda.online/img/socialmedia-preview.png'} />
+        </Helmet>
+
         <div className="hero-banner container">
           <div className="row">
             <div className="col-md-6 text-center">
