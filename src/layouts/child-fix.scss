@@ -8,17 +8,6 @@
   height: 40px;
 }
 
-ol {
-  list-style-type: decimal;
-}
-ul {
-  list-style-type: disc;
-}
-ol, ul {
-  list-style-position: inside;
-  margin-bottom: 1rem;
-}
-
 .blog__details--content {
   h1 {
     font-size: 40px;
@@ -27,7 +16,7 @@ ol, ul {
     margin-top: 45px;
     margin-bottom: 8px;
   }
-  ul {
+  ul,ol {
     margin-left: 1.5rem;
     list-style: disc;
     margin-bottom: 1rem;
@@ -38,6 +27,9 @@ ol, ul {
       color: #44516d;
       line-height: 28px;
     }
+  }
+  ol {
+    list-style-type: decimal;
   }
   img {
     float: right;
