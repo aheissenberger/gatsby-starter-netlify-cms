@@ -88,9 +88,6 @@ team:
     - description: Business Analyst
       image: /img/hannes.jpg
       name: Hannes Reithuber
-    - image: /img/plus-1727487_1280.png
-      link: 'https://ico.conda.online/img/icoteam.pdf'
-      name: more Info
     - description: Controller
       image: /img/timea.jpg
       link: 'https://www.linkedin.com/in/timea-lugosi-a3b35978/'
@@ -99,7 +96,9 @@ team:
       image: /img/mab 03.jpg
       link: 'https://www.linkedin.com/in/matthias-bruck-78184b/'
       name: Matthias Bruck
-    - {}
+    - image: /img/plus-1727487_1280.png
+      link: 'https://ico.conda.online/img/icoteam.pdf'
+      name: more Info
 investors:
   members:
     - description: >-
@@ -207,5 +206,9 @@ advisoryboard:
       image: /img/dusica-lukac.jpg
       link: 'https://www.linkedin.com/in/dusicalukac/'
       name: Dusica Lukac
+    - description: Cooperation Partner
+      image: /img/jadeberg-partners-logo-square.jpg
+      link: 'https://www.jadeberg-partners.ch/'
+      name: Jadeberg Partners
 ---
 
