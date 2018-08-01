@@ -11,7 +11,6 @@ const TemplateWrapper = ({ children }) => (
   <div className="outer-wrapper">
     <Helmet>
         <title>THE CRWD NETWORK | CONDA ICO</title>
-        <meta property="og:url" content="http://ico.conda.online/" />
         <meta property="og:type" content="website" />
         <meta name="description" content="A decentralized network protocol for issuing and managing tokenized equity offerings of SMEs, Start-ups and Real Estate Projects." />
         <meta property="og:title" content="THE CRWD NETWORK | CONDA ICO" />
