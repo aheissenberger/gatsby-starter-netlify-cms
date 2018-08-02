@@ -7,7 +7,7 @@ import icoicon03Image from "../img/bell.png";
 import icoicon04Image from "../img/token.png";
 import ReasonGrid from "../components/Reasons";
 
-const break_starttime = (new Date("Aug 2, 2018 14:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
+const break_starttime = (new Date("Aug 2, 2018 12:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
 
 export const TokenSectionTemplate = ({
   title1,
