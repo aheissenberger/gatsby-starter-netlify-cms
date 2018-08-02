@@ -7,6 +7,8 @@ import icoicon03Image from "../img/bell.png";
 import icoicon04Image from "../img/token.png";
 import ReasonGrid from "../components/Reasons";
 
+const break_starttime = (new Date("Aug 2, 2018 14:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
+
 export const TokenSectionTemplate = ({
   title1,
   title2,
@@ -100,8 +102,8 @@ export const TokenSectionTemplate = ({
               <span className="icon-block">
                 <img src={icoicon02Image} alt="icon" />
               </span>
-              <h3>June 4, 2018</h3>
-              <p>Pre-sale start date</p>
+              {!break_starttime && (<React.Fragment><h3>June 4, 2018</h3><p>Pre-sale start date</p></React.Fragment>)}
+              {break_starttime && (<React.Fragment><h3>Dec 2018</h3><p>Crowd-Sale start date</p></React.Fragment>)}
             </li>
             <li className="col-sm-12 col-md-6 col-lg-3">
               <span className="icon-block">

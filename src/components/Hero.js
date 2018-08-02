@@ -9,11 +9,13 @@ import Video from './Video.js'
 
 */
 
+const break_starttime = (new Date("Aug 2, 2018 14:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
+
 const phases_endtime = [
   //new Date("May 30, 2018 20:12:00 UTC").getTime(), // TEST DATE
   new Date("jun 4, 2018 18:00:00 UTC").getTime(), // whitelisting
   new Date("aug 3, 2018 18:00:00 UTC").getTime(), // Pre Sale end
-  new Date("sep 12, 2018 18:00:00 UTC").getTime() // Sale closed
+  new Date("sep 12, 2019 18:00:00 UTC").getTime() // Sale closed
 ];
 
 const getPhaseText = {
@@ -116,11 +118,12 @@ const Hero = class extends React.Component {
           <div className="row">
             <div className="col-md-6 order-sm-first order-md-last">
                 <div className="hero-block hero-right text-center">
-                  <h1>Pre-Sale&nbsp;Live: +30%&nbsp;Bonus*</h1>
-                  
+                  {!break_starttime && <h1>Pre-Sale&nbsp;Live: +30%&nbsp;Bonus*</h1>}
+                  {break_starttime && <h1>Get whitelist for our Crowd-Sale!</h1>}
                   <div className="btn-group">
                     <div className="btn-inner">
-                        <a href="/i/order" className="btn btn-primary">Buy&nbsp;Now + Bonus</a>
+                      {!break_starttime && <a href="/i/order" className="btn btn-primary">Buy&nbsp;Now + Bonus</a>}
+                      {break_starttime && <a href="/i/whitelist" className="btn btn-primary">Whitelist now</a>}
                     </div>
                   </div>
 
@@ -131,16 +134,21 @@ const Hero = class extends React.Component {
                         : "progress-block"
                     }
                   >
-                    {this.state.phase > 0 ? (
+                    {!break_starttime && this.state.phase > 0 ? (
                       <Balance />
                     ) : (
                       <div style={{ height: "70px" }} />
                     )}
                   </div>
-                  {this.state.phase < 3 && (
+                  {!break_starttime && this.state.phase < 3 && (
                     <div>
                       <p>{this.state.phaseText}</p>
                       <Timecounter {...this.state.tcounter} />
+                    </div>
+                  )}
+                  {break_starttime && (
+                    <div>
+                      <p>Crowd-Sale starts in December 2018.</p>
                     </div>
                   )}
 
