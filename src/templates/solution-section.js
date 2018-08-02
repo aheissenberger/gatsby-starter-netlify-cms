@@ -2,7 +2,7 @@ import React from "react";
 import Content, { HTMLContent } from "../components/Content";
 import quoteImage from "../img/quote.png";
 
-const break_starttime = (new Date("Aug 2, 2018 10:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
+const break_starttime = (new Date("Aug 2, 2018 14:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
 
 export const SolutionSectionTemplate = ({
   title1,

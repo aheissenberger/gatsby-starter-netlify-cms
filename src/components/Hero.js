@@ -9,7 +9,7 @@ import Video from './Video.js'
 
 */
 
-const break_starttime = (new Date("Aug 2, 2018 10:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
+const break_starttime = (new Date("Aug 2, 2018 14:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
 
 const phases_endtime = [
   //new Date("May 30, 2018 20:12:00 UTC").getTime(), // TEST DATE
