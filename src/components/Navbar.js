@@ -3,7 +3,7 @@ import Link from "gatsby-link";
 import CookieBanner from 'react-cookie-banner';
 
 import logo from "../img/logo.png";
-const break_starttime = (new Date("Aug 2, 2018 14:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
+const break_starttime = (new Date("Aug 3, 2018 14:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
 
 const Navbar = () => (
   <header className="header">
@@ -85,7 +85,7 @@ const Navbar = () => (
             <div className="header-btn">
               <a href="/img/conda-white-paper.pdf" className="btn btn-default" target="_blank">White Paper</a>
               {!break_starttime && <a href="/i/order" className="btn btn-primary">Buy Now</a>}
-              {break_starttime && <a href="/i/whitelist" className="btn btn-primary">Whitelist</a>}
+              {break_starttime && <a href="/i/order" className="btn btn-primary">Whitelist</a>}
             </div>
             <div className="papper-plain">
               <a href="https://t.me/conda_ico" title="Telegram" target="_blank">

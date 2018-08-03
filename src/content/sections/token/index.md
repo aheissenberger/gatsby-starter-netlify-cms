@@ -20,7 +20,7 @@ icodetails:
   buttoncalltoaction:
     info: ' '
     label: Whitelist Now
-    url: /i/whitelist
+    url: /i/order
   description: >-
     In total, 50% of the tokens will be distributed in the initial coin
     offering, which includes the tokens sold and bonus tokens distributed. After
@@ -29,7 +29,7 @@ reasonswhy:
   buttoncalltoaction:
     info: ' '
     label: Whitelist Now
-    url: /i/whitelist
+    url: /i/order
   reasons:
     - icon: /img/offer.png
       title: Limited Offer
@@ -68,6 +68,6 @@ foursteps:
   buttoncalltoaction:
     info: ' '
     label: Whitelist Now
-    url: /i/whitelist
+    url: /i/order
 ---
 

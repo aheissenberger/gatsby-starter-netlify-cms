@@ -17,7 +17,7 @@ image: /img/post-dash.jpg
 
 We recently started a cooperation with [DASH (digital cash)](https://www.dash.org/). During our ICO, we will accept DASH for purchasing CRWD Token. DASH was introduced in 2014 and is an inflation-proof, non-governmental currency. 
 
-Now undergoing the [whitelisting phase](https://ico.conda.online/i/whitelist) of our ICO, we are pleased to announce our cooperation with DASH. [Whitelisting](https://ico.conda.online/i/whitelist) is the process by which one obtains permission to take part in the ICO; getting whitelisted now (before the actual pre- and crowd-sale) will reduce the waiting time that might arise during the crowd-sale in June. Everyone who gets whitelisted before June 4th can immediately invest when the crowd-sale officially starts. CRWD Token can be purchased in ETH, Euro and now DASH. 
+Now undergoing the [whitelisting phase](https://ico.conda.online/i/order) of our ICO, we are pleased to announce our cooperation with DASH. [Whitelisting](https://ico.conda.online/i/order) is the process by which one obtains permission to take part in the ICO; getting whitelisted now (before the actual pre- and crowd-sale) will reduce the waiting time that might arise during the crowd-sale in June. Everyone who gets whitelisted before June 4th can immediately invest when the crowd-sale officially starts. CRWD Token can be purchased in ETH, Euro and now DASH. 
 
 ## DASH is one of the world’s top cryptocurrencies.
 

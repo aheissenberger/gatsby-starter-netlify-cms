@@ -9,7 +9,7 @@ import Video from './Video.js'
 
 */
 
-const break_starttime = (new Date("Aug 2, 2018 14:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
+const break_starttime = (new Date("Aug 3, 2018 14:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
 
 const phases_endtime = [
   //new Date("May 30, 2018 20:12:00 UTC").getTime(), // TEST DATE
@@ -119,11 +119,11 @@ const Hero = class extends React.Component {
             <div className="col-md-6 order-sm-first order-md-last">
                 <div className="hero-block hero-right text-center">
                   {!break_starttime && <h1>Pre-Sale&nbsp;Live: +30%&nbsp;Bonus*</h1>}
-                  {break_starttime && <h1>Get whitelist for our Crowd-Sale!</h1>}
+                  {break_starttime && <h1>Get whitelisted for our Crowd-Sale!</h1>}
                   <div className="btn-group">
                     <div className="btn-inner">
                       {!break_starttime && <a href="/i/order" className="btn btn-primary">Buy&nbsp;Now + Bonus</a>}
-                      {break_starttime && <a href="/i/whitelist" className="btn btn-primary">Whitelist now</a>}
+                      {break_starttime && <a href="/i/order" className="btn btn-primary">Whitelist now</a>}
                     </div>
                   </div>
 

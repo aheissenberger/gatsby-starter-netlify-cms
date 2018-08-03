@@ -20,7 +20,7 @@ If you participate in our CRWD Network Airdrop campaign, you receive stakes for 
 \>> 2 stakes
 
 * for a successful whitelisting on [ico.conda.online
-  ](https://ico.conda.online/i/whitelist)
+  ](https://ico.conda.online/i/order)
 
 \>> 6 stakes
 
@@ -46,7 +46,7 @@ The maximum of possible stakes per participant are therefore 16.
 * [Reddit](https://www.reddit.com/user/ICO_CONDA/)
 * [LinkedIn](https://www.linkedin.com/company/2832940/)
 
-(3) Don´t forget to [whitelist here](https://ico.conda.online/i/whitelist)!
+(3) Don´t forget to [whitelist here](https://ico.conda.online/i/order)!
 
 ## Terms & Conditions
 

@@ -5,7 +5,7 @@ import quoteImage from "../img/white-quote.png";
 import secgrap1Image from "../img/sec-grap1.png";
 import secgrap2Image from "../img/sec-grap2.png";
 
-const break_starttime = (new Date("Aug 2, 2018 14:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
+const break_starttime = (new Date("Aug 3, 2018 14:00:00 UTC").getTime()<=new Date().getTime()) // to remove set this to false
 
 export const AboutSectionTemplate = ({
   title,
@@ -37,7 +37,7 @@ export const AboutSectionTemplate = ({
             <div className="button-pane">
               <div className="btn-inner">
                 {!break_starttime && <a href="/i/order" className="btn btn-primary">Buy Now</a>}
-                {break_starttime && <a href="/i/whitelist" className="btn btn-primary">Whitelist</a>}
+                {break_starttime && <a href="/i/order" className="btn btn-primary">Whitelist</a>}
                 <p>
                   {/* &amp; grab 30% bonus! */}
                   &nbsp;</p>

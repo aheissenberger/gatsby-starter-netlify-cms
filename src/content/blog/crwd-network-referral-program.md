@@ -17,7 +17,7 @@ If you believe in CONDA and our aim to develop a decentralized network protocol 
 
 ## How does it work for me?
 
- (1)  Go to our [whitelisting page](https://ico.conda.online/i/whitelist), fill out the form, upload your documents and receive your unique referral link after a click on the link in your verification e-mail.
+ (1)  Go to our [whitelisting page](https://ico.conda.online/i/order), fill out the form, upload your documents and receive your unique referral link after a click on the link in your verification e-mail.
 
  (2)  Share your unique referral link in your network (e.g. Social Media, E-Mail, SMS, Website, etc).
 
