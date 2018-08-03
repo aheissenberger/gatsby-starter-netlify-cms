@@ -14,20 +14,11 @@ image: /img/crwd-network-europe.jpg
 \
 The Pre-Sale of our Security/EquityToken Offering ends today, August 3rd, and after months of hard work, we have achieved several great milestones:
 
-* ```
-  onboarded successful, well-known investors
-  ```
-* ```
-  received tons of feedback from the community, ICO platforms, global experts and others
-  created the first prototype of our protocol and started testing and gathering input by tech experts and developers
-  ```
-* ```
-
-  acted as front-runners for regulatory changes by developing new frameworks and consulting financial authorities (our founders, for example, are part of the advisory board for the Austrian Federal Ministry of Finance)
-  ```
-* ```
-  attracted new partners for growing the CRWD Network via intense but fruitful talks with banks and other established financial institutions
-  ```
+*  onboarded successful, well-known investors
+* received tons of feedback from the community, ICO platforms, global experts and others
+* created the first prototype of our protocol and started testing and gathering input by tech experts and developers
+* acted as front-runners for regulatory changes by developing new frameworks and consulting financial authorities (our founders, for example, are part of the advisory board for the Austrian Federal Ministry of Finance)
+* attracted new partners for growing the CRWD Network via intense but fruitful talks with banks and other established financial institutions
 
 We also experienced some ups and downs due to positive and negative changes within the crypto market as a whole. However, we are proud to announce the most important (and best!) news: three companies have signed on to run a Security/Equity Token Offering based on the CRWD Network Protocol. 
 
@@ -46,15 +37,11 @@ To implement these changes and get ready for the three major Token Offerings run
   End Pre-Sale: August 3rd
   ```
 * ```
-
   Start Security/Equity Token Offerings by our clients: Q4 2018 (expected)
   ```
 * ```
-
   Start Crowd-Sale (planned): December 2018
   ```
-
-
 
 And one last thing: we are proud to announce that ICONIC Capital invested in our ICO and will join the CRWD Network. The CEO of ICONIC, Chris Miess, will join our Board of Advisors, supporting us with his vast experience and network.
 
