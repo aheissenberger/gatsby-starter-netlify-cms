@@ -210,5 +210,9 @@ advisoryboard:
       image: /img/jadeberg-partners-logo-square.jpg
       link: 'https://www.jadeberg-partners.ch/'
       name: Jadeberg Partners
+    - description: Internationally Renowned Blockchain Expert & Advisor
+      image: /img/chris-miess_round.jpg
+      link: 'https://www.linkedin.com/in/chrismiess/'
+      name: Chris Miess
 ---
 
