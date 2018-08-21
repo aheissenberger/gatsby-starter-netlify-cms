@@ -18,6 +18,9 @@ const Footer = () => (
             <a href="/blog">Blog </a>
           </li>
           <li>
+            <a href="https://www.conda.eu/en/datenschutzerklaerung_at/" target="_blank">Privacy Policy </a>
+          </li>
+          <li>
             <a href="https://www.conda.eu" target="_blank">Visit CONDA.eu</a>
           </li>
         </ul>
