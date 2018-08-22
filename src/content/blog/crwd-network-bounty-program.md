@@ -47,7 +47,7 @@ All participants must
 * be whitelisted on ico.conda.online
 * join official [Bounty Telegram Channel](https://t.me/crwd_network_bounty)
 * post reports as a reply to [Bitcointalk thread](https://bitcointalk.org/index.php?topic=3350625.msg35072610#msg35072610) to receive the reward
-* the campaign starts on April 10, 2018 and ends max. on September 12, 2018 or any day the hardcap is reached
+* the campaign starts on April 10, 2018 and ends on August 8, 2018 or any day the hardcap is reached
 * new posts have to be at least 50% different than posts evaluated in the previous weeks
 * NO SPAM is allowed
 * restricted are: multiple accounts registrations, spam, abuse, insults
