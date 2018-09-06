@@ -1,11 +1,7 @@
 ---
 templateKey: blog-post
-title: >-
-  DACH and CEE crowdinvesting market leader CONDA pioneers the digitalization of
-  company shares
-path: >-
-  DACH and CEE crowdinvesting market leader CONDA pioneers the digitalization of
-  company shares
+title: CONDA pioneers digitalization of company shares
+path: CONDA pioneers digitalization of company shares
 date: '2018-09-06T09:47:10+02:00'
 author: Press Release
 tags:
@@ -15,6 +11,10 @@ description: >-
   issuing security tokens.
 image: /img/conda_screenshot.png
 ---
+## DACH and CEE crowdinvesting market leader CONDA pioneers the digitalization of company shares
+
+
+
 Vienna, September 5th, 2018 – CONDA AG – founded in Vienna, the European-wide [crowdinvesting platform CONDA](https://www.conda.at) sets new standards regarding the processes and procedures for security tokens and is therefore becoming a pioneer in the field of "digitalization" of company shares. This is the first digitalization of shares of an Austrian stock corporation. The purpose of this transaction was to link the registered shares issued by CONDA AG with digital tokens and to transfer these to the existing shareholders of the company. CONDA AG is one of the world's pioneers in Europe, building a platform for issuing security tokens.
 
 The DACH and CEE market leader connects companies in need of financing with small investors on a professional level. At CONDA, innovative startups, established SMEs and real estate projects present themselves and convince the crowd of their growth plans and visions. 
