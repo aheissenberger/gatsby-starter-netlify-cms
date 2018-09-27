@@ -38,9 +38,7 @@ As CONDA continues to evolve, we recognize the need for interoperability and int
 
 ## The CRWD Network
 
-As previously stated, the entire CONDA system is based around its participants, and CONDA’s
- infrastructure is therefore designed to unlock the full potential of the crowd. Participants drive transaction
- volume in 6 different ways:
+As previously stated, the entire CRWD Network is based around its participants, and CONDA’s infrastructure is therefore designed to unlock the full potential of the crowd. Participants drive transaction volume in 6 different ways:
 
 <br>
 
