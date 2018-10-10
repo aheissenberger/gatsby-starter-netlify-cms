@@ -17,11 +17,7 @@ image: /img/security-post.png
 
 Last year, buzzwords such as "blockchain" or "cryptocurrencies" were taken up by just about any medium and the general public began to think about the topic. So-called initial coin offerings (ICOs) popped-up like mushrooms, leaving a good number of companies, as well as investors, with a bunch of money. But also, a lot of disgruntled investors who lost some of their assets. However, ICOs are not just a tool to get some fast money, but an innovative and necessary tool for corporate financing when used properly.
 
-
-
 Until mid of this year, ICOs were booming, mostly selling utility tokens. Currently, in the second half of 2018, security tokens as an investment opportunity and security token offerings (STOs) for corporate financing are slowly gaining ground.
-
-
 
 ## Utility Token vs. Security Token - what's the difference?
 
@@ -33,8 +29,6 @@ A security token, on the other hand, derives its value from the performance of t
 
 The advantage, both for the publishers as well as for the buyers of the security tokens, is the security, through the legal regulation of securities. One example is [CONDA's recently issued digitized corporate shares](https://ico.conda.online/dach-and-cee-crowdinvesting-market-leader-conda-pioneers-the-digitalization-of-company-shares/) to all existing shareholders. Each token represents a no-par-value share and when a token is transferred from one shareholder to another, a non-manipulable entry on the blockchain occurs, on basis of which the entry in the share register of the company takes place. The transfer of a token is equated with the traditional transfer of a stock. In addition, security tokens can be transferred more easily regardless of location and the resulting costs can be reduced.
 
-
-
 ## What does this have to do with crowdinvesting?
 
 Crowdfunding means financing a company / project etc. through the many. Many individuals invest small amounts and thus finance the project as a crowd. If the investors not only receive a gift, but in the best case, they draw a financial profit (through loans, profit participation rights, shares, etc.) we call it “crowdinvesting”.
@@ -42,5 +36,9 @@ Crowdfunding means financing a company / project etc. through the many. Many ind
 Crowdinvesting has established itself as alternative financing tool in recent years and has already undergone tremendous development as a result of legal, technological and tax changes. In the last year, especially the technological advances came in handy for the financing tool - as you might expect - with the introduction of smart contracts ([what are smart contracts](https://ico.conda.online/the-crypto-guide-for-beginners-%E2%80%93-what-is-a-smart-contract/)) and blockchain technology.
 
 STOs are therefore simply crowdfunding using blockchain technology. With the advantages that transactions are transparent and secure, payments can be made faster and more efficiently, and switching off intermediaries saves additional costs.
+
+<br>
+
+![security token are the new investment](/img/security-post.png)
 
 <br>
