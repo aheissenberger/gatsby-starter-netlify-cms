@@ -39,4 +39,6 @@ STOs are therefore simply crowdfunding using blockchain technology. With the adv
 
 <br>
 
+.
+
 <br>
