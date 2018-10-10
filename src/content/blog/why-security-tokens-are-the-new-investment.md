@@ -11,7 +11,7 @@ description: >-
   financing and investment tool, as well as bringing some calm to the entire
   crypto craziness and providing more security for investors, one should
   understand the difference between security and utility tokens.
-image: /img/people_post.png
+image: /img/optimized-people_post.png
 ---
 2017 was the era of utility tokens and ICOs. Since the second half of 2018, the whole world is talking about security tokens.
 
@@ -38,7 +38,5 @@ Crowdinvesting has established itself as alternative financing tool in recent ye
 STOs are therefore simply crowdfunding using blockchain technology. With the advantages that transactions are transparent and secure, payments can be made faster and more efficiently, and switching off intermediaries saves additional costs.
 
 <br>
-
-.
 
 <br>
