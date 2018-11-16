@@ -121,21 +121,11 @@ investors:
       image: /img/startup300_schwarz-neu.png
       link: 'http://startup300.at/'
       name: startup300
-    - description: 'Entrepreneur, consultant and Managing Director of BoYaSTAR GmbH'
-      image: /img/udo-oksakowski-1.jpg
-      link: 'https://www.linkedin.com/in/udo-oksakowski/'
-      name: Udo Georges Oksakowski
     - description: Fund for business financing & strategic development
       image: /img/arax.png
       link: 'http://www.arax.at/'
       name: arax Capital Partners
   quotes:
-    - image: /img/udo-oksakowski-1.jpg
-      name: Udo Georges Oksakowski
-      quote: >-
-        "As an entrepreneur, the sound finance of ventures to strengthen the
-        Central European business location is an important concern to me and to
-        support this mission basis of my participation in the CONDA ICO."
     - image: /img/niko alm kleiner.png
       name: Niko Alm
       quote: >-
