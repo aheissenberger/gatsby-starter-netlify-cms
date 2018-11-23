@@ -33,9 +33,9 @@ To implement these changes and get ready for the three major Token Offerings run
 \
 **Our updated timeline is as follows:**
 
-*   End Pre-Sale: August 3rd
-*   Start Security/Equity Token Offerings by our clients: Q4 2018 (expected)
-*   Start Crowd-Sale (planned): December 2018
+* End Pre-Sale: August 3rd
+* Start Security/Equity Token Offerings by our clients: Q4 2018 (expected)
+* Start Crowd-Sale: to be announced
 
 And one last thing: we are proud to announce that ICONIC Capital invested in our ICO and will join the CRWD Network. The CEO of ICONIC, Chris Miess, will join our Board of Advisors, supporting us with his vast experience and network.
 
