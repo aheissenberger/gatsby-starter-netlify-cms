@@ -281,3 +281,9 @@
     display: none;
   }
 }
+
+.ico-details {
+  .ico-list li:nth-child(even):after {
+    background-color: #4d5b81; // this resets color of the line between crowdsale start and token activation
+  }
+}

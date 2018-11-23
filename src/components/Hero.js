@@ -148,7 +148,7 @@ const Hero = class extends React.Component {
                   )}
                   {break_starttime && (
                     <div>
-                      <p>Crowd-Sale starts in December 2018.</p>
+                      <p>Crowd-Sale starting soon</p>
                     </div>
                   )}
 
