@@ -103,7 +103,7 @@ export const TokenSectionTemplate = ({
                 <img src={icoicon02Image} alt="icon" />
               </span>
               {!break_starttime && (<React.Fragment><h3>June 4, 2018</h3><p>Pre-sale start date</p></React.Fragment>)}
-              {break_starttime && (<React.Fragment><h3>Dec 2018</h3><p>Crowd-Sale start date</p></React.Fragment>)}
+              {break_starttime && (<React.Fragment><h3>to be announced</h3><p>Crowd-Sale start date</p></React.Fragment>)}
             </li>
             <li className="col-sm-12 col-md-6 col-lg-3">
               <span className="icon-block">
