@@ -22,7 +22,7 @@ Next in the program was the panel discussion with Oliver Stauber from [Jarolim P
 
 When Daniel asked the panel a final question, the audience literally froze, and you could almost hear a pin drop:
 
-## “How is the crypto market developing?”
+## “How is the crypto market going to develop?”
 
 Well, if you want to know the experts’ opinion, you should have attended our event! We just give you this one hint from Dusica “there will be ups and downs”.
 
