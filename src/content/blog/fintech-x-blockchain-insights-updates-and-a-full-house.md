@@ -33,13 +33,13 @@ The final pitch by Paul Pöltner was all about the [CRWDNetwork](https://ico.con
 
 Big applause! 😊
 
-Before Daniel L. and Michael from ANON closed the (official part of the) event, Chris Miess and Anita Posch took the chance to introduce the recently founded [DAAA (Digital Asset Association Austria)](https://daaa.at/), which is committed to the sustainable development of the ecosystem for digital assets in Austria.
+Before Daniel L. and Michael from ANON closed the (official part of the) event, Chris Miess and Anita Posch took the chance to introduce the recently founded [DAAA (Digital Asset Association Austria)](https://daaa.at/), which is committed to the sustainable development of the ecosystem for digital assets in Austria. [Download the presentation here.](https://ico.conda.online/img/daaa-deck.pdf)
 
 Looking back, we are excited and super happy about the large number of people who made it to our event – on a Friday evening – and the positive response we got. So, thanks to everybody who made the evening successful!
 
 <br>
 
-![](/img/album_link_photo.png)
+![null](/img/album_link_photo.png)
 
 [Click HERE to see the entire Facebook Album.](https://www.facebook.com/media/set/?set=a.519593031888422&type=1&l=2c11579625)
 
