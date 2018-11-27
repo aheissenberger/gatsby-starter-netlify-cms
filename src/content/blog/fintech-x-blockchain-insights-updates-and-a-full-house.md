@@ -12,6 +12,8 @@ description: >-
   pitches.
 image: /img/panel.jpg
 ---
+<style>.blog__details--content img {width: 100%!important;max-width:100%!important;margin-right:0; }</style>
+
 Last Friday, November 23rd we hosted an event as part of the [FinTech Week Vienna 2018](https://viennabusinessagency.at/events/1611-2311-fintech-week-vienna-2018-784/) together with [ANON Blockchain Summit](https://www.blockchainsummitaustria.com/). Roughly 150 people signed-up and we were overwhelmed with the huge interest in our event and the entire topic.
 
 After a short intro and warm welcome from Daniel Horak, where he also interviewed co-host Daniel Lenikus about the upcoming ANON Blockchain Summit Austria in April 2019, [Dusica Lukac](https://www.linkedin.com/in/dusicalukac/) held a very interesting keynote. The professional and MBA-qualified financial investment strategist, and longtime fintech expert talked about the future of the fintech industry and which part blockchain technology is going to play in it. [Check out her presentation here](https://ico.conda.online/img/fintech%20x%20blockchain_dusica_%20112018.pdf).
