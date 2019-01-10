@@ -27,8 +27,8 @@ We recognize the Internet Ombudsman as extrajudicial dispute resolution in: Inte
 
 **Account details:**\
 Depositor: CONDA AG\
-IBAN: AT111500004351444551\
-BIC: OBKLAT2L
+IBAN: AT86 2011 1839 6248 4502 \
+BIC: GIBAATWWXXX
 
 ## Customer service
 
