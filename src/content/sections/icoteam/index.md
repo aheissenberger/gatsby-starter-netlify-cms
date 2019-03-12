@@ -72,7 +72,7 @@ team:
       name: Michael Lipper
     - description: White Label Partner Manager
       image: /img/michael_gartner.png
-      link: 'https://www.linkedin.com/in/erika-boon-97b96238/'
+      link: ''
       name: Michael Gartner
     - description: Investor Relations Manager
       image: /img/maria_kopp.png
