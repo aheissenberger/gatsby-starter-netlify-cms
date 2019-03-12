@@ -88,10 +88,6 @@ team:
     - description: Business Analyst
       image: /img/hannes.jpg
       name: Hannes Reithuber
-    - description: Controller
-      image: /img/timea.jpg
-      link: 'https://www.linkedin.com/in/timea-lugosi-a3b35978/'
-      name: Timea Lugosi
     - description: Business Development Manager
       image: /img/mab 03.jpg
       link: 'https://www.linkedin.com/in/matthias-bruck-78184b/'
