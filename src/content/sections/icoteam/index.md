@@ -71,7 +71,7 @@ team:
       link: 'https://www.linkedin.com/in/michaellipper/'
       name: Michael Lipper
     - description: White Label Partner Manager
-      image: /img/michael_gartner.png
+      image: /img/michael_gartner_160px.png
       link: ''
       name: Michael Gartner
     - description: Investor Relations Manager
