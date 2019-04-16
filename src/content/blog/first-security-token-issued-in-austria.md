@@ -11,12 +11,13 @@ description: >-
   in Austria by Blockpit, using the CRWDNetwork-infrastructure.
 image: /img/_mg_0445.jpg
 ---
+<style>.blog__details--content img {width: 100%!important;max-width:100%!important;margin-right:0; }</style>
+
 ## We are very proud to announce, that the first ever Security Token was issued in Austria by [Blockpit](https://blockpit.io/), using the CRWDNetwork-infrastructure.
 
 ![Blockpit Security Token Offering using CRWDNetwork infrastructure](/img/_mg_0445.jpg)
 
 from left: Lukas Praml von Y[OUNIQX Identity AG ](https://www.mia.at/)I Florian Wimmer von [Blockpit](https://blockpit.io/) I Daniel Horak und Paul Poeltner von CONDA  I  photo credit: Johnny Be Good
-
 
 </br>
 
